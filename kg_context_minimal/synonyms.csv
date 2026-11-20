@@ -1,0 +1,1884 @@
+node_id,label,name,term
+MONDO:0005071,Disease,Essential hypertension,essential hypertension
+MONDO:0005311,Disease,Hyperlipidemia,hyperlipidemia
+MONDO:0005010,Disease,Coronary artery disease,coronary artery disease
+MONDO:0005252,Disease,Heart failure,heart failure
+MONDO:0004981,Disease,Atrial fibrillation,atrial fibrillation
+MONDO:0005148,Disease,Type 2 diabetes mellitus,type 2 diabetes mellitus
+MONDO:0004784,Disease,Hypothyroidism,hypothyroidism
+MONDO:0011122,Disease,Obesity,obesity
+MONDO:0005300,Disease,Vitamin D deficiency,vitamin d deficiency
+MONDO:0005812,Disease,Gout,gout
+MONDO:0004979,Disease,Asthma,asthma
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,chronic obstructive pulmonary disease
+MONDO:0005373,Disease,Allergic rhinitis,allergic rhinitis
+MONDO:0005240,Disease,Acute upper respiratory infection,acute upper respiratory infection
+MONDO:0005697,Disease,Acute bronchitis,acute bronchitis
+MONDO:0005249,Disease,Pneumonia,pneumonia
+MONDO:0005244,Disease,Urinary tract infection,urinary tract infection
+MONDO:0005810,Disease,Influenza,influenza
+MONDO:0100096,Disease,COVID-19,covid 19
+MONDO:0000305,Disease,Acute pharyngitis,acute pharyngitis
+MONDO:0005560,Disease,Gastroenteritis,gastroenteritis
+MONDO:0007186,Disease,Gastro-esophageal reflux disease,gastro esophageal reflux disease
+MONDO:0005265,Disease,Irritable bowel syndrome,irritable bowel syndrome
+MONDO:0005114,Disease,Peptic ulcer disease,peptic ulcer disease
+MONDO:0005130,Disease,Celiac disease,celiac disease
+MONDO:0004972,Disease,Crohn's disease,crohns disease
+MONDO:0004651,Disease,Low back pain,low back pain
+MONDO:0005178,Disease,Osteoarthritis,osteoarthritis
+MONDO:0008383,Disease,Rheumatoid arthritis,rheumatoid arthritis
+MONDO:0005206,Disease,Osteoporosis,osteoporosis
+MONDO:0005072,Disease,Migraine,migraine
+MONDO:0021668,Disease,Tension-type headache,tension type headache
+MONDO:0005027,Disease,Epilepsy,epilepsy
+MONDO:0004975,Disease,Alzheimer's disease,alzheimers disease
+MONDO:0005180,Disease,Parkinson's disease,parkinsons disease
+MONDO:0004980,Disease,Atopic dermatitis,atopic dermatitis
+MONDO:0005093,Disease,Psoriasis,psoriasis
+MONDO:0005342,Disease,Acne vulgaris,acne vulgaris
+MONDO:0002115,Disease,Contact dermatitis,contact dermatitis
+MONDO:0005308,Disease,Chronic kidney disease,chronic kidney disease
+MONDO:0006659,Disease,Benign prostatic hyperplasia,benign prostatic hyperplasia
+MONDO:0005273,Disease,Endometriosis,endometriosis
+MONDO:0005204,Disease,Polycystic ovary syndrome,polycystic ovary syndrome
+MONDO:0005315,Disease,Iron deficiency anemia,iron deficiency anemia
+MONDO:0005165,Disease,Glaucoma,glaucoma
+MONDO:0005071,Disease,Essential hypertension,hypertension
+MONDO:0005071,Disease,Essential hypertension,high blood pressure
+MONDO:0005071,Disease,Essential hypertension,high bp
+MONDO:0005071,Disease,Essential hypertension,bp
+MONDO:0005311,Disease,Hyperlipidemia,high cholesterol
+MONDO:0005311,Disease,Hyperlipidemia,cholesterol
+MONDO:0005311,Disease,Hyperlipidemia,hypercholesterolemia
+MONDO:0005010,Disease,Coronary artery disease,heart disease
+MONDO:0005010,Disease,Coronary artery disease,coronary heart disease
+MONDO:0005010,Disease,Coronary artery disease,cad
+MONDO:0005010,Disease,Coronary artery disease,ischemic heart disease
+MONDO:0005252,Disease,Heart failure,chf
+MONDO:0005252,Disease,Heart failure,congestive heart failure
+MONDO:0005252,Disease,Heart failure,cardiac failure
+MONDO:0004981,Disease,Atrial fibrillation,afib
+MONDO:0004981,Disease,Atrial fibrillation,a fib
+MONDO:0004981,Disease,Atrial fibrillation,irregular heartbeat
+MONDO:0005148,Disease,Type 2 diabetes mellitus,diabetes
+MONDO:0005148,Disease,Type 2 diabetes mellitus,type 2 diabetes
+MONDO:0005148,Disease,Type 2 diabetes mellitus,t2dm
+MONDO:0005148,Disease,Type 2 diabetes mellitus,t2d
+MONDO:0005148,Disease,Type 2 diabetes mellitus,sugar
+MONDO:0005148,Disease,Type 2 diabetes mellitus,high blood sugar
+MONDO:0005148,Disease,Type 2 diabetes mellitus,diabetes mellitus
+MONDO:0004784,Disease,Hypothyroidism,underactive thyroid
+MONDO:0004784,Disease,Hypothyroidism,low thyroid
+MONDO:0011122,Disease,Obesity,overweight
+MONDO:0011122,Disease,Obesity,obese
+MONDO:0005300,Disease,Vitamin D deficiency,low vitamin d
+MONDO:0005300,Disease,Vitamin D deficiency,vit d deficiency
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,copd
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,emphysema
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,chronic bronchitis
+MONDO:0005240,Disease,Acute upper respiratory infection,common cold
+MONDO:0005240,Disease,Acute upper respiratory infection,a cold
+MONDO:0005240,Disease,Acute upper respiratory infection,upper respiratory infection
+MONDO:0005240,Disease,Acute upper respiratory infection,uri
+MONDO:0005697,Disease,Acute bronchitis,bronchitis
+MONDO:0005697,Disease,Acute bronchitis,chest cold
+MONDO:0005373,Disease,Allergic rhinitis,hay fever
+MONDO:0005373,Disease,Allergic rhinitis,nasal allergy
+MONDO:0005373,Disease,Allergic rhinitis,allergies
+MONDO:0005249,Disease,Pneumonia,lung infection
+MONDO:0005810,Disease,Influenza,flu
+MONDO:0100096,Disease,COVID-19,covid
+MONDO:0100096,Disease,COVID-19,coronavirus
+MONDO:0100096,Disease,COVID-19,sars cov 2
+MONDO:0000305,Disease,Acute pharyngitis,strep throat
+MONDO:0000305,Disease,Acute pharyngitis,pharyngitis
+MONDO:0000305,Disease,Acute pharyngitis,throat infection
+MONDO:0005560,Disease,Gastroenteritis,stomach flu
+MONDO:0005560,Disease,Gastroenteritis,stomach bug
+MONDO:0005560,Disease,Gastroenteritis,tummy bug
+MONDO:0005244,Disease,Urinary tract infection,uti
+MONDO:0005244,Disease,Urinary tract infection,bladder infection
+MONDO:0005244,Disease,Urinary tract infection,urine infection
+MONDO:0007186,Disease,Gastro-esophageal reflux disease,gerd
+MONDO:0007186,Disease,Gastro-esophageal reflux disease,acid reflux
+MONDO:0007186,Disease,Gastro-esophageal reflux disease,reflux
+MONDO:0005265,Disease,Irritable bowel syndrome,ibs
+MONDO:0005114,Disease,Peptic ulcer disease,stomach ulcer
+MONDO:0005114,Disease,Peptic ulcer disease,peptic ulcer
+MONDO:0005114,Disease,Peptic ulcer disease,ulcer
+MONDO:0005130,Disease,Celiac disease,coeliac disease
+MONDO:0005130,Disease,Celiac disease,coeliac
+MONDO:0005130,Disease,Celiac disease,celiac
+MONDO:0004972,Disease,Crohn's disease,crohns
+MONDO:0004972,Disease,Crohn's disease,crohn disease
+MONDO:0004651,Disease,Low back pain,lower back pain
+MONDO:0005178,Disease,Osteoarthritis,wear and tear arthritis
+MONDO:0008383,Disease,Rheumatoid arthritis,rheumatoid
+MONDO:0005206,Disease,Osteoporosis,brittle bones
+MONDO:0005072,Disease,Migraine,migraines
+MONDO:0021668,Disease,Tension-type headache,tension headache
+MONDO:0005027,Disease,Epilepsy,epileptic
+MONDO:0005027,Disease,Epilepsy,seizure disorder
+MONDO:0004975,Disease,Alzheimer's disease,alzheimers
+MONDO:0004975,Disease,Alzheimer's disease,alzheimer
+MONDO:0005180,Disease,Parkinson's disease,parkinsons
+MONDO:0005180,Disease,Parkinson's disease,parkinson
+MONDO:0004980,Disease,Atopic dermatitis,atopic eczema
+MONDO:0005342,Disease,Acne vulgaris,acne
+MONDO:0005342,Disease,Acne vulgaris,pimples
+MONDO:0005308,Disease,Chronic kidney disease,ckd
+MONDO:0005308,Disease,Chronic kidney disease,kidney disease
+MONDO:0005308,Disease,Chronic kidney disease,chronic renal failure
+MONDO:0006659,Disease,Benign prostatic hyperplasia,bph
+MONDO:0006659,Disease,Benign prostatic hyperplasia,enlarged prostate
+MONDO:0005204,Disease,Polycystic ovary syndrome,pcos
+MONDO:0005204,Disease,Polycystic ovary syndrome,polycystic ovaries
+MONDO:0005315,Disease,Iron deficiency anemia,anemia
+MONDO:0005315,Disease,Iron deficiency anemia,anaemia
+MONDO:0005315,Disease,Iron deficiency anemia,iron deficiency
+MONDO:0005315,Disease,Iron deficiency anemia,low iron
+HP:0000012,Symptom,Urinary urgency,urinary urgency
+HP:0000012,Symptom,Urinary urgency,overactive bladder
+HP:0000012,Symptom,Urinary urgency,urgent micturition
+HP:0000016,Symptom,Incomplete bladder emptying,incomplete bladder emptying
+HP:0000016,Symptom,Incomplete bladder emptying,urinary retention
+HP:0000016,Symptom,Incomplete bladder emptying,increased post void residual urine volume
+HP:0000017,Symptom,Nocturia,nocturia
+HP:0000017,Symptom,Nocturia,nycturia
+HP:0000019,Symptom,Urinary hesitancy,urinary hesitancy
+HP:0000019,Symptom,Urinary hesitancy,difficulty with flow
+HP:0000103,Symptom,Excessive urination,excessive urination
+HP:0000103,Symptom,Excessive urination,polyuria
+HP:0000103,Symptom,Excessive urination,increased urine output
+HP:0000132,Symptom,Menorrhagia,menorrhagia
+HP:0000132,Symptom,Menorrhagia,abnormally heavy bleeding during menstruation
+HP:0000132,Symptom,Menorrhagia,abnormally heavy periods
+HP:0000132,Symptom,Menorrhagia,hypermenorrhea
+HP:0000458,Symptom,Loss of smell,loss of smell
+HP:0000458,Symptom,Loss of smell,anosmia
+HP:0000458,Symptom,Loss of smell,lost smell
+HP:0000613,Symptom,Photophobia,photophobia
+HP:0000613,Symptom,Photophobia,extreme sensitivity of the eyes to light
+HP:0000613,Symptom,Photophobia,light hypersensitivity
+HP:0000613,Symptom,Photophobia,photodysphoria
+HP:0000622,Symptom,Blurred vision,blurred vision
+HP:0000741,Symptom,Apathy,apathy
+HP:0000741,Symptom,Apathy,lack of feeling emotion interest
+HP:0000741,Symptom,Apathy,lack of feeling emotion interest motivation initiation
+HP:0000741,Symptom,Apathy,state of indifference
+HP:0000789,Symptom,Infertility,infertility
+HP:0000790,Symptom,Hematuria,hematuria
+HP:0000790,Symptom,Hematuria,blood in urine
+HP:0000858,Symptom,Irregular menstruation,irregular menstruation
+HP:0000858,Symptom,Irregular menstruation,irregular menses
+HP:0000858,Symptom,Irregular menstruation,irregular periods
+HP:0000858,Symptom,Irregular menstruation,menstrual irregularities
+HP:0000858,Symptom,Irregular menstruation,menstrual irregularity
+HP:0000958,Symptom,Dry skin,dry skin
+HP:0000958,Symptom,Dry skin,xerosis
+HP:0000964,Symptom,Eczema,eczema
+HP:0000964,Symptom,Eczema,eczematoid dermatitis
+HP:0000980,Symptom,Pallor,pallor
+HP:0000988,Symptom,Skin rash,skin rash
+HP:0000989,Symptom,Itching,itching
+HP:0000989,Symptom,Itching,pruritus
+HP:0000989,Symptom,Itching,itchy skin
+HP:0000989,Symptom,Itching,skin itching
+HP:0001007,Symptom,Hirsutism,hirsutism
+HP:0001007,Symptom,Hirsutism,excessive hairiness
+HP:0001058,Symptom,Poor wound healing,poor wound healing
+HP:0001061,Symptom,Acne,acne
+HP:0001123,Symptom,Loss of side vision,loss of side vision
+HP:0001123,Symptom,Loss of side vision,visual field defect
+HP:0001123,Symptom,Loss of side vision,partial loss of field of vision
+HP:0001123,Symptom,Loss of side vision,visual field defects
+HP:0001250,Symptom,Seizure,seizure
+HP:0001250,Symptom,Seizure,epileptic seizure
+HP:0001250,Symptom,Seizure,seizures
+HP:0001289,Symptom,Confusion,confusion
+HP:0001289,Symptom,Confusion,disorientation
+HP:0001289,Symptom,Confusion,easily confused
+HP:0001289,Symptom,Confusion,mental disorientation
+HP:0001324,Symptom,Muscle weakness,muscle weakness
+HP:0001324,Symptom,Muscle weakness,muscular weakness
+HP:0001376,Symptom,Limitation of joint mobility,limitation of joint mobility
+HP:0001376,Symptom,Limitation of joint mobility,decreased joint mobility
+HP:0001376,Symptom,Limitation of joint mobility,decreased mobility of joints
+HP:0001376,Symptom,Limitation of joint mobility,limited joint mobility
+HP:0001376,Symptom,Limitation of joint mobility,limited joint motion
+HP:0001386,Symptom,Joint swelling,joint swelling
+HP:0001387,Symptom,Joint stiffness,joint stiffness
+HP:0001387,Symptom,Joint stiffness,stiff joint
+HP:0001387,Symptom,Joint stiffness,stiff joints
+HP:0001681,Symptom,Angina (chest pain on exertion),angina chest pain on exertion
+HP:0001681,Symptom,Angina (chest pain on exertion),angina pectoris
+HP:0001742,Symptom,Nasal congestion,nasal congestion
+HP:0001742,Symptom,Nasal congestion,blockage of nose
+HP:0001742,Symptom,Nasal congestion,nasal blockage
+HP:0001742,Symptom,Nasal congestion,nasal obstruction
+HP:0001742,Symptom,Nasal congestion,obstruction of nose
+HP:0001742,Symptom,Nasal congestion,stuffy nose
+HP:0001803,Symptom,Nail pits,nail pits
+HP:0001803,Symptom,Nail pits,nail pitting
+HP:0001803,Symptom,Nail pits,pitted nails
+HP:0001824,Symptom,Weight loss,weight loss
+HP:0001824,Symptom,Weight loss,loss of weight
+HP:0001854,Symptom,Big toe joint pain (podagra),big toe joint pain podagra
+HP:0001854,Symptom,Big toe joint pain (podagra),podagra
+HP:0001854,Symptom,Big toe joint pain (podagra),gout of big toe
+HP:0001945,Symptom,Fever,fever
+HP:0001945,Symptom,Fever,hyperthermia
+HP:0001945,Symptom,Fever,pyrexia
+HP:0001959,Symptom,Excessive thirst,excessive thirst
+HP:0001959,Symptom,Excessive thirst,polydipsia
+HP:0001959,Symptom,Excessive thirst,extreme thirst
+HP:0001962,Symptom,Palpitations,palpitations
+HP:0001962,Symptom,Palpitations,heart palpitations
+HP:0001962,Symptom,Palpitations,missed heart beat
+HP:0001962,Symptom,Palpitations,skipped heart beat
+HP:0002013,Symptom,Vomiting,vomiting
+HP:0002013,Symptom,Vomiting,emesis
+HP:0002013,Symptom,Vomiting,throwing up
+HP:0002014,Symptom,Diarrhea,diarrhea
+HP:0002014,Symptom,Diarrhea,diarrhoea
+HP:0002014,Symptom,Diarrhea,watery stool
+HP:0002015,Symptom,Dysphagia,dysphagia
+HP:0002015,Symptom,Dysphagia,difficulty swallowing
+HP:0002015,Symptom,Dysphagia,poor swallowing
+HP:0002015,Symptom,Dysphagia,swallowing difficulties
+HP:0002015,Symptom,Dysphagia,swallowing difficulty
+HP:0002018,Symptom,Nausea,nausea
+HP:0002019,Symptom,Constipation,constipation
+HP:0002019,Symptom,Constipation,costiveness
+HP:0002019,Symptom,Constipation,dyschezia
+HP:0002020,Symptom,Heartburn,heartburn
+HP:0002020,Symptom,Heartburn,gastroesophageal reflux
+HP:0002020,Symptom,Heartburn,acid reflux
+HP:0002020,Symptom,Heartburn,acid reflux disease
+HP:0002020,Symptom,Heartburn,gastro esophageal reflux
+HP:0002020,Symptom,Heartburn,gastro oesophageal reflux
+HP:0002020,Symptom,Heartburn,gastroesophageal reflux disease
+HP:0002020,Symptom,Heartburn,gerd
+HP:0002020,Symptom,Heartburn,gord
+HP:0002027,Symptom,Abdominal pain,abdominal pain
+HP:0002027,Symptom,Abdominal pain,pain in stomach
+HP:0002027,Symptom,Abdominal pain,stomach pain
+HP:0002039,Symptom,Loss of appetite,loss of appetite
+HP:0002039,Symptom,Loss of appetite,anorexia
+HP:0002039,Symptom,Loss of appetite,deliberately not eating
+HP:0002039,Symptom,Loss of appetite,obsessive dieting
+HP:0002039,Symptom,Loss of appetite,refusing to eat
+HP:0002063,Symptom,Rigidity,rigidity
+HP:0002063,Symptom,Rigidity,muscle rigidity
+HP:0002067,Symptom,Bradykinesia,bradykinesia
+HP:0002067,Symptom,Bradykinesia,slow movements
+HP:0002067,Symptom,Bradykinesia,slowness of movements
+HP:0002094,Symptom,Shortness of breath,shortness of breath
+HP:0002094,Symptom,Shortness of breath,dyspnea
+HP:0002094,Symptom,Shortness of breath,abnormal breathing
+HP:0002094,Symptom,Shortness of breath,breathing difficulty
+HP:0002094,Symptom,Shortness of breath,difficult to breathe
+HP:0002094,Symptom,Shortness of breath,difficulty breathing
+HP:0002094,Symptom,Shortness of breath,dyspnoea
+HP:0002094,Symptom,Shortness of breath,trouble breathing
+HP:0002172,Symptom,Postural instability,postural instability
+HP:0002172,Symptom,Postural instability,balance impairment
+HP:0002183,Symptom,Phonophobia,phonophobia
+HP:0002183,Symptom,Phonophobia,fear of loud sounds
+HP:0002249,Symptom,Black stools,black stools
+HP:0002249,Symptom,Black stools,melena
+HP:0002315,Symptom,Headache,headache
+HP:0002315,Symptom,Headache,headaches
+HP:0002321,Symptom,Dizziness,dizziness
+HP:0002321,Symptom,Dizziness,vertigo
+HP:0002321,Symptom,Dizziness,dizzy spell
+HP:0002322,Symptom,Resting tremor,resting tremor
+HP:0002322,Symptom,Resting tremor,rest tremor
+HP:0002322,Symptom,Resting tremor,tremor at rest
+HP:0002354,Symptom,Memory impairment,memory impairment
+HP:0002354,Symptom,Memory impairment,amnesia
+HP:0002354,Symptom,Memory impairment,forgetfulness
+HP:0002354,Symptom,Memory impairment,memory loss
+HP:0002354,Symptom,Memory impairment,memory problems
+HP:0002354,Symptom,Memory impairment,poor memory
+HP:0002362,Symptom,Shuffling gait,shuffling gait
+HP:0002362,Symptom,Shuffling gait,shuffled walk
+HP:0002463,Symptom,Language impairment,language impairment
+HP:0002463,Symptom,Language impairment,language disorder
+HP:0002591,Symptom,Excessive hunger,excessive hunger
+HP:0002591,Symptom,Excessive hunger,polyphagia
+HP:0002591,Symptom,Excessive hunger,hyperphagia
+HP:0002591,Symptom,Excessive hunger,voracious appetite
+HP:0002653,Symptom,Bone pain,bone pain
+HP:0002659,Symptom,Easy fractures,easy fractures
+HP:0002659,Symptom,Easy fractures,increased susceptibility to fractures
+HP:0002659,Symptom,Easy fractures,abnormal susceptibility to fractures
+HP:0002659,Symptom,Easy fractures,bone fragility
+HP:0002659,Symptom,Easy fractures,frequent broken bones
+HP:0002659,Symptom,Easy fractures,increased bone fragility
+HP:0002659,Symptom,Easy fractures,increased tendency to fractures
+HP:0002808,Symptom,Kyphosis,kyphosis
+HP:0002808,Symptom,Kyphosis,gibbus deformity
+HP:0002808,Symptom,Kyphosis,hunched back
+HP:0002808,Symptom,Kyphosis,hyperkyphosis
+HP:0002808,Symptom,Kyphosis,round back
+HP:0002829,Symptom,Joint pain,joint pain
+HP:0002829,Symptom,Joint pain,arthralgia
+HP:0002829,Symptom,Joint pain,arthralgias
+HP:0002875,Symptom,Shortness of breath on exertion,shortness of breath on exertion
+HP:0002875,Symptom,Shortness of breath on exertion,exertional dyspnea
+HP:0002875,Symptom,Shortness of breath on exertion,exertional breathlessness
+HP:0002875,Symptom,Shortness of breath on exertion,exertional dyspnoea
+HP:0002875,Symptom,Shortness of breath on exertion,shortness of breathing upon physical activity
+HP:0003270,Symptom,Bloating,bloating
+HP:0003270,Symptom,Bloating,abdominal distention
+HP:0003270,Symptom,Bloating,abdominal bloating
+HP:0003270,Symptom,Bloating,abdominal distension
+HP:0003270,Symptom,Bloating,abdominal swelling
+HP:0003270,Symptom,Bloating,belly bloating
+HP:0003270,Symptom,Bloating,distended abdomen
+HP:0003326,Symptom,Myalgia,myalgia
+HP:0003326,Symptom,Myalgia,muscle ache
+HP:0003326,Symptom,Myalgia,muscle pain
+HP:0003394,Symptom,Muscle spasm,muscle spasm
+HP:0003394,Symptom,Muscle spasm,muscle cramps
+HP:0003394,Symptom,Muscle spasm,muscle spasms
+HP:0003418,Symptom,Back pain,back pain
+HP:0004324,Symptom,Weight gain,weight gain
+HP:0004324,Symptom,Weight gain,increased body weight
+HP:0007185,Symptom,Loss of consciousness,loss of consciousness
+HP:0007185,Symptom,Loss of consciousness,fainting
+HP:0007185,Symptom,Loss of consciousness,passing out
+HP:0009926,Symptom,Watery eyes,watery eyes
+HP:0009926,Symptom,Watery eyes,epiphora
+HP:0009926,Symptom,Watery eyes,increased lacrimation
+HP:0009926,Symptom,Watery eyes,increased tears
+HP:0009926,Symptom,Watery eyes,tearing
+HP:0010783,Symptom,Skin redness,skin redness
+HP:0010783,Symptom,Skin redness,erythema
+HP:0010783,Symptom,Skin redness,redness of skin or mucous membrane
+HP:0011856,Symptom,Craving non-food items (pica),craving non food items pica
+HP:0011856,Symptom,Craving non-food items (pica),pica
+HP:0012378,Symptom,Fatigue,fatigue
+HP:0012378,Symptom,Fatigue,tired
+HP:0012378,Symptom,Fatigue,tiredness
+HP:0012398,Symptom,Peripheral edema,peripheral edema
+HP:0012398,Symptom,Peripheral edema,peripheral oedema
+HP:0012735,Symptom,Cough,cough
+HP:0012735,Symptom,Cough,coughing
+HP:0012764,Symptom,Breathlessness when lying down,breathlessness when lying down
+HP:0012764,Symptom,Breathlessness when lying down,orthopnea
+HP:0025095,Symptom,Sneezing,sneezing
+HP:0025095,Symptom,Sneezing,sneeze
+HP:0025143,Symptom,Chills,chills
+HP:0025249,Symptom,Blackheads/whiteheads,blackheads whiteheads
+HP:0025249,Symptom,Blackheads/whiteheads,comedo
+HP:0025267,Symptom,Snoring,snoring
+HP:0025267,Symptom,Snoring,snore
+HP:0025267,Symptom,Snoring,snores
+HP:0025267,Symptom,Snoring,snoring symptoms
+HP:0025289,Symptom,Swollen neck lymph nodes,swollen neck lymph nodes
+HP:0025289,Symptom,Swollen neck lymph nodes,cervical lymphadenopathy
+HP:0025289,Symptom,Swollen neck lymph nodes,swollen lymph nodes in the neck
+HP:0030016,Symptom,Dyspareunia,dyspareunia
+HP:0030828,Symptom,Wheezing,wheezing
+HP:0030833,Symptom,Neck pain,neck pain
+HP:0031245,Symptom,Productive cough,productive cough
+HP:0031245,Symptom,Productive cough,cough with mucus production
+HP:0031245,Symptom,Productive cough,wet cough
+HP:0031352,Symptom,Chest tightness,chest tightness
+HP:0031352,Symptom,Chest tightness,tightness in chest
+HP:0031352,Symptom,Chest tightness,tightness of chest
+HP:0031417,Symptom,Runny nose,runny nose
+HP:0031417,Symptom,Runny nose,rhinorrhea
+HP:0031417,Symptom,Runny nose,nasal discharge
+HP:0032043,Symptom,Painful swallowing,painful swallowing
+HP:0032043,Symptom,Painful swallowing,odynophagia
+HP:0033050,Symptom,Sore throat,sore throat
+HP:0033050,Symptom,Sore throat,pharyngalgia
+HP:0033050,Symptom,Sore throat,pharyngodynia
+HP:0033050,Symptom,Sore throat,throat discomfort
+HP:0033050,Symptom,Sore throat,throat pain
+HP:0033841,Symptom,Itchy eyes,itchy eyes
+HP:0033841,Symptom,Itchy eyes,ocular pruritus
+HP:0033841,Symptom,Itchy eyes,ocular itch
+HP:0034267,Symptom,Pelvic pain,pelvic pain
+HP:0034267,Symptom,Pelvic pain,pain in the pelvis
+HP:0040189,Symptom,Scaling skin,scaling skin
+HP:0040189,Symptom,Scaling skin,desquamation
+HP:0040189,Symptom,Scaling skin,flaking skin
+HP:0040189,Symptom,Scaling skin,peeling skin
+HP:0040189,Symptom,Scaling skin,scaly skin
+HP:0100515,Symptom,Frequent urination,frequent urination
+HP:0100515,Symptom,Frequent urination,pollakisuria
+HP:0100518,Symptom,Painful urination,painful urination
+HP:0100518,Symptom,Painful urination,dysuria
+HP:0100518,Symptom,Painful urination,painful or difficult urination
+HP:0100520,Symptom,Decreased urine output,decreased urine output
+HP:0100520,Symptom,Decreased urine output,oliguria
+HP:0100607,Symptom,Dysmenorrhea,dysmenorrhea
+HP:0100607,Symptom,Dysmenorrhea,painful menstruation
+HP:0100725,Symptom,Lichenification,lichenification
+HP:0100749,Symptom,Chest pain,chest pain
+HP:0100749,Symptom,Chest pain,thoracic pain
+HP:0200026,Symptom,Eye pain,eye pain
+HP:0200026,Symptom,Eye pain,ocular pain
+HP:0200034,Symptom,Papule,papule
+HP:0200034,Symptom,Papule,papules
+HP:0200039,Symptom,Pustule,pustule
+HP:0200039,Symptom,Pustule,pimple
+HP:0200039,Symptom,Pustule,pustula
+HP:0200039,Symptom,Pustule,pustular lesion
+HP:0200039,Symptom,Pustule,pustules
+HP:0200039,Symptom,Pustule,skin pustule
+HP:0200039,Symptom,Pustule,skin pustules
+HP:0410019,Symptom,Upper abdominal pain,upper abdominal pain
+HP:0410019,Symptom,Upper abdominal pain,epigastric pain
+HP:0410019,Symptom,Upper abdominal pain,epigastrium pain
+HP:6000855,Symptom,Cold intolerance,cold intolerance
+HP:6000855,Symptom,Cold intolerance,cold sensitivity
+HP:0002094,Symptom,Shortness of breath,breathless
+HP:0002094,Symptom,Shortness of breath,breathlessness
+HP:0002094,Symptom,Shortness of breath,cant breathe
+HP:0002094,Symptom,Shortness of breath,cannot breathe
+HP:0002094,Symptom,Shortness of breath,out of breath
+HP:0002094,Symptom,Shortness of breath,short of breath
+HP:0001945,Symptom,Fever,high temperature
+HP:0001945,Symptom,Fever,temperature
+HP:0001945,Symptom,Fever,feverish
+HP:0012378,Symptom,Fatigue,exhausted
+HP:0012378,Symptom,Fatigue,exhaustion
+HP:0012378,Symptom,Fatigue,no energy
+HP:0002315,Symptom,Headache,head ache
+HP:0002315,Symptom,Headache,head pain
+HP:0033050,Symptom,Sore throat,painful throat
+HP:0031417,Symptom,Runny nose,running nose
+HP:0001742,Symptom,Nasal congestion,blocked nose
+HP:0002018,Symptom,Nausea,nauseous
+HP:0002018,Symptom,Nausea,feel sick
+HP:0002018,Symptom,Nausea,feeling sick
+HP:0002013,Symptom,Vomiting,vomit
+HP:0002013,Symptom,Vomiting,being sick
+HP:0002014,Symptom,Diarrhea,loose stools
+HP:0002014,Symptom,Diarrhea,loose motions
+HP:0002027,Symptom,Abdominal pain,stomach ache
+HP:0002027,Symptom,Abdominal pain,tummy pain
+HP:0002027,Symptom,Abdominal pain,belly pain
+HP:0002027,Symptom,Abdominal pain,tummy ache
+HP:0002829,Symptom,Joint pain,aching joints
+HP:0002829,Symptom,Joint pain,painful joints
+HP:0002829,Symptom,Joint pain,joint ache
+HP:0000989,Symptom,Itching,itchy
+HP:0000989,Symptom,Itching,itch
+HP:0100515,Symptom,Frequent urination,peeing a lot
+HP:0100515,Symptom,Frequent urination,urinating often
+HP:0100515,Symptom,Frequent urination,frequent peeing
+HP:0100518,Symptom,Painful urination,burning urine
+HP:0100518,Symptom,Painful urination,burning when peeing
+HP:0100518,Symptom,Painful urination,pain when peeing
+HP:0001959,Symptom,Excessive thirst,very thirsty
+HP:0001959,Symptom,Excessive thirst,always thirsty
+HP:0004324,Symptom,Weight gain,gaining weight
+HP:0004324,Symptom,Weight gain,put on weight
+HP:0001824,Symptom,Weight loss,losing weight
+HP:0001824,Symptom,Weight loss,lost weight
+HP:0002321,Symptom,Dizziness,dizzy
+HP:0002321,Symptom,Dizziness,lightheaded
+HP:0002321,Symptom,Dizziness,light headed
+HP:0001962,Symptom,Palpitations,racing heart
+HP:0001962,Symptom,Palpitations,heart pounding
+HP:0001962,Symptom,Palpitations,heart racing
+HP:0030828,Symptom,Wheezing,wheezy
+HP:0030828,Symptom,Wheezing,wheeze
+HP:0000458,Symptom,Loss of smell,cant smell
+HP:0000458,Symptom,Loss of smell,lost my smell
+HP:0003270,Symptom,Bloating,bloated
+HP:0000988,Symptom,Skin rash,rash
+HP:0012398,Symptom,Peripheral edema,swollen legs
+HP:0012398,Symptom,Peripheral edema,swollen ankles
+HP:0012398,Symptom,Peripheral edema,swollen feet
+HP:0012398,Symptom,Peripheral edema,leg swelling
+HP:0000622,Symptom,Blurred vision,blurry vision
+HP:0002354,Symptom,Memory impairment,forgetful
+HP:0002322,Symptom,Resting tremor,shaking
+HP:0002322,Symptom,Resting tremor,tremor
+HP:0002322,Symptom,Resting tremor,shaky hands
+HP:0031352,Symptom,Chest tightness,tight chest
+DB00047,Medicine,Insulin glargine,insulin glargine
+DB00051,Medicine,Adalimumab,adalimumab
+DB00065,Medicine,Infliximab,infliximab
+DB00153,Medicine,Ergocalciferol,ergocalciferol
+DB00169,Medicine,Cholecalciferol,cholecalciferol
+DB00190,Medicine,Carbidopa,carbidopa
+DB00198,Medicine,Oseltamivir,oseltamivir
+DB00207,Medicine,Azithromycin,azithromycin
+DB00213,Medicine,Pantoprazole,pantoprazole
+DB00252,Medicine,Phenytoin,phenytoin
+DB00254,Medicine,Doxycycline,doxycycline
+DB00264,Medicine,Metoprolol,metoprolol
+DB00273,Medicine,Topiramate,topiramate
+DB00313,Medicine,Valproic acid,valproic acid
+DB00316,Medicine,Acetaminophen,acetaminophen
+DB00321,Medicine,Amitriptyline,amitriptyline
+DB00331,Medicine,Metformin,metformin
+DB00338,Medicine,Omeprazole,omeprazole
+DB00341,Medicine,Cetirizine,cetirizine
+DB00373,Medicine,Timolol,timolol
+DB00381,Medicine,Amlodipine,amlodipine
+DB00390,Medicine,Digoxin,digoxin
+DB00399,Medicine,Zoledronic acid,zoledronic acid
+DB00413,Medicine,Pramipexole,pramipexole
+DB00417,Medicine,Phenoxymethylpenicillin,phenoxymethylpenicillin
+DB00421,Medicine,Spironolactone,spironolactone
+DB00437,Medicine,Allopurinol,allopurinol
+DB00440,Medicine,Trimethoprim,trimethoprim
+DB00451,Medicine,Levothyroxine,levothyroxine
+DB00455,Medicine,Loratadine,loratadine
+DB00471,Medicine,Montelukast,montelukast
+DB00484,Medicine,Brimonidine,brimonidine
+DB00503,Medicine,Ritonavir,ritonavir
+DB00555,Medicine,Lamotrigine,lamotrigine
+DB00558,Medicine,Zanamivir,zanamivir
+DB00563,Medicine,Methotrexate,methotrexate
+DB00564,Medicine,Carbamazepine,carbamazepine
+DB00571,Medicine,Propranolol,propranolol
+DB00586,Medicine,Diclofenac,diclofenac
+DB00588,Medicine,Fluticasone propionate,fluticasone propionate
+DB00603,Medicine,Medroxyprogesterone acetate,medroxyprogesterone acetate
+DB00630,Medicine,Alendronic acid,alendronic acid
+DB00635,Medicine,Prednisone,prednisone
+DB00641,Medicine,Simvastatin,simvastatin
+DB00654,Medicine,Latanoprost,latanoprost
+DB00669,Medicine,Sumatriptan,sumatriptan
+DB00674,Medicine,Galantamine,galantamine
+DB00678,Medicine,Losartan,losartan
+DB00682,Medicine,Warfarin,warfarin
+DB00695,Medicine,Furosemide,furosemide
+DB00698,Medicine,Nitrofurantoin,nitrofurantoin
+DB00706,Medicine,Tamsulosin,tamsulosin
+DB00717,Medicine,Norethisterone,norethisterone
+DB00722,Medicine,Lisinopril,lisinopril
+DB00727,Medicine,Nitroglycerin,nitroglycerin
+DB00741,Medicine,Hydrocortisone,hydrocortisone
+DB00755,Medicine,Tretinoin,tretinoin
+DB00758,Medicine,Clopidogrel,clopidogrel
+DB00788,Medicine,Naproxen,naproxen
+DB00795,Medicine,Sulfasalazine,sulfasalazine
+DB00804,Medicine,Dicyclomine,dicyclomine
+DB00828,Medicine,Fosfomycin,fosfomycin
+DB00836,Medicine,Loperamide,loperamide
+DB00843,Medicine,Donepezil,donepezil
+DB00864,Medicine,Tacrolimus,tacrolimus
+DB00869,Medicine,Dorzolamide,dorzolamide
+DB00884,Medicine,Risedronic acid,risedronic acid
+DB00904,Medicine,Ondansetron,ondansetron
+DB00916,Medicine,Metronidazole,metronidazole
+DB00924,Medicine,Cyclobenzaprine,cyclobenzaprine
+DB00927,Medicine,Famotidine,famotidine
+DB00938,Medicine,Salmeterol,salmeterol
+DB00945,Medicine,Aspirin,aspirin
+DB00973,Medicine,Ezetimibe,ezetimibe
+DB00977,Medicine,Ethinylestradiol,ethinylestradiol
+DB00982,Medicine,Isotretinoin,isotretinoin
+DB00989,Medicine,Rivastigmine,rivastigmine
+DB00993,Medicine,Azathioprine,azathioprine
+DB00999,Medicine,Hydrochlorothiazide,hydrochlorothiazide
+DB01001,Medicine,Albuterol,albuterol
+DB01006,Medicine,Letrozole,letrozole
+DB01013,Medicine,Clobetasol propionate,clobetasol propionate
+DB01015,Medicine,Sulfamethoxazole,sulfamethoxazole
+DB01033,Medicine,Mercaptopurine,mercaptopurine
+DB01043,Medicine,Memantine,memantine
+DB01050,Medicine,Ibuprofen,ibuprofen
+DB01060,Medicine,Amoxicillin,amoxicillin
+DB01076,Medicine,Atorvastatin,atorvastatin
+DB01083,Medicine,Orlistat,orlistat
+DB01104,Medicine,Sertraline,sertraline
+DB01136,Medicine,Carvedilol,carvedilol
+DB01202,Medicine,Levetiracetam,levetiracetam
+DB01211,Medicine,Clarithromycin,clarithromycin
+DB01212,Medicine,Ceftriaxone,ceftriaxone
+DB01216,Medicine,Finasteride,finasteride
+DB01222,Medicine,Budesonide,budesonide
+DB01234,Medicine,Dexamethasone,dexamethasone
+DB01235,Medicine,Levodopa,levodopa
+DB01261,Medicine,Sitagliptin,sitagliptin
+DB01367,Medicine,Rasagiline,rasagiline
+DB01394,Medicine,Colchicine,colchicine
+DB01409,Medicine,Tiotropium,tiotropium
+DB01611,Medicine,Hydroxychloroquine,hydroxychloroquine
+DB02300,Medicine,Calcipotriol,calcipotriol
+DB04854,Medicine,Febuxostat,febuxostat
+DB06292,Medicine,Dapagliflozin,dapagliflozin
+DB06605,Medicine,Apixaban,apixaban
+DB06643,Medicine,Denosumab,denosumab
+DB06655,Medicine,Liraglutide,liraglutide
+DB08890,Medicine,Linaclotide,linaclotide
+DB09038,Medicine,Empagliflozin,empagliflozin
+DB09096,Medicine,Benzoyl peroxide,benzoyl peroxide
+DB12159,Medicine,Dupilumab,dupilumab
+DB13257,Medicine,Ferrous sulfate,ferrous sulfate
+DB13928,Medicine,Semaglutide,semaglutide
+DB13997,Medicine,Baloxavir marboxil,baloxavir marboxil
+DB14761,Medicine,Remdesivir,remdesivir
+DB16691,Medicine,Nirmatrelvir,nirmatrelvir
+DB00316,Medicine,Acetaminophen,paracetamol
+DB00316,Medicine,Acetaminophen,tylenol
+DB00316,Medicine,Acetaminophen,crocin
+DB00316,Medicine,Acetaminophen,panadol
+DB00316,Medicine,Acetaminophen,calpol
+DB01050,Medicine,Ibuprofen,advil
+DB01050,Medicine,Ibuprofen,motrin
+DB01050,Medicine,Ibuprofen,brufen
+DB01050,Medicine,Ibuprofen,nurofen
+DB01001,Medicine,Albuterol,salbutamol
+DB01001,Medicine,Albuterol,ventolin
+DB00945,Medicine,Aspirin,acetylsalicylic acid
+DB00338,Medicine,Omeprazole,prilosec
+DB01076,Medicine,Atorvastatin,lipitor
+DB00641,Medicine,Simvastatin,zocor
+DB00331,Medicine,Metformin,glucophage
+DB01104,Medicine,Sertraline,zoloft
+DB00451,Medicine,Levothyroxine,synthroid
+DB00451,Medicine,Levothyroxine,thyroxine
+DB00451,Medicine,Levothyroxine,eltroxin
+DB01060,Medicine,Amoxicillin,amoxil
+DB00722,Medicine,Lisinopril,zestril
+DB00722,Medicine,Lisinopril,prinivil
+DB00381,Medicine,Amlodipine,norvasc
+DB00682,Medicine,Warfarin,coumadin
+DB06605,Medicine,Apixaban,eliquis
+DB00758,Medicine,Clopidogrel,plavix
+DB00669,Medicine,Sumatriptan,imitrex
+DB13928,Medicine,Semaglutide,ozempic
+DB13928,Medicine,Semaglutide,wegovy
+DB00047,Medicine,Insulin glargine,lantus
+DB00047,Medicine,Insulin glargine,insulin
+DB00471,Medicine,Montelukast,singulair
+DB00588,Medicine,Fluticasone propionate,fluticasone
+DB00588,Medicine,Fluticasone propionate,flonase
+DB00588,Medicine,Fluticasone propionate,flovent
+DB01222,Medicine,Budesonide,pulmicort
+DB00341,Medicine,Cetirizine,zyrtec
+DB00455,Medicine,Loratadine,claritin
+DB00198,Medicine,Oseltamivir,tamiflu
+DB16691,Medicine,Nirmatrelvir,paxlovid
+DB00213,Medicine,Pantoprazole,protonix
+DB00213,Medicine,Pantoprazole,pantop
+DB00927,Medicine,Famotidine,pepcid
+DB00788,Medicine,Naproxen,aleve
+DB00788,Medicine,Naproxen,naprosyn
+DB00999,Medicine,Hydrochlorothiazide,hctz
+DB09038,Medicine,Empagliflozin,jardiance
+DB06292,Medicine,Dapagliflozin,farxiga
+DB06292,Medicine,Dapagliflozin,forxiga
+DB01261,Medicine,Sitagliptin,januvia
+DB01235,Medicine,Levodopa,l dopa
+DB00843,Medicine,Donepezil,aricept
+DB00982,Medicine,Isotretinoin,accutane
+DB00706,Medicine,Tamsulosin,flomax
+DB01216,Medicine,Finasteride,proscar
+DB00654,Medicine,Latanoprost,xalatan
+DB00313,Medicine,Valproic acid,valproate
+DB00313,Medicine,Valproic acid,depakote
+DB00417,Medicine,Phenoxymethylpenicillin,penicillin v
+DB00417,Medicine,Phenoxymethylpenicillin,penicillin
+DB00630,Medicine,Alendronic acid,alendronate
+DB00630,Medicine,Alendronic acid,fosamax
+DB00884,Medicine,Risedronic acid,risedronate
+DB00399,Medicine,Zoledronic acid,zoledronate
+DB13257,Medicine,Ferrous sulfate,iron tablets
+DB13257,Medicine,Ferrous sulfate,iron supplement
+DB13257,Medicine,Ferrous sulfate,ferrous sulphate
+DB00169,Medicine,Cholecalciferol,vitamin d3
+DB00153,Medicine,Ergocalciferol,vitamin d2
+DB00603,Medicine,Medroxyprogesterone acetate,medroxyprogesterone
+DB00717,Medicine,Norethisterone,norethindrone
+DB00977,Medicine,Ethinylestradiol,ethinyl estradiol
+DB01015,Medicine,Sulfamethoxazole,bactrim
+DB01015,Medicine,Sulfamethoxazole,co trimoxazole
+DB00440,Medicine,Trimethoprim,bactrim
+DB00440,Medicine,Trimethoprim,co trimoxazole
+DB00190,Medicine,Carbidopa,sinemet
+HP:0002027,SideEffect,Abdominal pain,abdominal pain
+HP:0002027,SideEffect,Abdominal pain,pain in stomach
+HP:0002027,SideEffect,Abdominal pain,stomach pain
+HP:0003128,SideEffect,Lactic acidosis,lactic acidosis
+HP:0003128,SideEffect,Lactic acidosis,hyperlacticacidemia
+HP:0003128,SideEffect,Lactic acidosis,increased lactate in body
+HP:0003128,SideEffect,Lactic acidosis,lactic acidemia
+HP:0003128,SideEffect,Lactic acidosis,lacticacidemia
+HP:0003128,SideEffect,Lactic acidosis,lacticacidosis
+HP:0000718,SideEffect,Aggressive behavior,aggressive behavior
+HP:0000718,SideEffect,Aggressive behavior,aggression
+HP:0000718,SideEffect,Aggressive behavior,aggressiveness
+HP:0100845,SideEffect,Anaphylactic shock,anaphylactic shock
+HP:0100845,SideEffect,Anaphylactic shock,anaphylactic reaction
+HP:0100845,SideEffect,Anaphylactic shock,anaphylactoid type reaction
+HP:0100845,SideEffect,Anaphylactic shock,anaphylaxis
+HP:0001681,SideEffect,Angina pectoris,angina pectoris
+HP:0004396,SideEffect,Poor appetite,poor appetite
+HP:0004396,SideEffect,Poor appetite,decreased appetite
+HP:0004396,SideEffect,Poor appetite,loss of appetite
+HP:0000739,SideEffect,Anxiety,anxiety
+HP:0000739,SideEffect,Anxiety,anxiousness
+HP:0000739,SideEffect,Anxiety,excessive persistent worry and fear
+HP:0011675,SideEffect,Arrhythmia,arrhythmia
+HP:0011675,SideEffect,Arrhythmia,abnormal heart rate
+HP:0011675,SideEffect,Arrhythmia,arrhythmias
+HP:0011675,SideEffect,Arrhythmia,cardiac arrhythmia
+HP:0011675,SideEffect,Arrhythmia,cardiac arrhythmias
+HP:0011675,SideEffect,Arrhythmia,cardiac rhythm disturbances
+HP:0011675,SideEffect,Arrhythmia,heart rhythm disorders
+HP:0011675,SideEffect,Arrhythmia,irregular heart beat
+HP:0011675,SideEffect,Arrhythmia,irregular heartbeat
+HP:0002829,SideEffect,Joint pain,joint pain
+HP:0002829,SideEffect,Joint pain,arthralgia
+HP:0002829,SideEffect,Joint pain,arthralgias
+HP:0010867,SideEffect,Dyssynergia,dyssynergia
+HP:0003418,SideEffect,Back pain,back pain
+HP:0001928,SideEffect,Abnormality of coagulation,abnormality of coagulation
+HP:0001928,SideEffect,Abnormality of coagulation,abnormal blood coagulation studies
+HP:0001928,SideEffect,Abnormality of coagulation,coagulation abnormalities
+HP:0001928,SideEffect,Abnormality of coagulation,coagulation abnormality
+HP:0001928,SideEffect,Abnormality of coagulation,haemorrhagic disorders
+HP:0003256,SideEffect,Abnormality of the coagulation cascade,abnormality of the coagulation cascade
+HP:0003256,SideEffect,Abnormality of the coagulation cascade,coagulopathy
+HP:0012387,SideEffect,Bronchitis,bronchitis
+HP:0100749,SideEffect,Chest pain,chest pain
+HP:0100749,SideEffect,Chest pain,thoracic pain
+HP:0012735,SideEffect,Cough,cough
+HP:0012735,SideEffect,Cough,coughing
+HP:0002321,SideEffect,Dizziness,dizziness
+HP:0002321,SideEffect,Dizziness,vertigo
+HP:0002321,SideEffect,Dizziness,dizzy spell
+HP:0001262,SideEffect,Excessive daytime somnolence,excessive daytime somnolence
+HP:0001262,SideEffect,Excessive daytime somnolence,excessive daytime sleepiness
+HP:0001262,SideEffect,Excessive daytime somnolence,more than typical sleepiness during day
+HP:0002094,SideEffect,Shortness of breath,shortness of breath
+HP:0002094,SideEffect,Shortness of breath,dyspnea
+HP:0002094,SideEffect,Shortness of breath,abnormal breathing
+HP:0002094,SideEffect,Shortness of breath,breathing difficulty
+HP:0002094,SideEffect,Shortness of breath,difficult to breathe
+HP:0002094,SideEffect,Shortness of breath,difficulty breathing
+HP:0002094,SideEffect,Shortness of breath,dyspnoea
+HP:0002094,SideEffect,Shortness of breath,trouble breathing
+HP:0002098,SideEffect,Respiratory distress,respiratory distress
+HP:0002098,SideEffect,Respiratory distress,breathing difficulties
+HP:0002098,SideEffect,Respiratory distress,labored breathing
+HP:0002098,SideEffect,Respiratory distress,laboured breathing
+HP:0030766,SideEffect,Ear pain,ear pain
+HP:0030766,SideEffect,Ear pain,otalgia
+HP:0030766,SideEffect,Ear pain,pain in the ear
+HP:0000969,SideEffect,Edema,edema
+HP:0000969,SideEffect,Edema,dropsy
+HP:0000969,SideEffect,Edema,fluid retention
+HP:0000969,SideEffect,Edema,hydrops
+HP:0000969,SideEffect,Edema,oedema
+HP:0000969,SideEffect,Edema,water retention
+HP:0000421,SideEffect,Epistaxis,epistaxis
+HP:0000421,SideEffect,Epistaxis,bloody nose
+HP:0000421,SideEffect,Epistaxis,frequent nosebleeds
+HP:0000421,SideEffect,Epistaxis,nasal haemorrhage
+HP:0000421,SideEffect,Epistaxis,nasal hemorrhage
+HP:0000421,SideEffect,Epistaxis,nose bleed
+HP:0000421,SideEffect,Epistaxis,nose bleeding
+HP:0000421,SideEffect,Epistaxis,nosebleed
+HP:0011123,SideEffect,Inflammatory abnormality of the skin,inflammatory abnormality of the skin
+HP:0011123,SideEffect,Inflammatory abnormality of the skin,abnormal tendency to infections of the skin
+HP:0011123,SideEffect,Inflammatory abnormality of the skin,skin inflammation
+HP:0012378,SideEffect,Fatigue,fatigue
+HP:0012378,SideEffect,Fatigue,tired
+HP:0012378,SideEffect,Fatigue,tiredness
+HP:0001945,SideEffect,Fever,fever
+HP:0001945,SideEffect,Fever,hyperthermia
+HP:0001945,SideEffect,Fever,pyrexia
+HP:0010783,SideEffect,Erythema,erythema
+HP:0010783,SideEffect,Erythema,redness of skin or mucous membrane
+HP:0011024,SideEffect,Abnormality of the gastrointestinal tract,abnormality of the gastrointestinal tract
+HP:0011024,SideEffect,Abnormality of the gastrointestinal tract,abnormality of the gi tract
+HP:0000206,SideEffect,Glossitis,glossitis
+HP:0000206,SideEffect,Glossitis,inflammation of the tongue
+HP:0000206,SideEffect,Glossitis,lingual inflammation
+HP:0000206,SideEffect,Glossitis,smooth swollen tongue
+HP:0003076,SideEffect,Glycosuria,glycosuria
+HP:0003076,SideEffect,Glycosuria,glucose in urine
+HP:0003076,SideEffect,Glycosuria,glucosuria
+HP:0002315,SideEffect,Headache,headache
+HP:0002315,SideEffect,Headache,headaches
+HP:0030148,SideEffect,Heart murmur,heart murmur
+HP:0030148,SideEffect,Heart murmur,cardiac murmur
+HP:0030148,SideEffect,Heart murmur,cardiac murmurs
+HP:0030148,SideEffect,Heart murmur,heart murmurs
+HP:0001618,SideEffect,Dysphonia,dysphonia
+HP:0001618,SideEffect,Dysphonia,inability to produce voice sounds
+HP:0001618,SideEffect,Dysphonia,voice change
+HP:0003074,SideEffect,Hyperglycemia,hyperglycemia
+HP:0003074,SideEffect,Hyperglycemia,high blood glucose
+HP:0003074,SideEffect,Hyperglycemia,high blood sugar
+HP:0002883,SideEffect,Hyperventilation,hyperventilation
+HP:0002883,SideEffect,Hyperventilation,rapid breathing
+HP:0001943,SideEffect,Hypoglycemia,hypoglycemia
+HP:0001943,SideEffect,Hypoglycemia,hypoglycaemia
+HP:0001943,SideEffect,Hypoglycemia,low blood sugar
+HP:0000952,SideEffect,Jaundice,jaundice
+HP:0000952,SideEffect,Jaundice,icterus
+HP:0000952,SideEffect,Jaundice,yellow skin
+HP:0000952,SideEffect,Jaundice,yellowing of the skin
+HP:0001946,SideEffect,Ketosis,ketosis
+HP:0001946,SideEffect,Ketosis,high levels of ketone bodies
+HP:0001946,SideEffect,Ketosis,hyperketosis
+HP:0002487,SideEffect,Hyperkinetic movements,hyperkinetic movements
+HP:0002487,SideEffect,Hyperkinetic movements,hyperactive movements
+HP:0002487,SideEffect,Hyperkinetic movements,hyperkinesia
+HP:0002487,SideEffect,Hyperkinetic movements,hyperkinesis
+HP:0002088,SideEffect,Abnormal lung morphology,abnormal lung morphology
+HP:0002088,SideEffect,Abnormal lung morphology,abnormality of lung structure
+HP:0002088,SideEffect,Abnormal lung morphology,abnormality of the lungs
+HP:0002088,SideEffect,Abnormal lung morphology,abnormally shaped lung
+HP:0002088,SideEffect,Abnormal lung morphology,unusual lung shape
+HP:0011499,SideEffect,Mydriasis,mydriasis
+HP:0011499,SideEffect,Mydriasis,dilated pupil
+HP:0001742,SideEffect,Nasal obstruction,nasal obstruction
+HP:0001742,SideEffect,Nasal obstruction,nasal congestion
+HP:0001742,SideEffect,Nasal obstruction,blockage of nose
+HP:0001742,SideEffect,Nasal obstruction,nasal blockage
+HP:0001742,SideEffect,Nasal obstruction,obstruction of nose
+HP:0001742,SideEffect,Nasal obstruction,stuffy nose
+HP:0002018,SideEffect,Nausea,nausea
+HP:0012531,SideEffect,Pain,pain
+HP:0000980,SideEffect,Pallor,pallor
+HP:0001962,SideEffect,Palpitations,palpitations
+HP:0001962,SideEffect,Palpitations,heart palpitations
+HP:0001962,SideEffect,Palpitations,missed heart beat
+HP:0001962,SideEffect,Palpitations,skipped heart beat
+HP:0003401,SideEffect,Paresthesia,paresthesia
+HP:0003401,SideEffect,Paresthesia,paresthesias
+HP:0003401,SideEffect,Paresthesia,pins and needles feeling
+HP:0003401,SideEffect,Paresthesia,tingling
+HP:0000759,SideEffect,Abnormal peripheral nervous system morphology,abnormal peripheral nervous system morphology
+HP:0000759,SideEffect,Abnormal peripheral nervous system morphology,abnormal peripheral nervous system structure
+HP:0001271,SideEffect,Polyneuropathy,polyneuropathy
+HP:0001271,SideEffect,Polyneuropathy,peripheral nerve disease
+HP:0009830,SideEffect,Peripheral neuropathy,peripheral neuropathy
+HP:0009830,SideEffect,Peripheral neuropathy,peripheral nerve damage
+HP:0009830,SideEffect,Peripheral neuropathy,peripheral neuritis
+HP:0100602,SideEffect,Preeclampsia,preeclampsia
+HP:0100602,SideEffect,Preeclampsia,pre eclampsia
+HP:0100603,SideEffect,Toxemia of pregnancy,toxemia of pregnancy
+HP:0100603,SideEffect,Toxemia of pregnancy,hypertensive disorder of pregnancy
+HP:0100603,SideEffect,Toxemia of pregnancy,toxaemia of pregnancy
+HP:0000989,SideEffect,Pruritus,pruritus
+HP:0000989,SideEffect,Pruritus,itching
+HP:0000989,SideEffect,Pruritus,itchy skin
+HP:0000989,SideEffect,Pruritus,skin itching
+HP:0100598,SideEffect,Pulmonary edema,pulmonary edema
+HP:0100598,SideEffect,Pulmonary edema,excess fluid in lungs
+HP:0100598,SideEffect,Pulmonary edema,lung edema
+HP:0100598,SideEffect,Pulmonary edema,lung oedema
+HP:0100598,SideEffect,Pulmonary edema,wet lung
+HP:0011947,SideEffect,Respiratory tract infection,respiratory tract infection
+HP:0011947,SideEffect,Respiratory tract infection,respiratory infection
+HP:0012384,SideEffect,Rhinitis,rhinitis
+HP:0012384,SideEffect,Rhinitis,nasal inflammation
+HP:0000951,SideEffect,Abnormality of the skin,abnormality of the skin
+HP:0000951,SideEffect,Abnormality of the skin,dermatopathy
+HP:0000951,SideEffect,Abnormality of the skin,dermopathy
+HP:0010280,SideEffect,Stomatitis,stomatitis
+HP:0010280,SideEffect,Stomatitis,inflammation of the mouth
+HP:0000975,SideEffect,Hyperhidrosis,hyperhidrosis
+HP:0000975,SideEffect,Hyperhidrosis,diaphoresis
+HP:0000975,SideEffect,Hyperhidrosis,excessive sweating
+HP:0000975,SideEffect,Hyperhidrosis,increased sweating
+HP:0000975,SideEffect,Hyperhidrosis,profuse sweating
+HP:0000975,SideEffect,Hyperhidrosis,sweating
+HP:0000975,SideEffect,Hyperhidrosis,sweating profusely
+HP:0000975,SideEffect,Hyperhidrosis,sweating increased
+HP:0001649,SideEffect,Tachycardia,tachycardia
+HP:0001649,SideEffect,Tachycardia,fast heart rate
+HP:0001649,SideEffect,Tachycardia,heart racing
+HP:0001649,SideEffect,Tachycardia,racing heart
+HP:0004755,SideEffect,Supraventricular tachycardia,supraventricular tachycardia
+HP:0004755,SideEffect,Supraventricular tachycardia,supraventricular tachyarrhythmia
+HP:0004755,SideEffect,Supraventricular tachycardia,svt
+HP:0000360,SideEffect,Tinnitus,tinnitus
+HP:0000360,SideEffect,Tinnitus,ringing in ears
+HP:0000360,SideEffect,Tinnitus,ringing in the ears
+HP:0001337,SideEffect,Tremor,tremor
+HP:0001337,SideEffect,Tremor,tremors
+HP:0002013,SideEffect,Vomiting,vomiting
+HP:0002013,SideEffect,Vomiting,emesis
+HP:0002013,SideEffect,Vomiting,throwing up
+HP:0030828,SideEffect,Wheezing,wheezing
+HP:0000217,SideEffect,Xerostomia,xerostomia
+HP:0000217,SideEffect,Xerostomia,dry mouth
+HP:0000217,SideEffect,Xerostomia,dry mouth syndrome
+HP:0000217,SideEffect,Xerostomia,reduced salivation
+HP:0000713,SideEffect,Agitation,agitation
+HP:0000713,SideEffect,Agitation,psychomotor agitation
+HP:0000712,SideEffect,Emotional lability,emotional lability
+HP:0000720,SideEffect,Mood swings,mood swings
+HP:0000720,SideEffect,Mood swings,obsolete mood swings
+HP:0001575,SideEffect,Mood changes,mood changes
+HP:0001575,SideEffect,Mood changes,obsolete mood changes
+HP:0002076,SideEffect,Migraine,migraine
+HP:0002076,SideEffect,Migraine,intermittent migraine headaches
+HP:0002076,SideEffect,Migraine,migraine headache
+HP:0002076,SideEffect,Migraine,migraine headaches
+HP:0004395,SideEffect,Malnutrition,malnutrition
+HP:0001942,SideEffect,Metabolic acidosis,metabolic acidosis
+HP:0003326,SideEffect,Myalgia,myalgia
+HP:0003326,SideEffect,Myalgia,muscle ache
+HP:0003326,SideEffect,Myalgia,muscle pain
+HP:0002591,SideEffect,Polyphagia,polyphagia
+HP:0002591,SideEffect,Polyphagia,hyperphagia
+HP:0002591,SideEffect,Polyphagia,voracious appetite
+HP:0100518,SideEffect,Dysuria,dysuria
+HP:0100518,SideEffect,Dysuria,painful or difficult urination
+HP:0000752,SideEffect,Hyperactivity,hyperactivity
+HP:0000752,SideEffect,Hyperactivity,hyperactive behavior
+HP:0000752,SideEffect,Hyperactivity,hyperactive behaviour
+HP:0000752,SideEffect,Hyperactivity,hyperkinetic disorder
+HP:0000752,SideEffect,Hyperactivity,more active than typical
+HP:0002716,SideEffect,Lymphadenopathy,lymphadenopathy
+HP:0002716,SideEffect,Lymphadenopathy,lymph node hyperplasia
+HP:0002716,SideEffect,Lymphadenopathy,swollen lymph nodes
+HP:0012250,SideEffect,ST segment depression,st segment depression
+HP:0011105,SideEffect,Hypervolemia,hypervolemia
+HP:0011105,SideEffect,Hypervolemia,fluid overload in blood
+HP:0002595,SideEffect,Ileus,ileus
+HP:0002595,SideEffect,Ileus,gastrointestinal atony
+HP:0003270,SideEffect,Abdominal distention,abdominal distention
+HP:0003270,SideEffect,Abdominal distention,abdominal bloating
+HP:0003270,SideEffect,Abdominal distention,abdominal distension
+HP:0003270,SideEffect,Abdominal distention,abdominal swelling
+HP:0003270,SideEffect,Abdominal distention,belly bloating
+HP:0003270,SideEffect,Abdominal distention,bloating
+HP:0003270,SideEffect,Abdominal distention,distended abdomen
+HP:0100607,SideEffect,Dysmenorrhea,dysmenorrhea
+HP:0100607,SideEffect,Dysmenorrhea,painful menstruation
+HP:0000964,SideEffect,Eczema,eczema
+HP:0000964,SideEffect,Eczema,eczematoid dermatitis
+HP:0000976,SideEffect,Eczematoid dermatitis,eczematoid dermatitis
+HP:0000976,SideEffect,Eczematoid dermatitis,obsolete eczematoid dermatitis
+HP:0002020,SideEffect,Gastroesophageal reflux,gastroesophageal reflux
+HP:0002020,SideEffect,Gastroesophageal reflux,acid reflux
+HP:0002020,SideEffect,Gastroesophageal reflux,acid reflux disease
+HP:0002020,SideEffect,Gastroesophageal reflux,gastro esophageal reflux
+HP:0002020,SideEffect,Gastroesophageal reflux,gastro oesophageal reflux
+HP:0002020,SideEffect,Gastroesophageal reflux,gastroesophageal reflux disease
+HP:0002020,SideEffect,Gastroesophageal reflux,gerd
+HP:0002020,SideEffect,Gastroesophageal reflux,gord
+HP:0002020,SideEffect,Gastroesophageal reflux,heartburn
+HP:0000790,SideEffect,Hematuria,hematuria
+HP:0000790,SideEffect,Hematuria,blood in urine
+HP:0100963,SideEffect,Hyperesthesia,hyperesthesia
+HP:0100963,SideEffect,Hyperesthesia,hyperaesthesia
+HP:0003474,SideEffect,Sensory impairment,sensory impairment
+HP:0003474,SideEffect,Sensory impairment,somatic sensory dysfunction
+HP:0001276,SideEffect,Hypertonia,hypertonia
+HP:0001276,SideEffect,Hypertonia,hypertonicity
+HP:0001276,SideEffect,Hypertonia,increased muscle tone
+HP:0000246,SideEffect,Sinusitis,sinusitis
+HP:0000246,SideEffect,Sinusitis,sinus inflammation
+HP:0007185,SideEffect,Loss of consciousness,loss of consciousness
+HP:0007185,SideEffect,Loss of consciousness,fainting
+HP:0007185,SideEffect,Loss of consciousness,passing out
+HP:0001279,SideEffect,Syncope,syncope
+HP:0001279,SideEffect,Syncope,fainting spell
+HP:0003115,SideEffect,Abnormal EKG,abnormal ekg
+HP:0003115,SideEffect,Abnormal EKG,abnormal ecg
+HP:0003115,SideEffect,Abnormal EKG,abnormal electrocardiogram
+HP:0003115,SideEffect,Abnormal EKG,ekg abnormality
+HP:0001596,SideEffect,Alopecia,alopecia
+HP:0001596,SideEffect,Alopecia,hair loss
+HP:0002293,SideEffect,Alopecia of scalp,alopecia of scalp
+HP:0002293,SideEffect,Alopecia of scalp,pathologic hair loss from scalp
+HP:0002293,SideEffect,Alopecia of scalp,scalp hair loss
+HP:0001396,SideEffect,Cholestasis,cholestasis
+HP:0001396,SideEffect,Cholestasis,slowed or blocked flow of bile from liver
+HP:0002015,SideEffect,Dysphagia,dysphagia
+HP:0002015,SideEffect,Dysphagia,difficulty swallowing
+HP:0002015,SideEffect,Dysphagia,poor swallowing
+HP:0002015,SideEffect,Dysphagia,swallowing difficulties
+HP:0002015,SideEffect,Dysphagia,swallowing difficulty
+HP:0000651,SideEffect,Diplopia,diplopia
+HP:0000651,SideEffect,Diplopia,double vision
+HP:0000478,SideEffect,Abnormality of the eye,abnormality of the eye
+HP:0000478,SideEffect,Abnormality of the eye,abnormal eye
+HP:0000212,SideEffect,Gingival overgrowth,gingival overgrowth
+HP:0000212,SideEffect,Gingival overgrowth,gingival enlargement
+HP:0000212,SideEffect,Gingival overgrowth,gingival hyperplasia
+HP:0000212,SideEffect,Gingival overgrowth,gum enlargement
+HP:0000212,SideEffect,Gingival overgrowth,gum hypertrophy
+HP:0000212,SideEffect,Gingival overgrowth,hypertrophic gingivitis
+HP:0001635,SideEffect,Congestive heart failure,congestive heart failure
+HP:0001635,SideEffect,Congestive heart failure,cardiac failure
+HP:0001635,SideEffect,Congestive heart failure,cardiac failures
+HP:0001635,SideEffect,Congestive heart failure,cardiac insufficiency
+HP:0001635,SideEffect,Congestive heart failure,chf
+HP:0001635,SideEffect,Congestive heart failure,chronic heart failure
+HP:0001635,SideEffect,Congestive heart failure,heart failure
+HP:0012115,SideEffect,Hepatitis,hepatitis
+HP:0012115,SideEffect,Hepatitis,liver inflammation
+HP:0001367,SideEffect,Abnormal joint morphology,abnormal joint morphology
+HP:0001367,SideEffect,Abnormal joint morphology,abnormal shape of joints
+HP:0001367,SideEffect,Abnormal joint morphology,abnormality of the joints
+HP:0001367,SideEffect,Abnormal joint morphology,anomaly of the joints
+HP:0003040,SideEffect,Arthropathy,arthropathy
+HP:0003040,SideEffect,Arthropathy,disease of the joints
+HP:0001882,SideEffect,Leukopenia,leukopenia
+HP:0001882,SideEffect,Leukopenia,decreased total leukocyte count
+HP:0001882,SideEffect,Leukopenia,decreased blood leukocyte number
+HP:0001882,SideEffect,Leukopenia,low white blood cell count
+HP:0006510,SideEffect,Chronic pulmonary obstruction,chronic pulmonary obstruction
+HP:0006510,SideEffect,Chronic pulmonary obstruction,chronic obstructive pulmonary disease
+HP:0006510,SideEffect,Chronic pulmonary obstruction,copd
+HP:0000017,SideEffect,Nocturia,nocturia
+HP:0000017,SideEffect,Nocturia,nycturia
+HP:0001733,SideEffect,Pancreatitis,pancreatitis
+HP:0001733,SideEffect,Pancreatitis,pancreatic inflammation
+HP:0000103,SideEffect,Polyuria,polyuria
+HP:0000103,SideEffect,Polyuria,increased urine output
+HP:0001873,SideEffect,Thrombocytopenia,thrombocytopenia
+HP:0001873,SideEffect,Thrombocytopenia,low platelet count
+HP:0100515,SideEffect,Pollakisuria,pollakisuria
+HP:0100515,SideEffect,Pollakisuria,frequent urination
+HP:0002633,SideEffect,Vasculitis,vasculitis
+HP:0002633,SideEffect,Vasculitis,angiitis
+HP:0002633,SideEffect,Vasculitis,inflammation of blood vessel
+HP:0004756,SideEffect,Ventricular tachycardia,ventricular tachycardia
+HP:0004324,SideEffect,Increased body weight,increased body weight
+HP:0001097,SideEffect,Keratoconjunctivitis sicca,keratoconjunctivitis sicca
+HP:0001097,SideEffect,Keratoconjunctivitis sicca,dry eyes
+HP:0001097,SideEffect,Keratoconjunctivitis sicca,keratitis sicca
+HP:0001097,SideEffect,Keratoconjunctivitis sicca,xerophthalmia
+HP:0004950,SideEffect,Peripheral arterial stenosis,peripheral arterial stenosis
+HP:0004950,SideEffect,Peripheral arterial stenosis,peripheral artery disease
+HP:0000741,SideEffect,Apathy,apathy
+HP:0000741,SideEffect,Apathy,lack of feeling emotion interest
+HP:0000741,SideEffect,Apathy,lack of feeling emotion interest motivation initiation
+HP:0000741,SideEffect,Apathy,state of indifference
+HP:0012398,SideEffect,Peripheral edema,peripheral edema
+HP:0012398,SideEffect,Peripheral edema,peripheral oedema
+HP:0001324,SideEffect,Muscle weakness,muscle weakness
+HP:0001324,SideEffect,Muscle weakness,muscular weakness
+HP:0200026,SideEffect,Ocular pain,ocular pain
+HP:0200026,SideEffect,Ocular pain,eye pain
+HP:0000958,SideEffect,Dry skin,dry skin
+HP:0000958,SideEffect,Dry skin,xerosis
+HP:0040186,SideEffect,Maculopapular exanthema,maculopapular exanthema
+HP:0001662,SideEffect,Bradycardia,bradycardia
+HP:0001662,SideEffect,Bradycardia,brachycardia
+HP:0001662,SideEffect,Bradycardia,slow heartbeats
+HP:0000505,SideEffect,Visual impairment,visual impairment
+HP:0000505,SideEffect,Visual impairment,impaired vision
+HP:0000505,SideEffect,Visual impairment,loss of eyesight
+HP:0000505,SideEffect,Visual impairment,poor vision
+HP:0001677,SideEffect,Coronary artery atherosclerosis,coronary artery atherosclerosis
+HP:0001677,SideEffect,Coronary artery atherosclerosis,coronary atherosclerosis
+HP:0001677,SideEffect,Coronary artery atherosclerosis,coronary disease
+HP:0001677,SideEffect,Coronary artery atherosclerosis,plaque build up in arteries supplying blood to heart
+HP:0001913,SideEffect,Granulocytopenia,granulocytopenia
+HP:0001913,SideEffect,Granulocytopenia,decreased total granulocyte count
+HP:0001878,SideEffect,Hemolytic anemia,hemolytic anemia
+HP:0001878,SideEffect,Hemolytic anemia,haemolytic anaemia
+HP:0001878,SideEffect,Hemolytic anemia,haemolytic anemia
+HP:0001878,SideEffect,Hemolytic anemia,hemolytic anaemia
+HP:0001878,SideEffect,Hemolytic anemia,increased hemolysis
+HP:0001259,SideEffect,Coma,coma
+HP:0001259,SideEffect,Coma,persistent vegetative state
+HP:0001259,SideEffect,Coma,stupor
+HP:0001259,SideEffect,Coma,unconsciousness
+HP:0001289,SideEffect,Confusion,confusion
+HP:0001289,SideEffect,Confusion,disorientation
+HP:0001289,SideEffect,Confusion,easily confused
+HP:0001289,SideEffect,Confusion,mental disorientation
+HP:0001019,SideEffect,Erythroderma,erythroderma
+HP:0001019,SideEffect,Erythroderma,exfoliative dermititis
+HP:0001019,SideEffect,Erythroderma,generalised erythroderma
+HP:0001019,SideEffect,Erythroderma,generalised erythrodermia
+HP:0001019,SideEffect,Erythroderma,generalized erythroderma
+HP:0001019,SideEffect,Erythroderma,generalized erythrodermia
+HP:0001880,SideEffect,Eosinophilia,eosinophilia
+HP:0001880,SideEffect,Eosinophilia,increased total eosinophil count
+HP:0001880,SideEffect,Eosinophilia,high blood eosinophil count
+HP:0001880,SideEffect,Eosinophilia,increased eosinophil count
+HP:0001250,SideEffect,Seizure,seizure
+HP:0001250,SideEffect,Seizure,epileptic seizure
+HP:0001250,SideEffect,Seizure,seizures
+HP:0000123,SideEffect,Nephritis,nephritis
+HP:0000123,SideEffect,Nephritis,kidney inflammation
+HP:0001969,SideEffect,Abnormal tubulointerstitial morphology,abnormal tubulointerstitial morphology
+HP:0001969,SideEffect,Abnormal tubulointerstitial morphology,tubulointerstitial abnormality
+HP:0001970,SideEffect,Tubulointerstitial nephritis,tubulointerstitial nephritis
+HP:0001970,SideEffect,Tubulointerstitial nephritis,interstitial nephritis
+HP:0001970,SideEffect,Tubulointerstitial nephritis,nephritis tubulointerstitial
+HP:0001410,SideEffect,Decreased liver function,decreased liver function
+HP:0001410,SideEffect,Decreased liver function,liver dysfunction
+HP:0002910,SideEffect,Elevated hepatic transaminase,elevated hepatic transaminase
+HP:0002910,SideEffect,Elevated hepatic transaminase,elevated circulating hepatic transaminase concentration
+HP:0002910,SideEffect,Elevated hepatic transaminase,abnormal liver enzymes
+HP:0002910,SideEffect,Elevated hepatic transaminase,abnormal liver function
+HP:0002910,SideEffect,Elevated hepatic transaminase,abnormal liver function tests
+HP:0002910,SideEffect,Elevated hepatic transaminase,elevated circulating hepatic transaminase activity
+HP:0002910,SideEffect,Elevated hepatic transaminase,elevated liver enzymes
+HP:0002910,SideEffect,Elevated hepatic transaminase,elevated serum transaminases
+HP:0002910,SideEffect,Elevated hepatic transaminase,elevated transaminases
+HP:0002910,SideEffect,Elevated hepatic transaminase,high liver enzymes
+HP:0002910,SideEffect,Elevated hepatic transaminase,increased liver enzymes
+HP:0002910,SideEffect,Elevated hepatic transaminase,increased liver function tests
+HP:0002910,SideEffect,Elevated hepatic transaminase,increased transaminases
+HP:0002910,SideEffect,Elevated hepatic transaminase,raised liver enzymes
+HP:0002910,SideEffect,Elevated hepatic transaminase,subclinical abnormal liver function tests
+HP:0000083,SideEffect,Renal insufficiency,renal insufficiency
+HP:0000083,SideEffect,Renal insufficiency,renal failure
+HP:0000083,SideEffect,Renal insufficiency,renal failure in adulthood
+HP:0001369,SideEffect,Arthritis,arthritis
+HP:0001369,SideEffect,Arthritis,joint inflammation
+HP:0030833,SideEffect,Neck pain,neck pain
+HP:0100577,SideEffect,Urinary bladder inflammation,urinary bladder inflammation
+HP:0100577,SideEffect,Urinary bladder inflammation,cystitis of the urinary bladder
+HP:0000365,SideEffect,Hearing impairment,hearing impairment
+HP:0000365,SideEffect,Hearing impairment,deafness
+HP:0000365,SideEffect,Hearing impairment,hearing defect
+HP:0000365,SideEffect,Hearing impairment,hypacusis
+HP:0000978,SideEffect,Bruising susceptibility,bruising susceptibility
+HP:0000978,SideEffect,Bruising susceptibility,bruisability
+HP:0000978,SideEffect,Bruising susceptibility,bruise easily
+HP:0000978,SideEffect,Bruising susceptibility,easy bruisability
+HP:0000978,SideEffect,Bruising susceptibility,easy bruising
+HP:0011885,SideEffect,Hemorrhage of the eye,hemorrhage of the eye
+HP:0011885,SideEffect,Hemorrhage of the eye,bleeding from the eye
+HP:0011885,SideEffect,Hemorrhage of the eye,haemorrhage of the eye
+HP:0000225,SideEffect,Gingival bleeding,gingival bleeding
+HP:0000225,SideEffect,Gingival bleeding,bleeding gums
+HP:0000225,SideEffect,Gingival bleeding,gingival haemorrhage
+HP:0000225,SideEffect,Gingival bleeding,gingival hemorrhage
+HP:0000225,SideEffect,Gingival bleeding,gingivorrhagia
+HP:0001997,SideEffect,Gout,gout
+HP:0001997,SideEffect,Gout,gouty arthritis
+HP:0000787,SideEffect,Nephrolithiasis,nephrolithiasis
+HP:0000787,SideEffect,Nephrolithiasis,kidney stone
+HP:0000787,SideEffect,Nephrolithiasis,kidney stones
+HP:0000787,SideEffect,Nephrolithiasis,renal calculi
+HP:0000787,SideEffect,Nephrolithiasis,renal stones
+HP:0001919,SideEffect,Acute kidney injury,acute kidney injury
+HP:0001919,SideEffect,Acute kidney injury,acute kidney failure
+HP:0001919,SideEffect,Acute kidney injury,acute renal failure
+HP:0001919,SideEffect,Acute kidney injury,aki
+HP:0002249,SideEffect,Melena,melena
+HP:0100608,SideEffect,Metrorrhagia,metrorrhagia
+HP:0100608,SideEffect,Metrorrhagia,abnormal uterus bleeding
+HP:0100608,SideEffect,Metrorrhagia,intermenstrual bleeding
+HP:0100608,SideEffect,Metrorrhagia,menstrual spotting
+HP:0003198,SideEffect,Myopathy,myopathy
+HP:0003198,SideEffect,Myopathy,muscle tissue disease
+HP:0003198,SideEffect,Myopathy,myopathic changes
+HP:0009071,SideEffect,Inflammatory myopathy,inflammatory myopathy
+HP:0100614,SideEffect,Myositis,myositis
+HP:0100614,SideEffect,Myositis,muscle inflammation
+HP:0009763,SideEffect,Limb pain,limb pain
+HP:0000967,SideEffect,Petechiae,petechiae
+HP:0002090,SideEffect,Pneumonia,pneumonia
+HP:0200042,SideEffect,Skin ulcer,skin ulcer
+HP:0200042,SideEffect,Skin ulcer,open skin sore
+HP:0000155,SideEffect,Oral ulcer,oral ulcer
+HP:0000155,SideEffect,Oral ulcer,mouth ulcer
+HP:0000155,SideEffect,Oral ulcer,oral mucosal ulceration
+HP:0000020,SideEffect,Urinary incontinence,urinary incontinence
+HP:0000020,SideEffect,Urinary incontinence,bladder incontinence
+HP:0000020,SideEffect,Urinary incontinence,loss of bladder control
+HP:0000016,SideEffect,Urinary retention,urinary retention
+HP:0000016,SideEffect,Urinary retention,increased post void residual urine volume
+HP:0001399,SideEffect,Hepatic failure,hepatic failure
+HP:0001399,SideEffect,Hepatic failure,hepatic insufficiency
+HP:0001399,SideEffect,Hepatic failure,liver failure
+HP:0005986,SideEffect,Limitation of neck motion,limitation of neck motion
+HP:0005986,SideEffect,Limitation of neck motion,restricted neck movement
+HP:0012050,SideEffect,Anasarca,anasarca
+HP:0012050,SideEffect,Anasarca,extreme generalised oedema
+HP:0012050,SideEffect,Anasarca,extreme generalized edema
+HP:0100550,SideEffect,Tendon rupture,tendon rupture
+HP:0100550,SideEffect,Tendon rupture,rupture of tendons
+HP:0100550,SideEffect,Tendon rupture,ruptured tendon
+HP:0100550,SideEffect,Tendon rupture,tendon muscle rupture
+HP:0001386,SideEffect,Joint swelling,joint swelling
+HP:0006530,SideEffect,Abnormal pulmonary Interstitial morphology,abnormal pulmonary interstitial morphology
+HP:0006530,SideEffect,Abnormal pulmonary Interstitial morphology,abnormal lung parenchyma morphology
+HP:0006530,SideEffect,Abnormal pulmonary Interstitial morphology,abnormality in area between air sacs in lung
+HP:0006530,SideEffect,Abnormal pulmonary Interstitial morphology,interstitial lung disease
+HP:0006530,SideEffect,Abnormal pulmonary Interstitial morphology,interstitial pulmonary disease
+HP:0012702,SideEffect,Tenesmus,tenesmus
+HP:0002354,SideEffect,Memory impairment,memory impairment
+HP:0002354,SideEffect,Memory impairment,amnesia
+HP:0002354,SideEffect,Memory impairment,forgetfulness
+HP:0002354,SideEffect,Memory impairment,memory loss
+HP:0002354,SideEffect,Memory impairment,memory problems
+HP:0002354,SideEffect,Memory impairment,poor memory
+HP:0003750,SideEffect,Increased muscle fatiguability,increased muscle fatiguability
+HP:0002904,SideEffect,Hyperbilirubinemia,hyperbilirubinemia
+HP:0002904,SideEffect,Hyperbilirubinemia,high blood bilirubin levels
+HP:0000622,SideEffect,Blurred vision,blurred vision
+HP:0002311,SideEffect,Incoordination,incoordination
+HP:0002311,SideEffect,Incoordination,difficulties in coordination
+HP:0002311,SideEffect,Incoordination,incoordination of limb movements
+HP:0002311,SideEffect,Incoordination,limb incoordination
+HP:0002311,SideEffect,Incoordination,poor coordination
+HP:0002311,SideEffect,Incoordination,poor motor coordination
+HP:0000282,SideEffect,Facial edema,facial edema
+HP:0000282,SideEffect,Facial edema,facial oedema
+HP:0000282,SideEffect,Facial edema,facial puffiness
+HP:0000282,SideEffect,Facial edema,facial swelling
+HP:0000282,SideEffect,Facial edema,swelling of the face
+HP:0001342,SideEffect,Cerebral hemorrhage,cerebral hemorrhage
+HP:0001342,SideEffect,Cerebral hemorrhage,bleeding in brain
+HP:0001342,SideEffect,Cerebral hemorrhage,cerebral haemorrhage
+HP:0001342,SideEffect,Cerebral hemorrhage,intracerebral haemorrhage
+HP:0001342,SideEffect,Cerebral hemorrhage,intracerebral hemorrhage
+HP:0002140,SideEffect,Ischemic stroke,ischemic stroke
+HP:0002140,SideEffect,Ischemic stroke,ischaemic stroke
+HP:0010313,SideEffect,Breast hypertrophy,breast hypertrophy
+HP:0010313,SideEffect,Breast hypertrophy,breast enlargement
+HP:0010313,SideEffect,Breast hypertrophy,breasts enlarged
+HP:0010313,SideEffect,Breast hypertrophy,gigantomastia
+HP:0010313,SideEffect,Breast hypertrophy,hypertrophy of the breasts
+HP:0010313,SideEffect,Breast hypertrophy,large breast
+HP:0010313,SideEffect,Breast hypertrophy,macromastia
+HP:0000846,SideEffect,Adrenal insufficiency,adrenal insufficiency
+HP:0000846,SideEffect,Adrenal insufficiency,hypoadrenalism
+HP:0001915,SideEffect,Aplastic anemia,aplastic anemia
+HP:0001915,SideEffect,Aplastic anemia,aplastic anaemia
+HP:0002104,SideEffect,Apnea,apnea
+HP:0002104,SideEffect,Apnea,absence of spontaneous respiration
+HP:0002104,SideEffect,Apnea,apneic episodes
+HP:0002104,SideEffect,Apnea,apnoea
+HP:0100750,SideEffect,Atelectasis,atelectasis
+HP:0100750,SideEffect,Atelectasis,partial or complete collapse of part or entire lung
+HP:0100750,SideEffect,Atelectasis,pulmonary atelectasis
+HP:0100280,SideEffect,Crohn's disease,crohns disease
+HP:0100280,SideEffect,Crohn's disease,granulomatous enteritis and colitis
+HP:0100280,SideEffect,Crohn's disease,morbus crohn
+HP:0002239,SideEffect,Gastrointestinal hemorrhage,gastrointestinal hemorrhage
+HP:0002239,SideEffect,Gastrointestinal hemorrhage,gastrointestinal bleeding
+HP:0002239,SideEffect,Gastrointestinal hemorrhage,gastrointestinal haemorrhage
+HP:0002239,SideEffect,Gastrointestinal hemorrhage,gi haemorrhage
+HP:0002239,SideEffect,Gastrointestinal hemorrhage,gi hemorrhage
+HP:0000738,SideEffect,Hallucinations,hallucinations
+HP:0000738,SideEffect,Hallucinations,hallucination
+HP:0000738,SideEffect,Hallucinations,sensory hallucination
+HP:0002248,SideEffect,Hematemesis,hematemesis
+HP:0002248,SideEffect,Hematemesis,vomiting blood
+HP:0001871,SideEffect,Abnormality of blood and blood-forming tissues,abnormality of blood and blood forming tissues
+HP:0001871,SideEffect,Abnormality of blood and blood-forming tissues,abnormality of the haematopoietic system
+HP:0001871,SideEffect,Abnormality of blood and blood-forming tissues,abnormality of the hematopoietic system
+HP:0001871,SideEffect,Abnormality of blood and blood-forming tissues,haematological abnormality
+HP:0001871,SideEffect,Abnormality of blood and blood-forming tissues,hematological abnormality
+HP:0003228,SideEffect,Hypernatremia,hypernatremia
+HP:0003228,SideEffect,Hypernatremia,elevated sodium 1 concentration
+HP:0003228,SideEffect,Hypernatremia,elevated sodium 1 level
+HP:0003228,SideEffect,Hypernatremia,elevated sodium 1 level in blood
+HP:0003228,SideEffect,Hypernatremia,high blood sodium levels
+HP:0003228,SideEffect,Hypernatremia,increased sodium 1 concentration
+HP:0003228,SideEffect,Hypernatremia,increased sodium 1 level
+HP:0003228,SideEffect,Hypernatremia,increased sodium 1 level in blood
+HP:0002092,SideEffect,Pulmonary arterial hypertension,pulmonary arterial hypertension
+HP:0002092,SideEffect,Pulmonary arterial hypertension,increased blood pressure in blood vessels of lungs
+HP:0002092,SideEffect,Pulmonary arterial hypertension,pulmonary artery hypertension
+HP:0002901,SideEffect,Hypocalcemia,hypocalcemia
+HP:0002901,SideEffect,Hypocalcemia,decreased calcium 2 concentration
+HP:0002901,SideEffect,Hypocalcemia,decreased calcium 2 level
+HP:0002901,SideEffect,Hypocalcemia,decreased calcium 2 level in blood
+HP:0002901,SideEffect,Hypocalcemia,hypocalcaemia
+HP:0002901,SideEffect,Hypocalcemia,low blood calcium levels
+HP:0002901,SideEffect,Hypocalcemia,reduced calcium 2 concentration
+HP:0002901,SideEffect,Hypocalcemia,reduced calcium 2 level
+HP:0002901,SideEffect,Hypocalcemia,reduced calcium 2 level in blood
+HP:0002902,SideEffect,Hyponatremia,hyponatremia
+HP:0002902,SideEffect,Hyponatremia,decreased sodium 1 concentration
+HP:0002902,SideEffect,Hyponatremia,decreased sodium 1 level
+HP:0002902,SideEffect,Hyponatremia,decreased sodium 1 level in blood
+HP:0002902,SideEffect,Hyponatremia,low blood sodium levels
+HP:0002902,SideEffect,Hyponatremia,reduced sodium 1 concentration
+HP:0002902,SideEffect,Hyponatremia,reduced sodium 1 level
+HP:0002902,SideEffect,Hyponatremia,reduced sodium 1 level in blood
+HP:0003075,SideEffect,Hypoproteinemia,hypoproteinemia
+HP:0003075,SideEffect,Hypoproteinemia,decreased protein levels in blood
+HP:0006970,SideEffect,Periventricular leukomalacia,periventricular leukomalacia
+HP:0006970,SideEffect,Periventricular leukomalacia,pvl
+HP:0001392,SideEffect,Abnormality of the liver,abnormality of the liver
+HP:0001392,SideEffect,Abnormality of the liver,abnormal liver
+HP:0001392,SideEffect,Abnormality of the liver,liver abnormality
+HP:0002383,SideEffect,Encephalitis,encephalitis
+HP:0002383,SideEffect,Encephalitis,infectious encephalitis
+HP:0002383,SideEffect,Encephalitis,brain inflammation
+HP:0000132,SideEffect,Menorrhagia,menorrhagia
+HP:0000132,SideEffect,Menorrhagia,abnormally heavy bleeding during menstruation
+HP:0000132,SideEffect,Menorrhagia,abnormally heavy periods
+HP:0000132,SideEffect,Menorrhagia,hypermenorrhea
+HP:0000100,SideEffect,Nephrotic syndrome,nephrotic syndrome
+HP:0000100,SideEffect,Nephrotic syndrome,nephrosis
+HP:0100520,SideEffect,Oliguria,oliguria
+HP:0100653,SideEffect,Optic neuritis,optic neuritis
+HP:0001876,SideEffect,Pancytopenia,pancytopenia
+HP:0001876,SideEffect,Pancytopenia,low blood cell count
+HP:0001876,SideEffect,Pancytopenia,pancytopaenia
+HP:0004398,SideEffect,Peptic ulcer,peptic ulcer
+HP:0004398,SideEffect,Peptic ulcer,sore in the lining of gastrointestinal tract
+HP:0000093,SideEffect,Proteinuria,proteinuria
+HP:0000093,SideEffect,Proteinuria,high urine protein levels
+HP:0000093,SideEffect,Proteinuria,protein in urine
+HP:0011703,SideEffect,Sinus tachycardia,sinus tachycardia
+HP:0011703,SideEffect,Sinus tachycardia,sinus tach
+HP:0011703,SideEffect,Sinus tachycardia,sinus tachy
+HP:0007663,SideEffect,Reduced visual acuity,reduced visual acuity
+HP:0007663,SideEffect,Reduced visual acuity,decreased central vision
+HP:0007663,SideEffect,Reduced visual acuity,decreased clarity of vision
+HP:0007663,SideEffect,Reduced visual acuity,decreased visual acuity
+HP:0007663,SideEffect,Reduced visual acuity,poor visual acuity
+HP:0001688,SideEffect,Sinus bradycardia,sinus bradycardia
+HP:0003010,SideEffect,Prolonged bleeding time,prolonged bleeding time
+HP:0003010,SideEffect,Prolonged bleeding time,increased bleeding time
+HP:0003138,SideEffect,Increased blood urea nitrogen,increased blood urea nitrogen
+HP:0003138,SideEffect,Increased blood urea nitrogen,increased bun
+HP:0002605,SideEffect,Hepatic necrosis,hepatic necrosis
+HP:0040213,SideEffect,Hypopnea,hypopnea
+HP:0040213,SideEffect,Hypopnea,shallow breathing
+HP:0001260,SideEffect,Dysarthria,dysarthria
+HP:0001260,SideEffect,Dysarthria,difficulty articulating speech
+HP:0001260,SideEffect,Dysarthria,dysarthric speech
+HP:0002791,SideEffect,Hypoventilation,hypoventilation
+HP:0002791,SideEffect,Hypoventilation,alveolar hypoventilation
+HP:0002791,SideEffect,Hypoventilation,slow breathing
+HP:0002791,SideEffect,Hypoventilation,under breathing
+HP:0005952,SideEffect,Decreased pulmonary function,decreased pulmonary function
+HP:0005952,SideEffect,Decreased pulmonary function,obsolete decreased pulmonary function
+HP:0002157,SideEffect,Azotemia,azotemia
+HP:0002157,SideEffect,Azotemia,azotaemia
+HP:0003073,SideEffect,Hypoalbuminemia,hypoalbuminemia
+HP:0003073,SideEffect,Hypoalbuminemia,decreased albumin concentration
+HP:0003073,SideEffect,Hypoalbuminemia,decreased albumin level
+HP:0003073,SideEffect,Hypoalbuminemia,decreased albumin level in blood
+HP:0003073,SideEffect,Hypoalbuminemia,decreased circulating abumin concentration
+HP:0003073,SideEffect,Hypoalbuminemia,hypoalbuminaemia
+HP:0003073,SideEffect,Hypoalbuminemia,low blood albumin
+HP:0003073,SideEffect,Hypoalbuminemia,reduced albumin concentration
+HP:0003073,SideEffect,Hypoalbuminemia,reduced albumin level
+HP:0003073,SideEffect,Hypoalbuminemia,reduced albumin level in blood
+HP:0030746,SideEffect,Intraventricular hemorrhage,intraventricular hemorrhage
+HP:0030746,SideEffect,Intraventricular hemorrhage,intraventricular haemorrhage
+HP:0001894,SideEffect,Thrombocytosis,thrombocytosis
+HP:0001894,SideEffect,Thrombocytosis,increased number of platelets in blood
+HP:0001894,SideEffect,Thrombocytosis,increased platelet count
+HP:0012213,SideEffect,Decreased glomerular filtration rate,decreased glomerular filtration rate
+HP:0012213,SideEffect,Decreased glomerular filtration rate,decreased gfr
+HP:0012213,SideEffect,Decreased glomerular filtration rate,impaired renal creatinine clearance
+HP:0012213,SideEffect,Decreased glomerular filtration rate,reduced creatinine clearance
+HP:0002878,SideEffect,Respiratory failure,respiratory failure
+HP:0100519,SideEffect,Anuria,anuria
+HP:0100519,SideEffect,Anuria,absent urine output
+HP:0001944,SideEffect,Dehydration,dehydration
+HP:0001944,SideEffect,Dehydration,exsiccosis
+HP:0000818,SideEffect,Abnormality of the endocrine system,abnormality of the endocrine system
+HP:0030157,SideEffect,Flank pain,flank pain
+HP:0001695,SideEffect,Cardiac arrest,cardiac arrest
+HP:0001695,SideEffect,Cardiac arrest,heart stops beating
+HP:0002105,SideEffect,Hemoptysis,hemoptysis
+HP:0002105,SideEffect,Hemoptysis,coughing up blood
+HP:0002105,SideEffect,Hemoptysis,haemoptysis
+HP:0002153,SideEffect,Hyperkalemia,hyperkalemia
+HP:0002153,SideEffect,Hyperkalemia,elevated potassium 1 concentration
+HP:0002153,SideEffect,Hyperkalemia,elevated potassium 1 level
+HP:0002153,SideEffect,Hyperkalemia,elevated potassium 1 level in blood
+HP:0002153,SideEffect,Hyperkalemia,increased circulating potassium concentration
+HP:0002153,SideEffect,Hyperkalemia,increased potassium 1 concentration
+HP:0002153,SideEffect,Hyperkalemia,increased potassium 1 level
+HP:0002153,SideEffect,Hyperkalemia,increased potassium 1 level in blood
+HP:0012027,SideEffect,Laryngeal edema,laryngeal edema
+HP:0012027,SideEffect,Laryngeal edema,laryngeal oedema
+HP:0001974,SideEffect,Leukocytosis,leukocytosis
+HP:0001974,SideEffect,Leukocytosis,increased total leukocyte count
+HP:0001974,SideEffect,Leukocytosis,elevated white blood count
+HP:0001974,SideEffect,Leukocytosis,high white blood count
+HP:0001974,SideEffect,Leukocytosis,increased blood leukocyte number
+HP:0100526,SideEffect,Neoplasm of the lung,neoplasm of the lung
+HP:0100526,SideEffect,Neoplasm of the lung,lung tumor
+HP:0100526,SideEffect,Neoplasm of the lung,lung tumour
+HP:0011726,SideEffect,Persistent fetal circulation,persistent fetal circulation
+HP:0011726,SideEffect,Persistent fetal circulation,persistent foetal circulation
+HP:0002202,SideEffect,Pleural effusion,pleural effusion
+HP:0002202,SideEffect,Pleural effusion,fluid around lungs
+HP:0003765,SideEffect,Psoriasiform dermatitis,psoriasiform dermatitis
+HP:0003765,SideEffect,Psoriasiform dermatitis,psoriasis
+HP:0012330,SideEffect,Pyelonephritis,pyelonephritis
+HP:0002307,SideEffect,Drooling,drooling
+HP:0002307,SideEffect,Drooling,dribbling
+HP:0002307,SideEffect,Drooling,sialorrhea
+HP:0003781,SideEffect,Excessive salivation,excessive salivation
+HP:0003781,SideEffect,Excessive salivation,excessive production of saliva
+HP:0003781,SideEffect,Excessive salivation,hypersalivation
+HP:0003781,SideEffect,Excessive salivation,mouth watering
+HP:0003781,SideEffect,Excessive salivation,oversalivation
+HP:0003781,SideEffect,Excessive salivation,ptyalism
+HP:0003781,SideEffect,Excessive salivation,watery mouth
+HP:0012764,SideEffect,Orthopnea,orthopnea
+HP:0000613,SideEffect,Photophobia,photophobia
+HP:0000613,SideEffect,Photophobia,extreme sensitivity of the eyes to light
+HP:0000613,SideEffect,Photophobia,light hypersensitivity
+HP:0000613,SideEffect,Photophobia,photodysphoria
+HP:0003493,SideEffect,Antinuclear antibody positivity,antinuclear antibody positivity
+HP:0003493,SideEffect,Antinuclear antibody positivity,antinuclear antibodies
+HP:0003493,SideEffect,Antinuclear antibody positivity,antinuclear antibody positive
+HP:0003493,SideEffect,Antinuclear antibody positivity,elevated antinuclear antibody
+HP:0003493,SideEffect,Antinuclear antibody positivity,serum antinuclear antibody
+HP:0001709,SideEffect,Third degree atrioventricular block,third degree atrioventricular block
+HP:0001709,SideEffect,Third degree atrioventricular block,complete heart block
+HP:0003565,SideEffect,Elevated erythrocyte sedimentation rate,elevated erythrocyte sedimentation rate
+HP:0003565,SideEffect,Elevated erythrocyte sedimentation rate,elevated esr
+HP:0003565,SideEffect,Elevated erythrocyte sedimentation rate,elevated sedimentation rate
+HP:0003565,SideEffect,Elevated erythrocyte sedimentation rate,high erythrocyte sedimentation rate
+HP:0003565,SideEffect,Elevated erythrocyte sedimentation rate,high esr
+HP:0003565,SideEffect,Elevated erythrocyte sedimentation rate,increased erythrocyte sedimentation rate
+HP:0003565,SideEffect,Elevated erythrocyte sedimentation rate,raised erythrocyte sedimentation rate
+HP:0006682,SideEffect,Ventricular extrasystoles,ventricular extrasystoles
+HP:0006682,SideEffect,Ventricular extrasystoles,premature ventricular contraction
+HP:0006682,SideEffect,Ventricular extrasystoles,extra heart beat
+HP:0006682,SideEffect,Ventricular extrasystoles,premature ventricular beat
+HP:0006682,SideEffect,Ventricular extrasystoles,premature ventricular contractions
+HP:0006682,SideEffect,Ventricular extrasystoles,ventricular ectopics
+HP:0006682,SideEffect,Ventricular extrasystoles,ventricular premature beat
+HP:0030829,SideEffect,Abnormal breath sound,abnormal breath sound
+HP:0030829,SideEffect,Abnormal breath sound,abnormal lung auscultation finding
+HP:0002113,SideEffect,Pulmonary infiltrates,pulmonary infiltrates
+HP:0002113,SideEffect,Pulmonary infiltrates,lung infiltrates
+HP:0002113,SideEffect,Pulmonary infiltrates,pulmonic infiltration
+HP:0012534,SideEffect,Dysesthesia,dysesthesia
+HP:0012534,SideEffect,Dysesthesia,dysaesthesia
+HP:0012534,SideEffect,Dysesthesia,hyperalgesia
+HP:0012534,SideEffect,Dysesthesia,hyperpathia
+HP:0002637,SideEffect,Cerebral ischemia,cerebral ischemia
+HP:0002637,SideEffect,Cerebral ischemia,brain ischemia
+HP:0002637,SideEffect,Cerebral ischemia,cerebrovascular ischemia
+HP:0002637,SideEffect,Cerebral ischemia,disruption of blood oxygen supply to brain
+HP:0000618,SideEffect,Blindness,blindness
+HP:0000618,SideEffect,Blindness,total vision loss
+HP:0012395,SideEffect,Seasonal allergy,seasonal allergy
+HP:0002045,SideEffect,Hypothermia,hypothermia
+HP:0002045,SideEffect,Hypothermia,abnormally low body temperature
+HP:0001254,SideEffect,Lethargy,lethargy
+HP:0001254,SideEffect,Lethargy,dullness
+HP:0001254,SideEffect,Lethargy,inaction
+HP:0001254,SideEffect,Lethargy,inactivity
+HP:0001254,SideEffect,Lethargy,languor
+HP:0001254,SideEffect,Lethargy,slowness
+HP:0001254,SideEffect,Lethargy,torpor
+HP:0001597,SideEffect,Abnormality of the nail,abnormality of the nail
+HP:0001597,SideEffect,Abnormality of the nail,abnormal nail morphology
+HP:0011110,SideEffect,Recurrent tonsillitis,recurrent tonsillitis
+HP:0011110,SideEffect,Recurrent tonsillitis,recurrent inflammation of tonsils
+HP:0002919,SideEffect,Ketonuria,ketonuria
+HP:0002919,SideEffect,Ketonuria,ketonaciduria
+HP:0002919,SideEffect,Ketonuria,ketone bodies in urine
+HP:0001993,SideEffect,Ketoacidosis,ketoacidosis
+HP:0030757,SideEffect,Tooth abscess,tooth abscess
+HP:0030757,SideEffect,Tooth abscess,dental abscess
+HP:0030757,SideEffect,Tooth abscess,dentoalveolar abscess
+HP:0000633,SideEffect,Decreased lacrimation,decreased lacrimation
+HP:0000633,SideEffect,Decreased lacrimation,decreased tear secretion
+HP:0000633,SideEffect,Decreased lacrimation,hypolacrimia
+HP:0002757,SideEffect,Recurrent fractures,recurrent fractures
+HP:0002757,SideEffect,Recurrent fractures,frequent fractures
+HP:0002757,SideEffect,Recurrent fractures,increased fracture rate
+HP:0002757,SideEffect,Recurrent fractures,increased fractures
+HP:0002757,SideEffect,Recurrent fractures,multiple fractures
+HP:0002757,SideEffect,Recurrent fractures,multiple spontaneous fractures
+HP:0002757,SideEffect,Recurrent fractures,varying degree of multiple fractures
+HP:0002480,SideEffect,Hepatic encephalopathy,hepatic encephalopathy
+HP:0000648,SideEffect,Optic atrophy,optic atrophy
+HP:0000648,SideEffect,Optic atrophy,optic nerve atrophy
+HP:0000648,SideEffect,Optic atrophy,optic nerve degeneration
+HP:0001298,SideEffect,Encephalopathy,encephalopathy
+HP:0002917,SideEffect,Hypomagnesemia,hypomagnesemia
+HP:0002917,SideEffect,Hypomagnesemia,decreased magnesium 2 concentration
+HP:0002917,SideEffect,Hypomagnesemia,decreased magnesium 2 level
+HP:0002917,SideEffect,Hypomagnesemia,decreased magnesium 2 level in blood
+HP:0002917,SideEffect,Hypomagnesemia,low blood magnesium levels
+HP:0002917,SideEffect,Hypomagnesemia,low blood mg levels
+HP:0002917,SideEffect,Hypomagnesemia,reduced magnesium 2 concentration
+HP:0002917,SideEffect,Hypomagnesemia,reduced magnesium 2 level
+HP:0002917,SideEffect,Hypomagnesemia,reduced magnesium 2 level in blood
+HP:0004394,SideEffect,Multiple gastric polyps,multiple gastric polyps
+HP:0012592,SideEffect,Albuminuria,albuminuria
+HP:0100580,SideEffect,Barrett esophagus,barrett esophagus
+HP:0100580,SideEffect,Barrett esophagus,barret syndrome
+HP:0100580,SideEffect,Barrett esophagus,barrett oesophagus
+HP:0100580,SideEffect,Barrett esophagus,barretts esophagus
+HP:0100580,SideEffect,Barrett esophagus,barretts oesophagus
+HP:0100580,SideEffect,Barrett esophagus,endobrachyesophagus
+HP:0002043,SideEffect,Esophageal stricture,esophageal stricture
+HP:0002043,SideEffect,Esophageal stricture,narrowing of esophagus due to inflammation and scar tissue
+HP:0002043,SideEffect,Esophageal stricture,narrowing of oesophagus due to inflammation and scar tissue
+HP:0010450,SideEffect,Esophageal stenosis,esophageal stenosis
+HP:0010450,SideEffect,Esophageal stenosis,narrowing of the esophagus
+HP:0010450,SideEffect,Esophageal stenosis,narrowing of the oesophagus
+HP:0002040,SideEffect,Esophageal varix,esophageal varix
+HP:0002040,SideEffect,Esophageal varix,enlarged vein in esophagus
+HP:0002040,SideEffect,Esophageal varix,enlarged vein in oesophagus
+HP:0100790,SideEffect,Hernia,hernia
+HP:0002789,SideEffect,Tachypnea,tachypnea
+HP:0002789,SideEffect,Tachypnea,increased respiratory rate or depth of breathing
+HP:0002789,SideEffect,Tachypnea,polypnea
+HP:0002149,SideEffect,Hyperuricemia,hyperuricemia
+HP:0002149,SideEffect,Hyperuricemia,elevated uric acid concentration
+HP:0002149,SideEffect,Hyperuricemia,elevated uric acid level
+HP:0002149,SideEffect,Hyperuricemia,elevated uric acid level in blood
+HP:0002149,SideEffect,Hyperuricemia,high blood uric acid level
+HP:0002149,SideEffect,Hyperuricemia,hyperuricaemia
+HP:0002149,SideEffect,Hyperuricemia,increased uric acid concentration
+HP:0002149,SideEffect,Hyperuricemia,increased uric acid level
+HP:0002149,SideEffect,Hyperuricemia,increased uric acid level in blood
+HP:0011710,SideEffect,Bundle branch block,bundle branch block
+HP:0000746,SideEffect,Delusions,delusions
+HP:0000746,SideEffect,Delusions,delusion
+HP:0100660,SideEffect,Dyskinesia,dyskinesia
+HP:0100660,SideEffect,Dyskinesia,disorder of involuntary muscle movements
+HP:0100660,SideEffect,Dyskinesia,dyskinesis
+HP:0000805,SideEffect,Enuresis,enuresis
+HP:0002607,SideEffect,Bowel incontinence,bowel incontinence
+HP:0002607,SideEffect,Bowel incontinence,anal incontinence
+HP:0002607,SideEffect,Bowel incontinence,faecal incontinence
+HP:0002607,SideEffect,Bowel incontinence,fecal incontinence
+HP:0002607,SideEffect,Bowel incontinence,loss of bowel control
+HP:0100812,SideEffect,Halitosis,halitosis
+HP:0100812,SideEffect,Halitosis,bad breath
+HP:0100812,SideEffect,Halitosis,foetor ex ore
+HP:0003641,SideEffect,Hemoglobinuria,hemoglobinuria
+HP:0003641,SideEffect,Hemoglobinuria,haemoglobin in urine
+HP:0003641,SideEffect,Hemoglobinuria,hemoglobin in urine
+HP:0011854,SideEffect,Hemoperitoneum,hemoperitoneum
+HP:0002240,SideEffect,Hepatomegaly,hepatomegaly
+HP:0002240,SideEffect,Hepatomegaly,enlarged liver
+HP:0003124,SideEffect,Hypercholesterolemia,hypercholesterolemia
+HP:0003124,SideEffect,Hypercholesterolemia,elevated serum cholesterol
+HP:0003124,SideEffect,Hypercholesterolemia,elevated total cholesterol
+HP:0003124,SideEffect,Hypercholesterolemia,increased total cholesterol
+HP:0000821,SideEffect,Hypothyroidism,hypothyroidism
+HP:0000821,SideEffect,Hypothyroidism,low t4
+HP:0000821,SideEffect,Hypothyroidism,underactive thyroid
+HP:0006511,SideEffect,Laryngeal stridor,laryngeal stridor
+HP:0006511,SideEffect,Laryngeal stridor,laryngeal stidor
+HP:0012539,SideEffect,Non-Hodgkin lymphoma,non hodgkin lymphoma
+HP:0002665,SideEffect,Lymphoma,lymphoma
+HP:0002665,SideEffect,Lymphoma,cancer of lymphatic system
+HP:0100022,SideEffect,Abnormality of movement,abnormality of movement
+HP:0100022,SideEffect,Abnormality of movement,movement disorder
+HP:0100022,SideEffect,Abnormality of movement,unusual movement
+HP:0001252,SideEffect,Hypotonia,hypotonia
+HP:0001252,SideEffect,Hypotonia,low muscle tone
+HP:0001252,SideEffect,Hypotonia,low or weak muscle tone
+HP:0001252,SideEffect,Hypotonia,muscle hypotonia
+HP:0001252,SideEffect,Hypotonia,muscular hypotonia
+HP:0002063,SideEffect,Rigidity,rigidity
+HP:0002063,SideEffect,Rigidity,muscle rigidity
+HP:0001336,SideEffect,Myoclonus,myoclonus
+HP:0001336,SideEffect,Myoclonus,myoclonic jerks
+HP:0200023,SideEffect,Priapism,priapism
+HP:0200023,SideEffect,Priapism,hulseyism
+HP:0010780,SideEffect,Hyperacusis,hyperacusis
+HP:0002167,SideEffect,Neurological speech impairment,neurological speech impairment
+HP:0002167,SideEffect,Neurological speech impairment,abnormal speech pattern
+HP:0002167,SideEffect,Neurological speech impairment,abnormal speech
+HP:0002167,SideEffect,Neurological speech impairment,abnormal vocalisation
+HP:0002167,SideEffect,Neurological speech impairment,abnormal vocalization
+HP:0002167,SideEffect,Neurological speech impairment,abnormality of speech or vocalization
+HP:0000733,SideEffect,Stereotypy,stereotypy
+HP:0000733,SideEffect,Stereotypy,motor stereotypy
+HP:0000733,SideEffect,Stereotypy,abnormal repetitive mannerism
+HP:0000733,SideEffect,Stereotypy,repetitive behavior
+HP:0000733,SideEffect,Stereotypy,repetitive behaviour
+HP:0000733,SideEffect,Stereotypy,repetitive behaviour stereotypic behaviour
+HP:0000733,SideEffect,Stereotypy,repetitive movements
+HP:0000733,SideEffect,Stereotypy,repetitive stereotypic behavior
+HP:0000733,SideEffect,Stereotypy,stereotyped
+HP:0000733,SideEffect,Stereotypy,stereotyped behavior
+HP:0000733,SideEffect,Stereotypy,stereotyped behaviors
+HP:0000733,SideEffect,Stereotypy,stereotyped behaviour
+HP:0000733,SideEffect,Stereotypy,stereotyped behaviours
+HP:0000733,SideEffect,Stereotypy,stereotypic behaviour
+HP:0000733,SideEffect,Stereotypy,stereotypic behaviours
+HP:0000733,SideEffect,Stereotypy,stereotypical motor behavior
+HP:0000733,SideEffect,Stereotypy,stereotypical motor behaviors
+HP:0000733,SideEffect,Stereotypy,stereotypical motor behaviour
+HP:0000733,SideEffect,Stereotypy,stereotypical motor behaviours
+HP:0000733,SideEffect,Stereotypy,stimming
+HP:0011107,SideEffect,Recurrent aphthous stomatitis,recurrent aphthous stomatitis
+HP:0011107,SideEffect,Recurrent aphthous stomatitis,recurrent canker sores
+HP:0011107,SideEffect,Recurrent aphthous stomatitis,recurrent oral aphthae
+HP:0010307,SideEffect,Stridor,stridor
+HP:0002619,SideEffect,Varicose veins,varicose veins
+HP:0100716,SideEffect,Self-injurious behavior,self injurious behavior
+HP:0100716,SideEffect,Self-injurious behavior,autoagression
+HP:0100716,SideEffect,Self-injurious behavior,self injury
+HP:0100716,SideEffect,Self-injurious behavior,self harm
+HP:0100716,SideEffect,Self-injurious behavior,self injurious behaviors
+HP:0100716,SideEffect,Self-injurious behavior,self injurious behaviours
+HP:0001266,SideEffect,Choreoathetosis,choreoathetosis
+HP:0001266,SideEffect,Choreoathetosis,choreoathetoid movements
+HP:0005115,SideEffect,Supraventricular arrhythmia,supraventricular arrhythmia
+HP:0005115,SideEffect,Supraventricular arrhythmia,supraventricular arrhythmias
+HP:0010553,SideEffect,Oculogyric crisis,oculogyric crisis
+HP:0002375,SideEffect,Hypokinesia,hypokinesia
+HP:0002375,SideEffect,Hypokinesia,decreased muscle movement
+HP:0002375,SideEffect,Hypokinesia,decreased spontaneous movement
+HP:0002375,SideEffect,Hypokinesia,decreased spontaneous movements
+HP:0100539,SideEffect,Periorbital edema,periorbital edema
+HP:0100539,SideEffect,Periorbital edema,periorbital cellulitis
+HP:0100539,SideEffect,Periorbital edema,periorbital oedema
+HP:0100754,SideEffect,Mania,mania
+HP:0100754,SideEffect,Mania,hypomania
+HP:0100754,SideEffect,Mania,hypomanic
+HP:0100754,SideEffect,Mania,manic
+HP:0011999,SideEffect,Paranoia,paranoia
+HP:0001657,SideEffect,Prolonged QT interval,prolonged qt interval
+HP:0001657,SideEffect,Prolonged QT interval,long qt syndrome
+HP:0001657,SideEffect,Prolonged QT interval,prolong qt interval on ekg
+HP:0000858,SideEffect,Irregular menstruation,irregular menstruation
+HP:0000858,SideEffect,Irregular menstruation,irregular menses
+HP:0000858,SideEffect,Irregular menstruation,irregular periods
+HP:0000858,SideEffect,Irregular menstruation,menstrual irregularities
+HP:0000858,SideEffect,Irregular menstruation,menstrual irregularity
+HP:0003537,SideEffect,Hypouricemia,hypouricemia
+HP:0003537,SideEffect,Hypouricemia,decreased uric acid concentration
+HP:0003537,SideEffect,Hypouricemia,decreased uric acid level
+HP:0003537,SideEffect,Hypouricemia,decreased uric acid level in blood
+HP:0003537,SideEffect,Hypouricemia,low blood uric acid levels
+HP:0003537,SideEffect,Hypouricemia,reduced uric acid concentration
+HP:0003537,SideEffect,Hypouricemia,reduced uric acid level
+HP:0003537,SideEffect,Hypouricemia,reduced uric acid level in blood
+HP:0012878,SideEffect,Retarded ejaculation,retarded ejaculation
+HP:0012878,SideEffect,Retarded ejaculation,delayed ejaculation
+HP:0002071,SideEffect,Abnormality of extrapyramidal motor function,abnormality of extrapyramidal motor function
+HP:0002071,SideEffect,Abnormality of extrapyramidal motor function,extrapyramidal dysfunction
+HP:0002071,SideEffect,Abnormality of extrapyramidal motor function,extrapyramidal signs
+HP:0002071,SideEffect,Abnormality of extrapyramidal motor function,extrapyramidal symptoms
+HP:0002071,SideEffect,Abnormality of extrapyramidal motor function,extrapyramidal syndrome
+HP:0002071,SideEffect,Abnormality of extrapyramidal motor function,extrapyramidal tract signs
+HP:0004305,SideEffect,Involuntary movements,involuntary movements
+HP:0004305,SideEffect,Involuntary movements,involuntary muscle contractions
+HP:0000670,SideEffect,Carious teeth,carious teeth
+HP:0000670,SideEffect,Carious teeth,caries
+HP:0000670,SideEffect,Carious teeth,cariosity of teeth
+HP:0000670,SideEffect,Carious teeth,dental caries
+HP:0000670,SideEffect,Carious teeth,dental cavities
+HP:0000670,SideEffect,Carious teeth,early dental caries
+HP:0000670,SideEffect,Carious teeth,frequent caries
+HP:0000670,SideEffect,Carious teeth,tooth cavities
+HP:0000670,SideEffect,Carious teeth,tooth decay
+HP:0012879,SideEffect,Anejaculation,anejaculation
+HP:0012879,SideEffect,Anejaculation,ejaculatory incompetence
+HP:0001288,SideEffect,Gait disturbance,gait disturbance
+HP:0001288,SideEffect,Gait disturbance,abnormal gait
+HP:0001288,SideEffect,Gait disturbance,abnormal walk
+HP:0001288,SideEffect,Gait disturbance,difficulty in walking
+HP:0001288,SideEffect,Gait disturbance,gait abnormalities
+HP:0001288,SideEffect,Gait disturbance,gait difficulties
+HP:0001288,SideEffect,Gait disturbance,gait disturbances
+HP:0001288,SideEffect,Gait disturbance,impaired gait
+HP:0001288,SideEffect,Gait disturbance,walking disability
+HP:0002381,SideEffect,Aphasia,aphasia
+HP:0002381,SideEffect,Aphasia,difficulty finding words
+HP:0002381,SideEffect,Aphasia,losing words
+HP:0002381,SideEffect,Aphasia,loss of words
+HP:0030014,SideEffect,Female sexual dysfunction,female sexual dysfunction
+LOINC:51990-0,LabTest,Basic Metabolic Panel,basic metabolic panel
+LOINC:2160-0,LabTest,Serum Creatinine,serum creatinine
+LOINC:24356-8,LabTest,Urinalysis,urinalysis
+LOINC:57698-3,LabTest,Lipid Panel,lipid panel
+LOINC:1558-6,LabTest,Fasting Blood Glucose,fasting blood glucose
+LOINC:2823-3,LabTest,Serum Potassium,serum potassium
+LOINC:2093-3,LabTest,Total Cholesterol,total cholesterol
+LOINC:13457-7,LabTest,LDL Cholesterol,ldl cholesterol
+LOINC:2085-9,LabTest,HDL Cholesterol,hdl cholesterol
+LOINC:2571-8,LabTest,Triglycerides,triglycerides
+LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,thyroid stimulating hormone
+LOINC:10839-9,LabTest,Troponin I,troponin i
+LOINC:30934-4,LabTest,BNP,bnp
+LOINC:58410-2,LabTest,Complete Blood Count,complete blood count
+LOINC:1988-5,LabTest,C-Reactive Protein,c reactive protein
+LOINC:4548-4,LabTest,HbA1c,hba1c
+LOINC:33762-6,LabTest,NT-proBNP,nt probnp
+LOINC:5902-2,LabTest,PT/INR,pt inr
+LOINC:24323-8,LabTest,Comprehensive Metabolic Panel,comprehensive metabolic panel
+LOINC:3024-7,LabTest,Free T4,free t4
+LOINC:3051-0,LabTest,Free T3,free t3
+LOINC:5382-7,LabTest,Thyroid Peroxidase Antibodies,thyroid peroxidase antibodies
+LOINC:24325-3,LabTest,Liver Function Tests,liver function tests
+LOINC:1989-3,LabTest,25-Hydroxyvitamin D,25 hydroxyvitamin d
+LOINC:17861-6,LabTest,Serum Calcium,serum calcium
+LOINC:2777-1,LabTest,Serum Phosphorus,serum phosphorus
+LOINC:2731-8,LabTest,Parathyroid Hormone,parathyroid hormone
+LOINC:6768-6,LabTest,Alkaline Phosphatase,alkaline phosphatase
+LOINC:3084-1,LabTest,Serum Uric Acid,serum uric acid
+LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,erythrocyte sedimentation rate
+LOINC:57021-8,LabTest,Complete Blood Count with Differential,complete blood count with differential
+LOINC:19113-0,LabTest,Total IgE,total ige
+LOINC:24336-0,LabTest,Arterial Blood Gas,arterial blood gas
+LOINC:1825-9,LabTest,Alpha-1 Antitrypsin,alpha 1 antitrypsin
+LOINC:21232-4,LabTest,Allergen-Specific IgE Panel,allergen specific ige panel
+LOINC:31971-5,LabTest,Rapid Strep Test,rapid strep test
+LOINC:75241-0,LabTest,Procalcitonin,procalcitonin
+LOINC:600-7,LabTest,Blood Culture,blood culture
+LOINC:630-4,LabTest,Urine Culture,urine culture
+LOINC:80382-5,LabTest,Influenza A/B Rapid Antigen,influenza a b rapid antigen
+LOINC:94500-6,LabTest,SARS-CoV-2 RNA PCR,sars cov 2 rna pcr
+LOINC:97097-0,LabTest,SARS-CoV-2 Antigen,sars cov 2 antigen
+LOINC:48065-7,LabTest,D-Dimer,d dimer
+LOINC:2276-4,LabTest,Ferritin,ferritin
+LOINC:626-2,LabTest,Throat Culture,throat culture
+LOINC:625-4,LabTest,Stool Culture,stool culture
+LOINC:5179-7,LabTest,Helicobacter pylori Antibody,helicobacter pylori antibody
+LOINC:56687-6,LabTest,Fecal Calprotectin,fecal calprotectin
+LOINC:31017-7,LabTest,Tissue Transglutaminase IgA,tissue transglutaminase iga
+LOINC:2335-8,LabTest,Stool Occult Blood,stool occult blood
+LOINC:2930-2,LabTest,Serum Gastrin,serum gastrin
+LOINC:2498-4,LabTest,Serum Iron,serum iron
+LOINC:1751-7,LabTest,Albumin,albumin
+LOINC:11572-5,LabTest,Rheumatoid Factor,rheumatoid factor
+LOINC:53027-9,LabTest,Anti-CCP Antibody,anti ccp antibody
+LOINC:8061-4,LabTest,Anti-Nuclear Antibody,anti nuclear antibody
+LOINC:2132-9,LabTest,Vitamin B12,vitamin b12
+LOINC:2284-8,LabTest,Folate,folate
+LOINC:2062-3,LabTest,Serum Ceruloplasmin,serum ceruloplasmin
+LOINC:2986-8,LabTest,Testosterone Total,testosterone total
+LOINC:2191-5,LabTest,DHEA-S,dhea s
+LOINC:3094-0,LabTest,Blood Urea Nitrogen,blood urea nitrogen
+LOINC:2857-1,LabTest,Prostate-Specific Antigen,prostate specific antigen
+LOINC:10334-1,LabTest,CA-125,ca 125
+LOINC:10501-5,LabTest,Luteinizing Hormone,luteinizing hormone
+LOINC:2500-7,LabTest,Total Iron Binding Capacity,total iron binding capacity
+LOINC:17849-1,LabTest,Reticulocyte Count,reticulocyte count
+RF:OBESITY,RiskFactor,Obesity,obesity
+RF:HIGH_SODIUM_DIET,RiskFactor,High sodium diet,high sodium diet
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,physical inactivity
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,RiskFactor,Excessive alcohol consumption,excessive alcohol consumption
+RF:SMOKING,RiskFactor,Smoking,smoking
+RF:FAMILY_HISTORY_OF_HYPERTENSION,RiskFactor,Family history of hypertension,family history of hypertension
+RF:AGE_OVER_45,RiskFactor,Age over 45,age over 45
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress,chronic stress
+RF:HIGH_SATURATED_FAT_DIET,RiskFactor,High saturated fat diet,high saturated fat diet
+RF:FAMILY_HISTORY_OF_HYPERLIPIDEM,RiskFactor,Family history of hyperlipidemia,family history of hyperlipidemia
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,type 2 diabetes mellitus
+RF:HYPOTHYROIDISM,RiskFactor,Hypothyroidism,hypothyroidism
+RF:HYPERTENSION,RiskFactor,Hypertension,hypertension
+RF:HYPERLIPIDEMIA,RiskFactor,Hyperlipidemia,hyperlipidemia
+RF:FAMILY_HISTORY_OF_CAD,RiskFactor,Family history of CAD,family history of cad
+RF:CORONARY_ARTERY_DISEASE,RiskFactor,Coronary artery disease,coronary artery disease
+RF:HEART_FAILURE,RiskFactor,Heart failure,heart failure
+RF:AGE_OVER_65,RiskFactor,Age over 65,age over 65
+RF:HYPERTHYROIDISM,RiskFactor,Hyperthyroidism,hyperthyroidism
+RF:FAMILY_HISTORY_OF_DIABETES,RiskFactor,Family history of diabetes,family history of diabetes
+RF:GESTATIONAL_DIABETES_HISTORY,RiskFactor,Gestational diabetes history,gestational diabetes history
+RF:POLYCYSTIC_OVARY_SYNDROME,RiskFactor,Polycystic ovary syndrome,polycystic ovary syndrome
+RF:HIGH-CALORIE_DIET,RiskFactor,High-calorie diet,high calorie diet
+RF:FEMALE_SEX,RiskFactor,Female sex,female sex
+RF:AGE_OVER_60,RiskFactor,Age over 60,age over 60
+RF:FAMILY_HISTORY_OF_THYROID_DISE,RiskFactor,Family history of thyroid disease,family history of thyroid disease
+RF:AUTOIMMUNE_DISEASE_HISTORY,RiskFactor,Autoimmune disease history,autoimmune disease history
+RF:IODINE_DEFICIENCY,RiskFactor,Iodine deficiency,iodine deficiency
+RF:FAMILY_HISTORY_OF_OBESITY,RiskFactor,Family history of obesity,family history of obesity
+RF:SEDENTARY_OCCUPATION,RiskFactor,Sedentary occupation,sedentary occupation
+RF:SLEEP_DEPRIVATION,RiskFactor,Sleep deprivation,sleep deprivation
+RF:LIMITED_SUN_EXPOSURE,RiskFactor,Limited sun exposure,limited sun exposure
+RF:DARK_SKIN_PIGMENTATION,RiskFactor,Dark skin pigmentation,dark skin pigmentation
+RF:MALABSORPTION_SYNDROMES,RiskFactor,Malabsorption syndromes,malabsorption syndromes
+RF:HIGH_PURINE_DIET,RiskFactor,High purine diet,high purine diet
+RF:MALE_SEX,RiskFactor,Male sex,male sex
+RF:CHRONIC_KIDNEY_DISEASE,RiskFactor,Chronic kidney disease,chronic kidney disease
+RF:FAMILY_HISTORY_OF_GOUT,RiskFactor,Family history of gout,family history of gout
+RF:FAMILY_HISTORY_OF_ASTHMA,RiskFactor,Family history of asthma,family history of asthma
+RF:ALLERGIC_RHINITIS,RiskFactor,Allergic rhinitis,allergic rhinitis
+RF:ATOPIC_DERMATITIS,RiskFactor,Atopic dermatitis,atopic dermatitis
+RF:SMOKING_OR_SECONDHAND_SMOKE_EX,RiskFactor,Smoking or secondhand smoke exposure,smoking or secondhand smoke exposure
+RF:OCCUPATIONAL_CHEMICAL_EXPOSURE,RiskFactor,Occupational chemical exposure,occupational chemical exposure
+RF:AIR_POLLUTION_EXPOSURE,RiskFactor,Air pollution exposure,air pollution exposure
+RF:OCCUPATIONAL_DUST/CHEMICAL_EXP,RiskFactor,Occupational dust/chemical exposure,occupational dust chemical exposure
+RF:INDOOR_AIR_POLLUTION,RiskFactor,Indoor air pollution,indoor air pollution
+RF:ALPHA-1_ANTITRYPSIN_DEFICIENCY,RiskFactor,Alpha-1 antitrypsin deficiency,alpha 1 antitrypsin deficiency
+RF:AGE_OVER_40,RiskFactor,Age over 40,age over 40
+RF:CHILDHOOD_RESPIRATORY_INFECTIO,RiskFactor,Childhood respiratory infections,childhood respiratory infections
+RF:FAMILY_HISTORY_OF_ATOPY,RiskFactor,Family history of atopy,family history of atopy
+RF:ASTHMA,RiskFactor,Asthma,asthma
+RF:ENVIRONMENTAL_ALLERGEN_EXPOSUR,RiskFactor,Environmental allergen exposure,environmental allergen exposure
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression,immunosuppression
+RF:CLOSE_CONTACT_WITH_INFECTED_IN,RiskFactor,Close contact with infected individuals,close contact with infected individuals
+RF:COPD,RiskFactor,COPD,copd
+RF:SEXUAL_ACTIVITY,RiskFactor,Sexual activity,sexual activity
+RF:URINARY_CATHETER_USE,RiskFactor,Urinary catheter use,urinary catheter use
+RF:MENOPAUSE,RiskFactor,Menopause,menopause
+RF:CHRONIC_LUNG_DISEASE,RiskFactor,Chronic lung disease,chronic lung disease
+RF:PREGNANCY,RiskFactor,Pregnancy,pregnancy
+RF:CARDIOVASCULAR_DISEASE,RiskFactor,Cardiovascular disease,cardiovascular disease
+RF:AGE_5–15_YEARS,RiskFactor,Age 5–15 years,age 5 15 years
+RF:CONTAMINATED_FOOD_OR_WATER,RiskFactor,Contaminated food or water,contaminated food or water
+RF:POOR_HAND_HYGIENE,RiskFactor,Poor hand hygiene,poor hand hygiene
+RF:HIGH-FAT_DIET,RiskFactor,High-fat diet,high fat diet
+RF:HIATAL_HERNIA,RiskFactor,Hiatal hernia,hiatal hernia
+RF:PRIOR_GASTROINTESTINAL_INFECTI,RiskFactor,Prior gastrointestinal infection,prior gastrointestinal infection
+RF:FAMILY_HISTORY_OF_IBS,RiskFactor,Family history of IBS,family history of ibs
+RF:H._PYLORI_INFECTION,RiskFactor,H. pylori infection,h pylori infection
+RF:NSAID_USE,RiskFactor,NSAID use,nsaid use
+RF:FAMILY_HISTORY_OF_CELIAC_DISEA,RiskFactor,Family history of celiac disease,family history of celiac disease
+RF:TYPE_1_DIABETES_MELLITUS,RiskFactor,Type 1 diabetes mellitus,type 1 diabetes mellitus
+RF:AUTOIMMUNE_THYROID_DISEASE,RiskFactor,Autoimmune thyroid disease,autoimmune thyroid disease
+RF:HLA-DQ2/DQ8_POSITIVITY,RiskFactor,HLA-DQ2/DQ8 positivity,hla dq2 dq8 positivity
+RF:FAMILY_HISTORY_OF_IBD,RiskFactor,Family history of IBD,family history of ibd
+RF:AGE_15–35,RiskFactor,Age 15–35,age 15 35
+RF:OCCUPATIONAL_HEAVY_LIFTING,RiskFactor,Occupational heavy lifting,occupational heavy lifting
+RF:AGE_30–50,RiskFactor,Age 30–50,age 30 50
+RF:AGE_OVER_50,RiskFactor,Age over 50,age over 50
+RF:JOINT_INJURY_HISTORY,RiskFactor,Joint injury history,joint injury history
+RF:FAMILY_HISTORY_OF_OA,RiskFactor,Family history of OA,family history of oa
+RF:FAMILY_HISTORY_OF_RA,RiskFactor,Family history of RA,family history of ra
+RF:AGE_40–60,RiskFactor,Age 40–60,age 40 60
+RF:LOW_BODY_WEIGHT,RiskFactor,Low body weight,low body weight
+RF:FAMILY_HISTORY_OF_OSTEOPOROSIS,RiskFactor,Family history of osteoporosis,family history of osteoporosis
+RF:VITAMIN_D_DEFICIENCY,RiskFactor,Vitamin D deficiency,vitamin d deficiency
+RF:CORTICOSTEROID_USE,RiskFactor,Corticosteroid use,corticosteroid use
+RF:FAMILY_HISTORY_OF_MIGRAINE,RiskFactor,Family history of migraine,family history of migraine
+RF:SLEEP_DISTURBANCES,RiskFactor,Sleep disturbances,sleep disturbances
+RF:HORMONAL_CHANGES,RiskFactor,Hormonal changes,hormonal changes
+RF:POOR_POSTURE,RiskFactor,Poor posture,poor posture
+RF:ANXIETY,RiskFactor,Anxiety,anxiety
+RF:FAMILY_HISTORY_OF_EPILEPSY,RiskFactor,Family history of epilepsy,family history of epilepsy
+RF:TRAUMATIC_BRAIN_INJURY,RiskFactor,Traumatic brain injury,traumatic brain injury
+RF:STROKE_HISTORY,RiskFactor,Stroke history,stroke history
+RF:CNS_INFECTION_HISTORY,RiskFactor,CNS infection history,cns infection history
+RF:FAMILY_HISTORY_OF_ALZHEIMER'S,RiskFactor,Family history of Alzheimer's,family history of alzheimers
+RF:APOE-E4_GENOTYPE,RiskFactor,APOE-e4 genotype,apoe e4 genotype
+RF:FAMILY_HISTORY_OF_PARKINSON'S,RiskFactor,Family history of Parkinson's,family history of parkinsons
+RF:PESTICIDE_EXPOSURE,RiskFactor,Pesticide exposure,pesticide exposure
+RF:FILAGGRIN_GENE_MUTATION,RiskFactor,Filaggrin gene mutation,filaggrin gene mutation
+RF:URBAN_ENVIRONMENT,RiskFactor,Urban environment,urban environment
+RF:FAMILY_HISTORY_OF_PSORIASIS,RiskFactor,Family history of psoriasis,family history of psoriasis
+RF:STREPTOCOCCAL_INFECTION,RiskFactor,Streptococcal infection,streptococcal infection
+RF:HORMONAL_CHANGES_(PUBERTY),RiskFactor,Hormonal changes (puberty),hormonal changes puberty
+RF:FAMILY_HISTORY_OF_ACNE,RiskFactor,Family history of acne,family history of acne
+RF:HIGH_GLYCEMIC_INDEX_DIET,RiskFactor,High glycemic index diet,high glycemic index diet
+RF:FREQUENT_HAND_WASHING,RiskFactor,Frequent hand washing,frequent hand washing
+RF:NICKEL_ALLERGY,RiskFactor,Nickel allergy,nickel allergy
+RF:FAMILY_HISTORY_OF_CKD,RiskFactor,Family history of CKD,family history of ckd
+RF:FAMILY_HISTORY_OF_BPH,RiskFactor,Family history of BPH,family history of bph
+RF:FAMILY_HISTORY_OF_ENDOMETRIOSI,RiskFactor,Family history of endometriosis,family history of endometriosis
+RF:NULLIPARITY,RiskFactor,Nulliparity,nulliparity
+RF:EARLY_MENARCHE,RiskFactor,Early menarche,early menarche
+RF:SHORT_MENSTRUAL_CYCLES,RiskFactor,Short menstrual cycles,short menstrual cycles
+RF:FAMILY_HISTORY_OF_PCOS,RiskFactor,Family history of PCOS,family history of pcos
+RF:INSULIN_RESISTANCE,RiskFactor,Insulin resistance,insulin resistance
+RF:MENSTRUAL_BLOOD_LOSS,RiskFactor,Menstrual blood loss,menstrual blood loss
+RF:LOW_DIETARY_IRON_INTAKE,RiskFactor,Low dietary iron intake,low dietary iron intake
+RF:CHRONIC_GI_BLOOD_LOSS,RiskFactor,Chronic GI blood loss,chronic gi blood loss
+RF:FAMILY_HISTORY_OF_GLAUCOMA,RiskFactor,Family history of glaucoma,family history of glaucoma
+RF:AFRICAN_ANCESTRY,RiskFactor,African ancestry,african ancestry
+RF:HIGH_INTRAOCULAR_PRESSURE,RiskFactor,High intraocular pressure,high intraocular pressure
+RF:MYOPIA,RiskFactor,Myopia,myopia

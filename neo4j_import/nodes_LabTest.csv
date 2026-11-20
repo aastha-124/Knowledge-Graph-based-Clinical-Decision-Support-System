@@ -1,0 +1,68 @@
+id,name
+LOINC:51990-0,Basic Metabolic Panel
+LOINC:2160-0,Serum Creatinine
+LOINC:24356-8,Urinalysis
+LOINC:57698-3,Lipid Panel
+LOINC:1558-6,Fasting Blood Glucose
+LOINC:2823-3,Serum Potassium
+LOINC:2093-3,Total Cholesterol
+LOINC:13457-7,LDL Cholesterol
+LOINC:2085-9,HDL Cholesterol
+LOINC:2571-8,Triglycerides
+LOINC:3016-3,Thyroid Stimulating Hormone
+LOINC:10839-9,Troponin I
+LOINC:30934-4,BNP
+LOINC:58410-2,Complete Blood Count
+LOINC:1988-5,C-Reactive Protein
+LOINC:4548-4,HbA1c
+LOINC:33762-6,NT-proBNP
+LOINC:5902-2,PT/INR
+LOINC:24323-8,Comprehensive Metabolic Panel
+LOINC:3024-7,Free T4
+LOINC:3051-0,Free T3
+LOINC:5382-7,Thyroid Peroxidase Antibodies
+LOINC:24325-3,Liver Function Tests
+LOINC:1989-3,25-Hydroxyvitamin D
+LOINC:17861-6,Serum Calcium
+LOINC:2777-1,Serum Phosphorus
+LOINC:2731-8,Parathyroid Hormone
+LOINC:6768-6,Alkaline Phosphatase
+LOINC:3084-1,Serum Uric Acid
+LOINC:4537-7,Erythrocyte Sedimentation Rate
+LOINC:57021-8,Complete Blood Count with Differential
+LOINC:19113-0,Total IgE
+LOINC:24336-0,Arterial Blood Gas
+LOINC:1825-9,Alpha-1 Antitrypsin
+LOINC:21232-4,Allergen-Specific IgE Panel
+LOINC:31971-5,Rapid Strep Test
+LOINC:75241-0,Procalcitonin
+LOINC:600-7,Blood Culture
+LOINC:630-4,Urine Culture
+LOINC:80382-5,Influenza A/B Rapid Antigen
+LOINC:94500-6,SARS-CoV-2 RNA PCR
+LOINC:97097-0,SARS-CoV-2 Antigen
+LOINC:48065-7,D-Dimer
+LOINC:2276-4,Ferritin
+LOINC:626-2,Throat Culture
+LOINC:625-4,Stool Culture
+LOINC:5179-7,Helicobacter pylori Antibody
+LOINC:56687-6,Fecal Calprotectin
+LOINC:31017-7,Tissue Transglutaminase IgA
+LOINC:2335-8,Stool Occult Blood
+LOINC:2930-2,Serum Gastrin
+LOINC:2498-4,Serum Iron
+LOINC:1751-7,Albumin
+LOINC:11572-5,Rheumatoid Factor
+LOINC:53027-9,Anti-CCP Antibody
+LOINC:8061-4,Anti-Nuclear Antibody
+LOINC:2132-9,Vitamin B12
+LOINC:2284-8,Folate
+LOINC:2062-3,Serum Ceruloplasmin
+LOINC:2986-8,Testosterone Total
+LOINC:2191-5,DHEA-S
+LOINC:3094-0,Blood Urea Nitrogen
+LOINC:2857-1,Prostate-Specific Antigen
+LOINC:10334-1,CA-125
+LOINC:10501-5,Luteinizing Hormone
+LOINC:2500-7,Total Iron Binding Capacity
+LOINC:17849-1,Reticulocyte Count

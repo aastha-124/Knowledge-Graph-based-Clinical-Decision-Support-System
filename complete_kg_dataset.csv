@@ -1,0 +1,1822 @@
+source_id,source_type,source_name,relation,target_id,target_type,target_name,data_source,metadata
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,NOT_RECOMMENDED_FOR,MONDO:0005071,Disease,Essential hypertension,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,TREATED_BY,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+DB00338,Medicine,Omeprazole,NOT_RECOMMENDED_FOR,MONDO:0005311,Disease,Hyperlipidemia,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005010,Disease,Coronary artery disease,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,TREATED_BY,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,TREATED_BY,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0005252,Disease,Heart failure,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+DB00381,Medicine,Amlodipine,NOT_RECOMMENDED_FOR,MONDO:0004981,Disease,Atrial fibrillation,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005148,Disease,Type 2 diabetes mellitus,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005148,Disease,Type 2 diabetes mellitus,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005148,Disease,Type 2 diabetes mellitus,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0005148,Disease,Type 2 diabetes mellitus,PrimeKG,{}
+DB00331,Medicine,Metformin,NOT_RECOMMENDED_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,TREATED_BY,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,TREATED_BY,MONDO:0004784,Disease,Hypothyroidism,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0011122,Disease,Obesity,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0011122,Disease,Obesity,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0011122,Disease,Obesity,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0011122,Disease,Obesity,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0011122,Disease,Obesity,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0011122,Disease,Obesity,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005300,Disease,Vitamin D deficiency,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005300,Disease,Vitamin D deficiency,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005300,Disease,Vitamin D deficiency,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005300,Disease,Vitamin D deficiency,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005300,Disease,Vitamin D deficiency,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0005300,Disease,Vitamin D deficiency,PrimeKG,{}
+DB00338,Medicine,Omeprazole,NOT_RECOMMENDED_FOR,MONDO:0005300,Disease,Vitamin D deficiency,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005812,Disease,Gout,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005812,Disease,Gout,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005812,Disease,Gout,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005812,Disease,Gout,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005812,Disease,Gout,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005812,Disease,Gout,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005812,Disease,Gout,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005812,Disease,Gout,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0005812,Disease,Gout,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0005812,Disease,Gout,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+DB00381,Medicine,Amlodipine,NOT_RECOMMENDED_FOR,MONDO:0004979,Disease,Asthma,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,TREATED_BY,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+DB00338,Medicine,Omeprazole,NOT_RECOMMENDED_FOR,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0005240,Disease,Acute upper respiratory infection,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005697,Disease,Acute bronchitis,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005697,Disease,Acute bronchitis,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005697,Disease,Acute bronchitis,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005697,Disease,Acute bronchitis,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005697,Disease,Acute bronchitis,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,NOT_RECOMMENDED_FOR,MONDO:0005697,Disease,Acute bronchitis,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,NOT_RECOMMENDED_FOR,MONDO:0005373,Disease,Allergic rhinitis,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005249,Disease,Pneumonia,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005249,Disease,Pneumonia,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005249,Disease,Pneumonia,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005249,Disease,Pneumonia,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005249,Disease,Pneumonia,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0005249,Disease,Pneumonia,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,NOT_RECOMMENDED_FOR,MONDO:0005249,Disease,Pneumonia,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,TREATED_BY,MONDO:0007186,Disease,Gastro-esophageal reflux disease,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,TREATED_BY,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,NOT_RECOMMENDED_FOR,MONDO:0005265,Disease,Irritable bowel syndrome,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005114,Disease,Peptic ulcer disease,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005130,Disease,Celiac disease,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005130,Disease,Celiac disease,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005130,Disease,Celiac disease,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005130,Disease,Celiac disease,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0005130,Disease,Celiac disease,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,TREATED_BY,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0004972,Disease,Crohn's disease,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0004651,Disease,Low back pain,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0004651,Disease,Low back pain,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0004651,Disease,Low back pain,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0004651,Disease,Low back pain,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,TREATED_BY,MONDO:0004651,Disease,Low back pain,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0004651,Disease,Low back pain,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005178,Disease,Osteoarthritis,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005178,Disease,Osteoarthritis,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0005178,Disease,Osteoarthritis,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0005178,Disease,Osteoarthritis,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0005178,Disease,Osteoarthritis,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005178,Disease,Osteoarthritis,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0008383,Disease,Rheumatoid arthritis,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005206,Disease,Osteoporosis,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005206,Disease,Osteoporosis,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005206,Disease,Osteoporosis,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005206,Disease,Osteoporosis,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005206,Disease,Osteoporosis,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005206,Disease,Osteoporosis,PrimeKG,{}
+DB01104,Medicine,Sertraline,NOT_RECOMMENDED_FOR,MONDO:0005206,Disease,Osteoporosis,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005072,Disease,Migraine,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005072,Disease,Migraine,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005072,Disease,Migraine,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005072,Disease,Migraine,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005072,Disease,Migraine,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0005072,Disease,Migraine,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0005072,Disease,Migraine,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0021668,Disease,Tension-type headache,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0005027,Disease,Epilepsy,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0004975,Disease,Alzheimer's disease,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0004975,Disease,Alzheimer's disease,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0004975,Disease,Alzheimer's disease,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0004975,Disease,Alzheimer's disease,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0004975,Disease,Alzheimer's disease,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,NOT_RECOMMENDED_FOR,MONDO:0004975,Disease,Alzheimer's disease,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005180,Disease,Parkinson's disease,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+DB00338,Medicine,Omeprazole,NOT_RECOMMENDED_FOR,MONDO:0005244,Disease,Urinary tract infection,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005810,Disease,Influenza,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005810,Disease,Influenza,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005810,Disease,Influenza,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005810,Disease,Influenza,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005810,Disease,Influenza,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,TREATED_BY,MONDO:0005810,Disease,Influenza,PrimeKG,{}
+DB00722,Medicine,Lisinopril,NOT_RECOMMENDED_FOR,MONDO:0005810,Disease,Influenza,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0100096,Disease,COVID-19,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0100096,Disease,COVID-19,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0100096,Disease,COVID-19,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0100096,Disease,COVID-19,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0100096,Disease,COVID-19,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0100096,Disease,COVID-19,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+DB00338,Medicine,Omeprazole,TREATED_BY,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,TREATED_BY,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,NOT_RECOMMENDED_FOR,MONDO:0000305,Disease,Acute pharyngitis,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0005560,Disease,Gastroenteritis,PrimeKG,{}
+HP:0002018,Symptom,Nausea,INDICATES,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,NOT_RECOMMENDED_FOR,MONDO:0004980,Disease,Atopic dermatitis,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005093,Disease,Psoriasis,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0005093,Disease,Psoriasis,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005093,Disease,Psoriasis,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005093,Disease,Psoriasis,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0005093,Disease,Psoriasis,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+DB00331,Medicine,Metformin,NOT_RECOMMENDED_FOR,MONDO:0005342,Disease,Acne vulgaris,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+HP:0002829,Symptom,Joint pain,INDICATES,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,NOT_RECOMMENDED_FOR,MONDO:0002115,Disease,Contact dermatitis,PrimeKG,{}
+HP:0012378,Symptom,Fatigue,INDICATES,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+HP:0002013,Symptom,Vomiting,INDICATES,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+DB00381,Medicine,Amlodipine,TREATED_BY,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,NOT_RECOMMENDED_FOR,MONDO:0005308,Disease,Chronic kidney disease,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0006659,Disease,Benign prostatic hyperplasia,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0006659,Disease,Benign prostatic hyperplasia,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0006659,Disease,Benign prostatic hyperplasia,PrimeKG,{}
+DB01001,Medicine,Albuterol,TREATED_BY,MONDO:0006659,Disease,Benign prostatic hyperplasia,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0006659,Disease,Benign prostatic hyperplasia,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005273,Disease,Endometriosis,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0005273,Disease,Endometriosis,PrimeKG,{}
+HP:0002094,Symptom,Shortness of breath,INDICATES,MONDO:0005273,Disease,Endometriosis,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005273,Disease,Endometriosis,PrimeKG,{}
+HP:0002027,Symptom,Abdominal pain,INDICATES,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+HP:0001824,Symptom,Weight loss,INDICATES,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+DB01104,Medicine,Sertraline,TREATED_BY,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005204,Disease,Polycystic ovary syndrome,PrimeKG,{}
+HP:0001945,Symptom,Fever,INDICATES,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+HP:0000988,Symptom,Skin rash,INDICATES,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+HP:0002014,Symptom,Diarrhea,INDICATES,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+DB01050,Medicine,Ibuprofen,TREATED_BY,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+DB01060,Medicine,Amoxicillin,TREATED_BY,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+DB00722,Medicine,Lisinopril,TREATED_BY,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+DB01076,Medicine,Atorvastatin,TREATED_BY,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+DB00722,Medicine,Lisinopril,NOT_RECOMMENDED_FOR,MONDO:0005315,Disease,Iron deficiency anemia,PrimeKG,{}
+HP:0002315,Symptom,Headache,INDICATES,MONDO:0005165,Disease,Glaucoma,PrimeKG,{}
+HP:0001324,Symptom,Muscle weakness,INDICATES,MONDO:0005165,Disease,Glaucoma,PrimeKG,{}
+HP:0100749,Symptom,Chest pain,INDICATES,MONDO:0005165,Disease,Glaucoma,PrimeKG,{}
+HP:0002321,Symptom,Dizziness,INDICATES,MONDO:0005165,Disease,Glaucoma,PrimeKG,{}
+HP:0012735,Symptom,Cough,INDICATES,MONDO:0005165,Disease,Glaucoma,PrimeKG,{}
+DB00331,Medicine,Metformin,TREATED_BY,MONDO:0005165,Disease,Glaucoma,PrimeKG,{}
+DB00316,Medicine,Acetaminophen,TREATED_BY,MONDO:0005165,Disease,Glaucoma,PrimeKG,{}
+4979,Symptom,asthma,INDICATES,12652,Disease,exercise-induced asthma,MedlinePlus,{}
+5311,Symptom,atherosclerosis,INDICATES,1369,Disease,arthritis,MedlinePlus,{}
+5311,Symptom,atherosclerosis,INDICATES,1824,Disease,weight loss,MedlinePlus,{}
+5311,Symptom,atherosclerosis,INDICATES,726,Disease,dementia,MedlinePlus,{}
+5311,Symptom,atherosclerosis,INDICATES,1370,Disease,rheumatoid arthritis,MedlinePlus,{}
+5130,Symptom,celiac disease,INDICATES,1824,Disease,weight loss,MedlinePlus,{}
+5130,Symptom,celiac disease,INDICATES,2013,Disease,vomiting,MedlinePlus,{}
+5130,Symptom,celiac disease,INDICATES,739,Disease,anxiety,MedlinePlus,{}
+5130,Symptom,celiac disease,INDICATES,12378,Disease,fatigue,MedlinePlus,{}
+5130,Symptom,celiac disease,INDICATES,2018,Disease,nausea,MedlinePlus,{}
+5130,Symptom,celiac disease,INDICATES,2315,Disease,headache,MedlinePlus,{}
+5130,Symptom,celiac disease,INDICATES,737,Disease,irritability,MedlinePlus,{}
+5010,Symptom,coronary artery disease,INDICATES,12378,Disease,fatigue,MedlinePlus,{}
+5252,Symptom,heart failure,INDICATES,12378,Disease,fatigue,MedlinePlus,{}
+5252,Symptom,heart failure,INDICATES,2018,Disease,nausea,MedlinePlus,{}
+5810,Symptom,infectious mononucleosis,INDICATES,12378,Disease,fatigue,MedlinePlus,{}
+5810,Symptom,infectious mononucleosis,INDICATES,1945,Disease,fever,MedlinePlus,{}
+5178_6629_5416_6630_6631_6632,Symptom,osteoarthritis,INDICATES,1369,Disease,arthritis,MedlinePlus,{}
+5178_6629_5416_6630_6631_6632,Symptom,osteoarthritis,INDICATES,1824,Disease,weight loss,MedlinePlus,{}
+5249,Symptom,pneumonia,INDICATES,2013,Disease,vomiting,MedlinePlus,{}
+5249,Symptom,pneumonia,INDICATES,1945,Disease,fever,MedlinePlus,{}
+5249,Symptom,pneumonia,INDICATES,2018,Disease,nausea,MedlinePlus,{}
+5249,Symptom,pneumonia,INDICATES,100806,Disease,sepsis,MedlinePlus,{}
+5249,Symptom,pneumonia,INDICATES,31273,Disease,shock,MedlinePlus,{}
+8383,Symptom,rheumatoid arthritis,INDICATES,1369,Disease,arthritis,MedlinePlus,{}
+8383,Symptom,rheumatoid arthritis,INDICATES,1386,Disease,joint swelling,MedlinePlus,{}
+8383,Symptom,rheumatoid arthritis,INDICATES,1370,Disease,rheumatoid arthritis,MedlinePlus,{}
+8383,Symptom,rheumatoid arthritis,INDICATES,12378,Disease,fatigue,MedlinePlus,{}
+8383,Symptom,rheumatoid arthritis,INDICATES,1945,Disease,fever,MedlinePlus,{}
+4651,Symptom,smallpox,INDICATES,12378,Disease,fatigue,MedlinePlus,{}
+4651,Symptom,smallpox,INDICATES,1945,Disease,fever,MedlinePlus,{}
+4651,Symptom,smallpox,INDICATES,2315,Disease,headache,MedlinePlus,{}
+DB01001,Medicine,Salbutamol,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3128,SideEffect,Lactic acidosis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,718,SideEffect,Aggressive behavior,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100845,SideEffect,Anaphylactic shock,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1681,SideEffect,Angina pectoris,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,739,SideEffect,Anxiety,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,11675,SideEffect,Arrhythmia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2829,SideEffect,Arthralgia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,10867,SideEffect,Dyssynergia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3418,SideEffect,Back pain,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1928,SideEffect,Abnormality of coagulation,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3256,SideEffect,Abnormality of the coagulation cascade,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,12387,SideEffect,Bronchitis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100749,SideEffect,Chest pain,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,12735,SideEffect,Cough,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,30766,SideEffect,Ear pain,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,969,SideEffect,Edema,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,421,SideEffect,Epistaxis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1945,SideEffect,Fever,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,10783,SideEffect,Erythema,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,206,SideEffect,Glossitis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3076,SideEffect,Glycosuria,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,30148,SideEffect,Heart murmur,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1618,SideEffect,Dysphonia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3074,SideEffect,Hyperglycemia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2883,SideEffect,Hyperventilation,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1943,SideEffect,Hypoglycemia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,952,SideEffect,Jaundice,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1946,SideEffect,Ketosis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2088,SideEffect,Abnormal lung morphology,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,11499,SideEffect,Mydriasis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1742,SideEffect,Nasal obstruction,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,12531,SideEffect,Pain,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,980,SideEffect,Pallor,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,759,SideEffect,Abnormal peripheral nervous system morphology,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1271,SideEffect,Polyneuropathy,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,9830,SideEffect,Peripheral neuropathy,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100602,SideEffect,Preeclampsia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100603,SideEffect,Toxemia of pregnancy,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100598,SideEffect,Pulmonary edema,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,11947,SideEffect,Respiratory tract infection,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,10280,SideEffect,Stomatitis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1649,SideEffect,Tachycardia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,4755,SideEffect,Supraventricular tachycardia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,360,SideEffect,Tinnitus,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1337,SideEffect,Tremor,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,30828,SideEffect,Wheezing,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,713,SideEffect,Agitation,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,712,SideEffect,Emotional lability,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,720,SideEffect,Mood swings,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1575,SideEffect,Mood changes,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2076,SideEffect,Migraine,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1942,SideEffect,Metabolic acidosis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2591,SideEffect,Polyphagia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100518,SideEffect,Dysuria,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,752,SideEffect,Hyperactivity,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2716,SideEffect,Lymphadenopathy,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,12250,SideEffect,ST segment depression,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,11105,SideEffect,Hypervolemia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2595,SideEffect,Ileus,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3270,SideEffect,Abdominal distention,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100607,SideEffect,Dysmenorrhea,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,964,SideEffect,Eczema,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,976,SideEffect,Eczematoid dermatitis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,2020,SideEffect,Gastroesophageal reflux,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,790,SideEffect,Hematuria,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,100963,SideEffect,Hyperesthesia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3474,SideEffect,Sensory impairment,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1276,SideEffect,Hypertonia,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,246,SideEffect,Sinusitis,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,7185,SideEffect,Loss of consciousness,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,1279,SideEffect,Syncope,SIDER,{}
+DB01001,Medicine,Salbutamol,CAUSES,3115,SideEffect,Abnormal EKG,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1596,SideEffect,Alopecia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2293,SideEffect,Alopecia of scalp,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,739,SideEffect,Anxiety,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,11675,SideEffect,Arrhythmia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2829,SideEffect,Arthralgia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,10867,SideEffect,Dyssynergia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,3418,SideEffect,Back pain,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1928,SideEffect,Abnormality of coagulation,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,3256,SideEffect,Abnormality of the coagulation cascade,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,100749,SideEffect,Chest pain,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1396,SideEffect,Cholestasis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,12735,SideEffect,Cough,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2015,SideEffect,Dysphagia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,651,SideEffect,Diplopia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,100518,SideEffect,Dysuria,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,969,SideEffect,Edema,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,421,SideEffect,Epistaxis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,478,SideEffect,Abnormality of the eye,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,10783,SideEffect,Erythema,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,212,SideEffect,Gingival overgrowth,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1635,SideEffect,Congestive heart failure,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,3074,SideEffect,Hyperglycemia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,3474,SideEffect,Sensory impairment,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,952,SideEffect,Jaundice,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1367,SideEffect,Abnormal joint morphology,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,3040,SideEffect,Arthropathy,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1882,SideEffect,Leukopenia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,6510,SideEffect,Chronic pulmonary obstruction,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1276,SideEffect,Hypertonia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,17,SideEffect,Nocturia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,12531,SideEffect,Pain,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1733,SideEffect,Pancreatitis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,759,SideEffect,Abnormal peripheral nervous system morphology,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1271,SideEffect,Polyneuropathy,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,9830,SideEffect,Peripheral neuropathy,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,103,SideEffect,Polyuria,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,7185,SideEffect,Loss of consciousness,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1279,SideEffect,Syncope,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1649,SideEffect,Tachycardia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,360,SideEffect,Tinnitus,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1337,SideEffect,Tremor,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,100515,SideEffect,Pollakisuria,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2633,SideEffect,Vasculitis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,4756,SideEffect,Ventricular tachycardia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,4324,SideEffect,Increased body weight,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1097,SideEffect,Keratoconjunctivitis sicca,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,4950,SideEffect,Peripheral arterial stenosis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,713,SideEffect,Agitation,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,741,SideEffect,Apathy,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,712,SideEffect,Emotional lability,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,720,SideEffect,Mood swings,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1575,SideEffect,Mood changes,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,12398,SideEffect,Peripheral edema,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2076,SideEffect,Migraine,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1324,SideEffect,Muscle weakness,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,200026,SideEffect,Ocular pain,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,958,SideEffect,Dry skin,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,2591,SideEffect,Polyphagia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,40186,SideEffect,Maculopapular exanthema,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1662,SideEffect,Bradycardia,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,505,SideEffect,Visual impairment,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1677,SideEffect,Coronary artery atherosclerosis,SIDER,{}
+DB00381,Medicine,Amlodipine,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1913,SideEffect,Granulocytopenia,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,100845,SideEffect,Anaphylactic shock,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1878,SideEffect,Hemolytic anemia,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,739,SideEffect,Anxiety,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1396,SideEffect,Cholestasis,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1259,SideEffect,Coma,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1289,SideEffect,Confusion,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1019,SideEffect,Erythroderma,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1880,SideEffect,Eosinophilia,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1250,SideEffect,Seizure,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,206,SideEffect,Glossitis,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1882,SideEffect,Leukopenia,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,123,SideEffect,Nephritis,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1969,SideEffect,Abnormal tubulointerstitial morphology,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1970,SideEffect,Tubulointerstitial nephritis,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,10280,SideEffect,Stomatitis,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,713,SideEffect,Agitation,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1410,SideEffect,Decreased liver function,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,2910,SideEffect,Elevated hepatic transaminase,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,40186,SideEffect,Maculopapular exanthema,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,752,SideEffect,Hyperactivity,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,1945,SideEffect,Fever,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,83,SideEffect,Renal insufficiency,SIDER,{}
+DB01060,Medicine,Amoxicillin,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1596,SideEffect,Alopecia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2293,SideEffect,Alopecia of scalp,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100845,SideEffect,Anaphylactic shock,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,11675,SideEffect,Arrhythmia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2829,SideEffect,Arthralgia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1369,SideEffect,Arthritis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,3418,SideEffect,Back pain,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12387,SideEffect,Bronchitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,30833,SideEffect,Neck pain,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100749,SideEffect,Chest pain,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1396,SideEffect,Cholestasis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1289,SideEffect,Confusion,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100577,SideEffect,Urinary bladder inflammation,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,365,SideEffect,Hearing impairment,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2015,SideEffect,Dysphagia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100518,SideEffect,Dysuria,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,978,SideEffect,Bruising susceptibility,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,964,SideEffect,Eczema,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,976,SideEffect,Eczematoid dermatitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,421,SideEffect,Epistaxis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,478,SideEffect,Abnormality of the eye,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,11885,SideEffect,Hemorrhage of the eye,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1945,SideEffect,Fever,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,225,SideEffect,Gingival bleeding,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,206,SideEffect,Glossitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1997,SideEffect,Gout,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,790,SideEffect,Hematuria,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,3074,SideEffect,Hyperglycemia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,3474,SideEffect,Sensory impairment,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1943,SideEffect,Hypoglycemia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,787,SideEffect,Nephrolithiasis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1919,SideEffect,Acute kidney injury,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2249,SideEffect,Melena,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100608,SideEffect,Metrorrhagia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1276,SideEffect,Hypertonia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,3198,SideEffect,Myopathy,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,9071,SideEffect,Inflammatory myopathy,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100614,SideEffect,Myositis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,123,SideEffect,Nephritis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,17,SideEffect,Nocturia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12531,SideEffect,Pain,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,9763,SideEffect,Limb pain,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1733,SideEffect,Pancreatitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,759,SideEffect,Abnormal peripheral nervous system morphology,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1271,SideEffect,Polyneuropathy,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,9830,SideEffect,Peripheral neuropathy,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,967,SideEffect,Petechiae,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2090,SideEffect,Pneumonia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,246,SideEffect,Sinusitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,200042,SideEffect,Skin ulcer,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,10280,SideEffect,Stomatitis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,155,SideEffect,Oral ulcer,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,7185,SideEffect,Loss of consciousness,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1279,SideEffect,Syncope,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,360,SideEffect,Tinnitus,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100515,SideEffect,Pollakisuria,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,20,SideEffect,Urinary incontinence,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,4324,SideEffect,Increased body weight,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,16,SideEffect,Urinary retention,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1399,SideEffect,Hepatic failure,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,712,SideEffect,Emotional lability,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,720,SideEffect,Mood swings,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1575,SideEffect,Mood changes,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12398,SideEffect,Peripheral edema,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2076,SideEffect,Migraine,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,5986,SideEffect,Limitation of neck motion,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12050,SideEffect,Anasarca,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2910,SideEffect,Elevated hepatic transaminase,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1324,SideEffect,Muscle weakness,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,958,SideEffect,Dry skin,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,100550,SideEffect,Tendon rupture,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1386,SideEffect,Joint swelling,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,6530,SideEffect,Abnormal pulmonary Interstitial morphology,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2591,SideEffect,Polyphagia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,12702,SideEffect,Tenesmus,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2354,SideEffect,Memory impairment,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,3750,SideEffect,Increased muscle fatiguability,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2904,SideEffect,Hyperbilirubinemia,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,622,SideEffect,Blurred vision,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,752,SideEffect,Hyperactivity,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,713,SideEffect,Agitation,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2716,SideEffect,Lymphadenopathy,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2311,SideEffect,Incoordination,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,282,SideEffect,Facial edema,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1342,SideEffect,Cerebral hemorrhage,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,2140,SideEffect,Ischemic stroke,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,83,SideEffect,Renal insufficiency,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,10313,SideEffect,Breast hypertrophy,SIDER,{}
+DB01076,Medicine,Atorvastatin,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3270,SideEffect,Abdominal distention,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,846,SideEffect,Adrenal insufficiency,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1913,SideEffect,Granulocytopenia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1596,SideEffect,Alopecia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2293,SideEffect,Alopecia of scalp,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100845,SideEffect,Anaphylactic shock,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1915,SideEffect,Aplastic anemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1878,SideEffect,Hemolytic anemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,739,SideEffect,Anxiety,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2104,SideEffect,Apnea,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,11675,SideEffect,Arrhythmia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2829,SideEffect,Arthralgia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1369,SideEffect,Arthritis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100750,SideEffect,Atelectasis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,12387,SideEffect,Bronchitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1396,SideEffect,Cholestasis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1259,SideEffect,Coma,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1289,SideEffect,Confusion,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,12735,SideEffect,Cough,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100280,SideEffect,Crohn's disease,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100577,SideEffect,Urinary bladder inflammation,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2015,SideEffect,Dysphagia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1019,SideEffect,Erythroderma,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,651,SideEffect,Diplopia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100518,SideEffect,Dysuria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,978,SideEffect,Bruising susceptibility,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,969,SideEffect,Edema,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1880,SideEffect,Eosinophilia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,421,SideEffect,Epistaxis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2020,SideEffect,Gastroesophageal reflux,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2239,SideEffect,Gastrointestinal hemorrhage,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,206,SideEffect,Glossitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3076,SideEffect,Glycosuria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,738,SideEffect,Hallucinations,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1635,SideEffect,Congestive heart failure,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2248,SideEffect,Hematemesis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1871,SideEffect,Abnormality of blood and blood-forming tissues,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,790,SideEffect,Hematuria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1618,SideEffect,Dysphonia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3074,SideEffect,Hyperglycemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3228,SideEffect,Hypernatremia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2092,SideEffect,Pulmonary arterial hypertension,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2901,SideEffect,Hypocalcemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1943,SideEffect,Hypoglycemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2902,SideEffect,Hyponatremia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3075,SideEffect,Hypoproteinemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,952,SideEffect,Jaundice,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1919,SideEffect,Acute kidney injury,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,6970,SideEffect,Periventricular leukomalacia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1882,SideEffect,Leukopenia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1392,SideEffect,Abnormality of the liver,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2249,SideEffect,Melena,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2383,SideEffect,Encephalitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,132,SideEffect,Menorrhagia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100608,SideEffect,Metrorrhagia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1276,SideEffect,Hypertonia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1742,SideEffect,Nasal obstruction,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,123,SideEffect,Nephritis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1969,SideEffect,Abnormal tubulointerstitial morphology,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1970,SideEffect,Tubulointerstitial nephritis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100,SideEffect,Nephrotic syndrome,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,759,SideEffect,Abnormal peripheral nervous system morphology,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1271,SideEffect,Polyneuropathy,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,9830,SideEffect,Peripheral neuropathy,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100520,SideEffect,Oliguria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100653,SideEffect,Optic neuritis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1733,SideEffect,Pancreatitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1876,SideEffect,Pancytopenia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,4398,SideEffect,Peptic ulcer,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2090,SideEffect,Pneumonia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,103,SideEffect,Polyuria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,93,SideEffect,Proteinuria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,83,SideEffect,Renal insufficiency,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,11947,SideEffect,Respiratory tract infection,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1250,SideEffect,Seizure,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,246,SideEffect,Sinusitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,10280,SideEffect,Stomatitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,155,SideEffect,Oral ulcer,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,7185,SideEffect,Loss of consciousness,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1279,SideEffect,Syncope,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1649,SideEffect,Tachycardia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,11703,SideEffect,Sinus tachycardia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,360,SideEffect,Tinnitus,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1337,SideEffect,Tremor,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,10783,SideEffect,Erythema,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,100515,SideEffect,Pollakisuria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,20,SideEffect,Urinary incontinence,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2633,SideEffect,Vasculitis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,7663,SideEffect,Reduced visual acuity,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,505,SideEffect,Visual impairment,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,30828,SideEffect,Wheezing,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,16,SideEffect,Urinary retention,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1399,SideEffect,Hepatic failure,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1688,SideEffect,Sinus bradycardia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,713,SideEffect,Agitation,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,712,SideEffect,Emotional lability,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,720,SideEffect,Mood swings,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1575,SideEffect,Mood changes,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,12398,SideEffect,Peripheral edema,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1410,SideEffect,Decreased liver function,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2910,SideEffect,Elevated hepatic transaminase,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,5986,SideEffect,Limitation of neck motion,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3010,SideEffect,Prolonged bleeding time,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3138,SideEffect,Increased blood urea nitrogen,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2605,SideEffect,Hepatic necrosis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,40213,SideEffect,Hypopnea,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1260,SideEffect,Dysarthria,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2791,SideEffect,Hypoventilation,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,5952,SideEffect,Decreased pulmonary function,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2157,SideEffect,Azotemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,3073,SideEffect,Hypoalbuminemia,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,30746,SideEffect,Intraventricular hemorrhage,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,622,SideEffect,Blurred vision,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,752,SideEffect,Hyperactivity,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2716,SideEffect,Lymphadenopathy,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,1894,SideEffect,Thrombocytosis,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,12213,SideEffect,Decreased glomerular filtration rate,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2878,SideEffect,Respiratory failure,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,2595,SideEffect,Ileus,SIDER,{}
+DB01050,Medicine,Ibuprofen,CAUSES,365,SideEffect,Hearing impairment,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1913,SideEffect,Granulocytopenia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1596,SideEffect,Alopecia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2293,SideEffect,Alopecia of scalp,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1878,SideEffect,Hemolytic anemia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1681,SideEffect,Angina pectoris,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100519,SideEffect,Anuria,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,739,SideEffect,Anxiety,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,11675,SideEffect,Arrhythmia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2829,SideEffect,Arthralgia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1369,SideEffect,Arthritis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,10867,SideEffect,Dyssynergia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3418,SideEffect,Back pain,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12387,SideEffect,Bronchitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,30833,SideEffect,Neck pain,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100749,SideEffect,Chest pain,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1289,SideEffect,Confusion,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12735,SideEffect,Cough,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100577,SideEffect,Urinary bladder inflammation,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1876,SideEffect,Pancytopenia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1944,SideEffect,Dehydration,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,651,SideEffect,Diplopia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100518,SideEffect,Dysuria,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,964,SideEffect,Eczema,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,976,SideEffect,Eczematoid dermatitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,969,SideEffect,Edema,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,818,SideEffect,Abnormality of the endocrine system,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1880,SideEffect,Eosinophilia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,421,SideEffect,Epistaxis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1945,SideEffect,Fever,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,30157,SideEffect,Flank pain,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,10783,SideEffect,Erythema,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1997,SideEffect,Gout,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,738,SideEffect,Hallucinations,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1695,SideEffect,Cardiac arrest,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,790,SideEffect,Hematuria,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2105,SideEffect,Hemoptysis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3074,SideEffect,Hyperglycemia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2153,SideEffect,Hyperkalemia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1943,SideEffect,Hypoglycemia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2902,SideEffect,Hyponatremia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,952,SideEffect,Jaundice,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1367,SideEffect,Abnormal joint morphology,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3040,SideEffect,Arthropathy,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1919,SideEffect,Acute kidney injury,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12027,SideEffect,Laryngeal edema,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,9763,SideEffect,Limb pain,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1974,SideEffect,Leukocytosis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1882,SideEffect,Leukopenia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100526,SideEffect,Neoplasm of the lung,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1276,SideEffect,Hypertonia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1742,SideEffect,Nasal obstruction,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3138,SideEffect,Increased blood urea nitrogen,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100520,SideEffect,Oliguria,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12531,SideEffect,Pain,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1733,SideEffect,Pancreatitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,759,SideEffect,Abnormal peripheral nervous system morphology,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1271,SideEffect,Polyneuropathy,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,9830,SideEffect,Peripheral neuropathy,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,11726,SideEffect,Persistent fetal circulation,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2202,SideEffect,Pleural effusion,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2090,SideEffect,Pneumonia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,93,SideEffect,Proteinuria,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3765,SideEffect,Psoriasiform dermatitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100598,SideEffect,Pulmonary edema,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12330,SideEffect,Pyelonephritis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2307,SideEffect,Drooling,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3781,SideEffect,Excessive salivation,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,246,SideEffect,Sinusitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,7185,SideEffect,Loss of consciousness,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1279,SideEffect,Syncope,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1649,SideEffect,Tachycardia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,360,SideEffect,Tinnitus,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1337,SideEffect,Tremor,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2157,SideEffect,Azotemia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2633,SideEffect,Vasculitis,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,4756,SideEffect,Ventricular tachycardia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,4324,SideEffect,Increased body weight,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,30828,SideEffect,Wheezing,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1399,SideEffect,Hepatic failure,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12764,SideEffect,Orthopnea,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,613,SideEffect,Photophobia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12398,SideEffect,Peripheral edema,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1410,SideEffect,Decreased liver function,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2910,SideEffect,Elevated hepatic transaminase,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3493,SideEffect,Antinuclear antibody positivity,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1709,SideEffect,Third degree atrioventricular block,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12050,SideEffect,Anasarca,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3565,SideEffect,Elevated erythrocyte sedimentation rate,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,6682,SideEffect,Ventricular extrasystoles,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,30829,SideEffect,Abnormal breath sound,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2354,SideEffect,Memory impairment,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2113,SideEffect,Pulmonary infiltrates,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,100845,SideEffect,Anaphylactic shock,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,622,SideEffect,Blurred vision,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,12534,SideEffect,Dysesthesia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1662,SideEffect,Bradycardia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,282,SideEffect,Facial edema,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,11105,SideEffect,Hypervolemia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,2637,SideEffect,Cerebral ischemia,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,83,SideEffect,Renal insufficiency,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB00722,Medicine,Lisinopril,CAUSES,618,SideEffect,Blindness,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,3270,SideEffect,Abdominal distention,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1681,SideEffect,Angina pectoris,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,100749,SideEffect,Chest pain,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1944,SideEffect,Dehydration,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,30766,SideEffect,Ear pain,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,478,SideEffect,Abnormality of the eye,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,10783,SideEffect,Erythema,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,12395,SideEffect,Seasonal allergy,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1871,SideEffect,Abnormality of blood and blood-forming tissues,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,3474,SideEffect,Sensory impairment,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1943,SideEffect,Hypoglycemia,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2045,SideEffect,Hypothermia,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1254,SideEffect,Lethargy,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1597,SideEffect,Abnormality of the nail,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1742,SideEffect,Nasal obstruction,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,9763,SideEffect,Limb pain,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1733,SideEffect,Pancreatitis,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,7185,SideEffect,Loss of consciousness,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1279,SideEffect,Syncope,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,11110,SideEffect,Recurrent tonsillitis,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1337,SideEffect,Tremor,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,12398,SideEffect,Peripheral edema,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2076,SideEffect,Migraine,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2910,SideEffect,Elevated hepatic transaminase,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2919,SideEffect,Ketonuria,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1993,SideEffect,Ketoacidosis,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,83,SideEffect,Renal insufficiency,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,2157,SideEffect,Azotemia,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,622,SideEffect,Blurred vision,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1662,SideEffect,Bradycardia,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,759,SideEffect,Abnormal peripheral nervous system morphology,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,1271,SideEffect,Polyneuropathy,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,9830,SideEffect,Peripheral neuropathy,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,30757,SideEffect,Tooth abscess,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB00331,Medicine,Metformin,CAUSES,969,SideEffect,Edema,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,718,SideEffect,Aggressive behavior,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1913,SideEffect,Granulocytopenia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1596,SideEffect,Alopecia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2293,SideEffect,Alopecia of scalp,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100845,SideEffect,Anaphylactic shock,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1878,SideEffect,Hemolytic anemia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1681,SideEffect,Angina pectoris,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,739,SideEffect,Anxiety,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2829,SideEffect,Arthralgia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,3418,SideEffect,Back pain,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100749,SideEffect,Chest pain,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1289,SideEffect,Confusion,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12735,SideEffect,Cough,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,651,SideEffect,Diplopia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,633,SideEffect,Decreased lacrimation,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,421,SideEffect,Epistaxis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,478,SideEffect,Abnormality of the eye,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1945,SideEffect,Fever,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2757,SideEffect,Recurrent fractures,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,206,SideEffect,Glossitis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,3076,SideEffect,Glycosuria,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,738,SideEffect,Hallucinations,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,790,SideEffect,Hematuria,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2480,SideEffect,Hepatic encephalopathy,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2901,SideEffect,Hypocalcemia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1943,SideEffect,Hypoglycemia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2902,SideEffect,Hyponatremia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,952,SideEffect,Jaundice,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,9763,SideEffect,Limb pain,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1974,SideEffect,Leukocytosis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1882,SideEffect,Leukopenia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1392,SideEffect,Abnormality of the liver,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1969,SideEffect,Abnormal tubulointerstitial morphology,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1970,SideEffect,Tubulointerstitial nephritis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100,SideEffect,Nephrotic syndrome,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,648,SideEffect,Optic atrophy,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100653,SideEffect,Optic neuritis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12531,SideEffect,Pain,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1733,SideEffect,Pancreatitis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1876,SideEffect,Pancytopenia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,967,SideEffect,Petechiae,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,93,SideEffect,Proteinuria,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,10280,SideEffect,Stomatitis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1649,SideEffect,Tachycardia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,360,SideEffect,Tinnitus,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1337,SideEffect,Tremor,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100515,SideEffect,Pollakisuria,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,4324,SideEffect,Increased body weight,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1298,SideEffect,Encephalopathy,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1399,SideEffect,Hepatic failure,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,713,SideEffect,Agitation,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,741,SideEffect,Apathy,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12398,SideEffect,Peripheral edema,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2917,SideEffect,Hypomagnesemia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1324,SideEffect,Muscle weakness,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2605,SideEffect,Hepatic necrosis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,958,SideEffect,Dry skin,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,7663,SideEffect,Reduced visual acuity,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,622,SideEffect,Blurred vision,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12534,SideEffect,Dysesthesia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1662,SideEffect,Bradycardia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,505,SideEffect,Visual impairment,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2910,SideEffect,Elevated hepatic transaminase,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,4394,SideEffect,Multiple gastric polyps,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,83,SideEffect,Renal insufficiency,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12592,SideEffect,Albuminuria,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100580,SideEffect,Barrett esophagus,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100577,SideEffect,Urinary bladder inflammation,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2015,SideEffect,Dysphagia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100607,SideEffect,Dysmenorrhea,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100518,SideEffect,Dysuria,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,30766,SideEffect,Ear pain,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2043,SideEffect,Esophageal stricture,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,10450,SideEffect,Esophageal stenosis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2040,SideEffect,Esophageal varix,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2020,SideEffect,Gastroesophageal reflux,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,10783,SideEffect,Erythema,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2239,SideEffect,Gastrointestinal hemorrhage,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,100790,SideEffect,Hernia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,3474,SideEffect,Sensory impairment,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1367,SideEffect,Abnormal joint morphology,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,3040,SideEffect,Arthropathy,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12027,SideEffect,Laryngeal edema,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2249,SideEffect,Melena,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1276,SideEffect,Hypertonia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,103,SideEffect,Polyuria,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,246,SideEffect,Sinusitis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,155,SideEffect,Oral ulcer,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1410,SideEffect,Decreased liver function,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2076,SideEffect,Migraine,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,12050,SideEffect,Anasarca,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2789,SideEffect,Tachypnea,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2591,SideEffect,Polyphagia,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2716,SideEffect,Lymphadenopathy,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,1369,SideEffect,Arthritis,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,3270,SideEffect,Abdominal distention,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,40186,SideEffect,Maculopapular exanthema,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,282,SideEffect,Facial edema,SIDER,{}
+DB00338,Medicine,Omeprazole,CAUSES,2149,SideEffect,Hyperuricemia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2027,SideEffect,Abdominal pain,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,718,SideEffect,Aggressive behavior,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1913,SideEffect,Granulocytopenia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1596,SideEffect,Alopecia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2293,SideEffect,Alopecia of scalp,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1915,SideEffect,Aplastic anemia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,4396,SideEffect,Poor appetite,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,739,SideEffect,Anxiety,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2104,SideEffect,Apnea,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11675,SideEffect,Arrhythmia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2829,SideEffect,Arthralgia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,10867,SideEffect,Dyssynergia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3418,SideEffect,Back pain,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12387,SideEffect,Bronchitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11710,SideEffect,Bundle branch block,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100749,SideEffect,Chest pain,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1259,SideEffect,Coma,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1289,SideEffect,Confusion,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12735,SideEffect,Cough,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100577,SideEffect,Urinary bladder inflammation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2015,SideEffect,Dysphagia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1944,SideEffect,Dehydration,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,746,SideEffect,Delusions,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11123,SideEffect,Inflammatory abnormality of the skin,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,651,SideEffect,Diplopia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,103,SideEffect,Polyuria,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2321,SideEffect,Vertigo,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1262,SideEffect,Excessive daytime somnolence,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100660,SideEffect,Dyskinesia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100607,SideEffect,Dysmenorrhea,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2094,SideEffect,Dyspnea,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2098,SideEffect,Respiratory distress,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100518,SideEffect,Dysuria,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,30766,SideEffect,Ear pain,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,964,SideEffect,Eczema,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,976,SideEffect,Eczematoid dermatitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,969,SideEffect,Edema,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,818,SideEffect,Abnormality of the endocrine system,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,805,SideEffect,Enuresis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,421,SideEffect,Epistaxis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,478,SideEffect,Abnormality of the eye,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11885,SideEffect,Hemorrhage of the eye,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12378,SideEffect,Fatigue,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2607,SideEffect,Bowel incontinence,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1945,SideEffect,Fever,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,10783,SideEffect,Erythema,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2757,SideEffect,Recurrent fractures,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11024,SideEffect,Abnormality of the gastrointestinal tract,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2239,SideEffect,Gastrointestinal hemorrhage,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,212,SideEffect,Gingival overgrowth,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,206,SideEffect,Glossitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100812,SideEffect,Halitosis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,738,SideEffect,Hallucinations,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2315,SideEffect,Headache,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,790,SideEffect,Hematuria,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3641,SideEffect,Hemoglobinuria,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11854,SideEffect,Hemoperitoneum,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2105,SideEffect,Hemoptysis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12115,SideEffect,Hepatitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2240,SideEffect,Hepatomegaly,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100790,SideEffect,Hernia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3124,SideEffect,Hypercholesterolemia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100963,SideEffect,Hyperesthesia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3074,SideEffect,Hyperglycemia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2092,SideEffect,Pulmonary arterial hypertension,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2883,SideEffect,Hyperventilation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3474,SideEffect,Sensory impairment,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1943,SideEffect,Hypoglycemia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2902,SideEffect,Hyponatremia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,821,SideEffect,Hypothyroidism,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,952,SideEffect,Jaundice,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1367,SideEffect,Abnormal joint morphology,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3040,SideEffect,Arthropathy,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1919,SideEffect,Acute kidney injury,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,6511,SideEffect,Laryngeal stridor,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2487,SideEffect,Hyperkinetic movements,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1882,SideEffect,Leukopenia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12539,SideEffect,Non-Hodgkin lymphoma,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2665,SideEffect,Lymphoma,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2249,SideEffect,Melena,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,132,SideEffect,Menorrhagia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100608,SideEffect,Metrorrhagia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100022,SideEffect,Abnormality of movement,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1276,SideEffect,Hypertonia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1252,SideEffect,Hypotonia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2063,SideEffect,Rigidity,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11499,SideEffect,Mydriasis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1336,SideEffect,Myoclonus,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2018,SideEffect,Nausea,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,759,SideEffect,Abnormal peripheral nervous system morphology,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1271,SideEffect,Polyneuropathy,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,9830,SideEffect,Peripheral neuropathy,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,17,SideEffect,Nocturia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100520,SideEffect,Oliguria,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100653,SideEffect,Optic neuritis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12531,SideEffect,Pain,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,980,SideEffect,Pallor,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1962,SideEffect,Palpitations,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1733,SideEffect,Pancreatitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1876,SideEffect,Pancytopenia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3401,SideEffect,Paresthesia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,4398,SideEffect,Peptic ulcer,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,200023,SideEffect,Priapism,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,989,SideEffect,Pruritus,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12330,SideEffect,Pyelonephritis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,10780,SideEffect,Hyperacusis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11947,SideEffect,Respiratory tract infection,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12384,SideEffect,Rhinitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2307,SideEffect,Drooling,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3781,SideEffect,Excessive salivation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1250,SideEffect,Seizure,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,246,SideEffect,Sinusitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,951,SideEffect,Abnormality of the skin,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2167,SideEffect,Neurological speech impairment,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,733,SideEffect,Stereotypy,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,10280,SideEffect,Stomatitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11107,SideEffect,Recurrent aphthous stomatitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,155,SideEffect,Oral ulcer,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,10307,SideEffect,Stridor,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,975,SideEffect,Hyperhidrosis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,7185,SideEffect,Loss of consciousness,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1279,SideEffect,Syncope,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1649,SideEffect,Tachycardia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1873,SideEffect,Thrombocytopenia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,360,SideEffect,Tinnitus,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1337,SideEffect,Tremor,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100515,SideEffect,Pollakisuria,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,20,SideEffect,Urinary incontinence,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2619,SideEffect,Varicose veins,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2633,SideEffect,Vasculitis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,4756,SideEffect,Ventricular tachycardia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2013,SideEffect,Vomiting,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,4324,SideEffect,Increased body weight,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1097,SideEffect,Keratoconjunctivitis sicca,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,217,SideEffect,Xerostomia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,16,SideEffect,Urinary retention,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100716,SideEffect,Self-injurious behavior,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1266,SideEffect,Choreoathetosis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1399,SideEffect,Hepatic failure,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,5115,SideEffect,Supraventricular arrhythmia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,713,SideEffect,Agitation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,741,SideEffect,Apathy,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,712,SideEffect,Emotional lability,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,720,SideEffect,Mood swings,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1575,SideEffect,Mood changes,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,613,SideEffect,Photophobia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,10553,SideEffect,Oculogyric crisis,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12398,SideEffect,Peripheral edema,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2375,SideEffect,Hypokinesia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2076,SideEffect,Migraine,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100539,SideEffect,Periorbital edema,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12050,SideEffect,Anasarca,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100754,SideEffect,Mania,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1324,SideEffect,Muscle weakness,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,200026,SideEffect,Ocular pain,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,11999,SideEffect,Paranoia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1657,SideEffect,Prolonged QT interval,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,958,SideEffect,Dry skin,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,858,SideEffect,Irregular menstruation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,4395,SideEffect,Malnutrition,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3537,SideEffect,Hypouricemia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3326,SideEffect,Myalgia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2591,SideEffect,Polyphagia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12702,SideEffect,Tenesmus,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12878,SideEffect,Retarded ejaculation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2071,SideEffect,Abnormality of extrapyramidal motor function,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,4305,SideEffect,Involuntary movements,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,670,SideEffect,Carious teeth,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,12879,SideEffect,Anejaculation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2904,SideEffect,Hyperbilirubinemia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,100845,SideEffect,Anaphylactic shock,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,3270,SideEffect,Abdominal distention,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,40186,SideEffect,Maculopapular exanthema,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,752,SideEffect,Hyperactivity,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1662,SideEffect,Bradycardia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,618,SideEffect,Blindness,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2716,SideEffect,Lymphadenopathy,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2311,SideEffect,Incoordination,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,282,SideEffect,Facial edema,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1288,SideEffect,Gait disturbance,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1928,SideEffect,Abnormality of coagulation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2381,SideEffect,Aphasia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,30014,SideEffect,Female sexual dysfunction,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,1618,SideEffect,Dysphonia,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,10313,SideEffect,Breast hypertrophy,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2791,SideEffect,Hypoventilation,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,2878,SideEffect,Respiratory failure,SIDER,{}
+DB01104,Medicine,Sertraline,CAUSES,505,SideEffect,Visual impairment,SIDER,{}
+MONDO:0005071,Disease,Essential hypertension,REQUIRES_TEST,LOINC:51990-0,LabTest,Basic Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""51990-0"", ""purpose"": ""Assess kidney function and electrolytes""}"
+MONDO:0005071,Disease,Essential hypertension,REQUIRES_TEST,LOINC:2160-0,LabTest,Serum Creatinine,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2160-0"", ""purpose"": ""Kidney function baseline""}"
+MONDO:0005071,Disease,Essential hypertension,REQUIRES_TEST,LOINC:24356-8,LabTest,Urinalysis,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24356-8"", ""purpose"": ""Detect proteinuria""}"
+MONDO:0005071,Disease,Essential hypertension,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Cardiovascular risk assessment""}"
+MONDO:0005071,Disease,Essential hypertension,REQUIRES_TEST,LOINC:1558-6,LabTest,Fasting Blood Glucose,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1558-6"", ""purpose"": ""Screen for diabetes comorbidity""}"
+MONDO:0005071,Disease,Essential hypertension,REQUIRES_TEST,LOINC:2823-3,LabTest,Serum Potassium,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2823-3"", ""purpose"": ""Electrolyte monitoring""}"
+MONDO:0005311,Disease,Hyperlipidemia,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Diagnostic and monitoring""}"
+MONDO:0005311,Disease,Hyperlipidemia,REQUIRES_TEST,LOINC:2093-3,LabTest,Total Cholesterol,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2093-3"", ""purpose"": ""Primary diagnostic marker""}"
+MONDO:0005311,Disease,Hyperlipidemia,REQUIRES_TEST,LOINC:13457-7,LabTest,LDL Cholesterol,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""13457-7"", ""purpose"": ""Cardiovascular risk stratification""}"
+MONDO:0005311,Disease,Hyperlipidemia,REQUIRES_TEST,LOINC:2085-9,LabTest,HDL Cholesterol,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2085-9"", ""purpose"": ""Protective factor assessment""}"
+MONDO:0005311,Disease,Hyperlipidemia,REQUIRES_TEST,LOINC:2571-8,LabTest,Triglycerides,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2571-8"", ""purpose"": ""Lipid subtype evaluation""}"
+MONDO:0005311,Disease,Hyperlipidemia,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out secondary cause""}"
+MONDO:0005010,Disease,Coronary artery disease,REQUIRES_TEST,LOINC:10839-9,LabTest,Troponin I,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""10839-9"", ""purpose"": ""Myocardial injury marker""}"
+MONDO:0005010,Disease,Coronary artery disease,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Risk factor assessment""}"
+MONDO:0005010,Disease,Coronary artery disease,REQUIRES_TEST,LOINC:30934-4,LabTest,BNP,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""30934-4"", ""purpose"": ""Heart failure screening""}"
+MONDO:0005010,Disease,Coronary artery disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Baseline hematology""}"
+MONDO:0005010,Disease,Coronary artery disease,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammatory marker""}"
+MONDO:0005010,Disease,Coronary artery disease,REQUIRES_TEST,LOINC:4548-4,LabTest,HbA1c,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4548-4"", ""purpose"": ""Diabetes screening""}"
+MONDO:0005252,Disease,Heart failure,REQUIRES_TEST,LOINC:30934-4,LabTest,BNP,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""30934-4"", ""purpose"": ""Diagnostic and severity marker""}"
+MONDO:0005252,Disease,Heart failure,REQUIRES_TEST,LOINC:33762-6,LabTest,NT-proBNP,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""33762-6"", ""purpose"": ""Diagnostic biomarker""}"
+MONDO:0005252,Disease,Heart failure,REQUIRES_TEST,LOINC:51990-0,LabTest,Basic Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""51990-0"", ""purpose"": ""Renal and electrolyte status""}"
+MONDO:0005252,Disease,Heart failure,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Rule out anemia""}"
+MONDO:0005252,Disease,Heart failure,REQUIRES_TEST,LOINC:10839-9,LabTest,Troponin I,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""10839-9"", ""purpose"": ""Myocardial injury assessment""}"
+MONDO:0005252,Disease,Heart failure,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out thyroid cause""}"
+MONDO:0004981,Disease,Atrial fibrillation,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out hyperthyroidism""}"
+MONDO:0004981,Disease,Atrial fibrillation,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Baseline assessment""}"
+MONDO:0004981,Disease,Atrial fibrillation,REQUIRES_TEST,LOINC:51990-0,LabTest,Basic Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""51990-0"", ""purpose"": ""Electrolyte assessment""}"
+MONDO:0004981,Disease,Atrial fibrillation,REQUIRES_TEST,LOINC:5902-2,LabTest,PT/INR,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""5902-2"", ""purpose"": ""Anticoagulation monitoring""}"
+MONDO:0004981,Disease,Atrial fibrillation,REQUIRES_TEST,LOINC:30934-4,LabTest,BNP,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""30934-4"", ""purpose"": ""Heart failure screening""}"
+MONDO:0005148,Disease,Type 2 diabetes mellitus,REQUIRES_TEST,LOINC:4548-4,LabTest,HbA1c,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4548-4"", ""purpose"": ""Diagnostic and monitoring""}"
+MONDO:0005148,Disease,Type 2 diabetes mellitus,REQUIRES_TEST,LOINC:1558-6,LabTest,Fasting Blood Glucose,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1558-6"", ""purpose"": ""Diagnostic screening""}"
+MONDO:0005148,Disease,Type 2 diabetes mellitus,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Cardiovascular risk""}"
+MONDO:0005148,Disease,Type 2 diabetes mellitus,REQUIRES_TEST,LOINC:2160-0,LabTest,Serum Creatinine,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2160-0"", ""purpose"": ""Nephropathy screening""}"
+MONDO:0005148,Disease,Type 2 diabetes mellitus,REQUIRES_TEST,LOINC:24356-8,LabTest,Urinalysis,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24356-8"", ""purpose"": ""Microalbuminuria screening""}"
+MONDO:0005148,Disease,Type 2 diabetes mellitus,REQUIRES_TEST,LOINC:24323-8,LabTest,Comprehensive Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24323-8"", ""purpose"": ""Overall metabolic status""}"
+MONDO:0004784,Disease,Hypothyroidism,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Primary diagnostic test""}"
+MONDO:0004784,Disease,Hypothyroidism,REQUIRES_TEST,LOINC:3024-7,LabTest,Free T4,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3024-7"", ""purpose"": ""Thyroid hormone level""}"
+MONDO:0004784,Disease,Hypothyroidism,REQUIRES_TEST,LOINC:3051-0,LabTest,Free T3,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3051-0"", ""purpose"": ""Thyroid hormone level""}"
+MONDO:0004784,Disease,Hypothyroidism,REQUIRES_TEST,LOINC:5382-7,LabTest,Thyroid Peroxidase Antibodies,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""5382-7"", ""purpose"": ""Autoimmune thyroiditis""}"
+MONDO:0004784,Disease,Hypothyroidism,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Secondary hyperlipidemia check""}"
+MONDO:0011122,Disease,Obesity,REQUIRES_TEST,LOINC:1558-6,LabTest,Fasting Blood Glucose,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1558-6"", ""purpose"": ""Diabetes screening""}"
+MONDO:0011122,Disease,Obesity,REQUIRES_TEST,LOINC:4548-4,LabTest,HbA1c,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4548-4"", ""purpose"": ""Prediabetes/diabetes screening""}"
+MONDO:0011122,Disease,Obesity,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Cardiovascular risk""}"
+MONDO:0011122,Disease,Obesity,REQUIRES_TEST,LOINC:24325-3,LabTest,Liver Function Tests,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24325-3"", ""purpose"": ""NAFLD screening""}"
+MONDO:0011122,Disease,Obesity,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out thyroid cause""}"
+MONDO:0005300,Disease,Vitamin D deficiency,REQUIRES_TEST,LOINC:1989-3,LabTest,25-Hydroxyvitamin D,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1989-3"", ""purpose"": ""Primary diagnostic test""}"
+MONDO:0005300,Disease,Vitamin D deficiency,REQUIRES_TEST,LOINC:17861-6,LabTest,Serum Calcium,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""17861-6"", ""purpose"": ""Calcium homeostasis""}"
+MONDO:0005300,Disease,Vitamin D deficiency,REQUIRES_TEST,LOINC:2777-1,LabTest,Serum Phosphorus,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2777-1"", ""purpose"": ""Phosphorus homeostasis""}"
+MONDO:0005300,Disease,Vitamin D deficiency,REQUIRES_TEST,LOINC:2731-8,LabTest,Parathyroid Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2731-8"", ""purpose"": ""Secondary hyperparathyroidism""}"
+MONDO:0005300,Disease,Vitamin D deficiency,REQUIRES_TEST,LOINC:6768-6,LabTest,Alkaline Phosphatase,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""6768-6"", ""purpose"": ""Bone metabolism marker""}"
+MONDO:0005812,Disease,Gout,REQUIRES_TEST,LOINC:3084-1,LabTest,Serum Uric Acid,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3084-1"", ""purpose"": ""Primary diagnostic marker""}"
+MONDO:0005812,Disease,Gout,REQUIRES_TEST,LOINC:2160-0,LabTest,Serum Creatinine,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2160-0"", ""purpose"": ""Renal function assessment""}"
+MONDO:0005812,Disease,Gout,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammatory marker""}"
+MONDO:0005812,Disease,Gout,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Infection rule-out""}"
+MONDO:0005812,Disease,Gout,REQUIRES_TEST,LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4537-7"", ""purpose"": ""Inflammation assessment""}"
+MONDO:0004979,Disease,Asthma,REQUIRES_TEST,LOINC:57021-8,LabTest,Complete Blood Count with Differential,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57021-8"", ""purpose"": ""Eosinophil count""}"
+MONDO:0004979,Disease,Asthma,REQUIRES_TEST,LOINC:19113-0,LabTest,Total IgE,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""19113-0"", ""purpose"": ""Allergic component assessment""}"
+MONDO:0004979,Disease,Asthma,REQUIRES_TEST,LOINC:24336-0,LabTest,Arterial Blood Gas,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24336-0"", ""purpose"": ""Severe exacerbation assessment""}"
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Polycythemia screening""}"
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,REQUIRES_TEST,LOINC:24336-0,LabTest,Arterial Blood Gas,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24336-0"", ""purpose"": ""Gas exchange assessment""}"
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,REQUIRES_TEST,LOINC:1825-9,LabTest,Alpha-1 Antitrypsin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1825-9"", ""purpose"": ""Genetic cause screening""}"
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease,REQUIRES_TEST,LOINC:51990-0,LabTest,Basic Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""51990-0"", ""purpose"": ""Electrolyte monitoring""}"
+MONDO:0005373,Disease,Allergic rhinitis,REQUIRES_TEST,LOINC:19113-0,LabTest,Total IgE,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""19113-0"", ""purpose"": ""Allergic status assessment""}"
+MONDO:0005373,Disease,Allergic rhinitis,REQUIRES_TEST,LOINC:57021-8,LabTest,Complete Blood Count with Differential,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57021-8"", ""purpose"": ""Eosinophilia check""}"
+MONDO:0005373,Disease,Allergic rhinitis,REQUIRES_TEST,LOINC:21232-4,LabTest,Allergen-Specific IgE Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""21232-4"", ""purpose"": ""Specific allergen identification""}"
+MONDO:0005240,Disease,Acute upper respiratory infection,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Viral vs bacterial differentiation""}"
+MONDO:0005240,Disease,Acute upper respiratory infection,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammation severity""}"
+MONDO:0005240,Disease,Acute upper respiratory infection,REQUIRES_TEST,LOINC:31971-5,LabTest,Rapid Strep Test,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""31971-5"", ""purpose"": ""Streptococcal infection rule-out""}"
+MONDO:0005697,Disease,Acute bronchitis,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Infection assessment""}"
+MONDO:0005697,Disease,Acute bronchitis,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammation severity""}"
+MONDO:0005697,Disease,Acute bronchitis,REQUIRES_TEST,LOINC:75241-0,LabTest,Procalcitonin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""75241-0"", ""purpose"": ""Bacterial infection marker""}"
+MONDO:0005249,Disease,Pneumonia,REQUIRES_TEST,LOINC:57021-8,LabTest,Complete Blood Count with Differential,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57021-8"", ""purpose"": ""Infection severity""}"
+MONDO:0005249,Disease,Pneumonia,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammatory marker""}"
+MONDO:0005249,Disease,Pneumonia,REQUIRES_TEST,LOINC:75241-0,LabTest,Procalcitonin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""75241-0"", ""purpose"": ""Bacterial vs viral differentiation""}"
+MONDO:0005249,Disease,Pneumonia,REQUIRES_TEST,LOINC:600-7,LabTest,Blood Culture,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""600-7"", ""purpose"": ""Pathogen identification""}"
+MONDO:0005249,Disease,Pneumonia,REQUIRES_TEST,LOINC:24336-0,LabTest,Arterial Blood Gas,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24336-0"", ""purpose"": ""Respiratory compromise assessment""}"
+MONDO:0005249,Disease,Pneumonia,REQUIRES_TEST,LOINC:51990-0,LabTest,Basic Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""51990-0"", ""purpose"": ""Organ function assessment""}"
+MONDO:0005244,Disease,Urinary tract infection,REQUIRES_TEST,LOINC:24356-8,LabTest,Urinalysis,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24356-8"", ""purpose"": ""Primary diagnostic screening""}"
+MONDO:0005244,Disease,Urinary tract infection,REQUIRES_TEST,LOINC:630-4,LabTest,Urine Culture,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""630-4"", ""purpose"": ""Pathogen identification""}"
+MONDO:0005244,Disease,Urinary tract infection,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Systemic infection assessment""}"
+MONDO:0005244,Disease,Urinary tract infection,REQUIRES_TEST,LOINC:2160-0,LabTest,Serum Creatinine,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2160-0"", ""purpose"": ""Kidney function""}"
+MONDO:0005810,Disease,Influenza,REQUIRES_TEST,LOINC:80382-5,LabTest,Influenza A/B Rapid Antigen,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""80382-5"", ""purpose"": ""Rapid diagnosis""}"
+MONDO:0005810,Disease,Influenza,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Infection assessment""}"
+MONDO:0005810,Disease,Influenza,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammation marker""}"
+MONDO:0100096,Disease,COVID-19,REQUIRES_TEST,LOINC:94500-6,LabTest,SARS-CoV-2 RNA PCR,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""94500-6"", ""purpose"": ""Confirmatory diagnostic test""}"
+MONDO:0100096,Disease,COVID-19,REQUIRES_TEST,LOINC:97097-0,LabTest,SARS-CoV-2 Antigen,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""97097-0"", ""purpose"": ""Rapid diagnostic test""}"
+MONDO:0100096,Disease,COVID-19,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Lymphopenia assessment""}"
+MONDO:0100096,Disease,COVID-19,REQUIRES_TEST,LOINC:48065-7,LabTest,D-Dimer,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""48065-7"", ""purpose"": ""Coagulopathy screening""}"
+MONDO:0100096,Disease,COVID-19,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammation severity""}"
+MONDO:0100096,Disease,COVID-19,REQUIRES_TEST,LOINC:2276-4,LabTest,Ferritin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2276-4"", ""purpose"": ""Cytokine storm marker""}"
+MONDO:0000305,Disease,Acute pharyngitis,REQUIRES_TEST,LOINC:31971-5,LabTest,Rapid Strep Test,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""31971-5"", ""purpose"": ""Group A strep detection""}"
+MONDO:0000305,Disease,Acute pharyngitis,REQUIRES_TEST,LOINC:626-2,LabTest,Throat Culture,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""626-2"", ""purpose"": ""Pathogen identification""}"
+MONDO:0000305,Disease,Acute pharyngitis,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Infection assessment""}"
+MONDO:0005560,Disease,Gastroenteritis,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Infection and dehydration assessment""}"
+MONDO:0005560,Disease,Gastroenteritis,REQUIRES_TEST,LOINC:51990-0,LabTest,Basic Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""51990-0"", ""purpose"": ""Dehydration and electrolyte status""}"
+MONDO:0005560,Disease,Gastroenteritis,REQUIRES_TEST,LOINC:625-4,LabTest,Stool Culture,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""625-4"", ""purpose"": ""Bacterial pathogen identification""}"
+MONDO:0005560,Disease,Gastroenteritis,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammation severity""}"
+MONDO:0007186,Disease,Gastro-esophageal reflux disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Anemia screening from chronic bleeding""}"
+MONDO:0007186,Disease,Gastro-esophageal reflux disease,REQUIRES_TEST,LOINC:5179-7,LabTest,Helicobacter pylori Antibody,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""5179-7"", ""purpose"": ""H. pylori co-infection""}"
+MONDO:0005265,Disease,Irritable bowel syndrome,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Rule out organic disease""}"
+MONDO:0005265,Disease,Irritable bowel syndrome,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Rule out inflammatory bowel disease""}"
+MONDO:0005265,Disease,Irritable bowel syndrome,REQUIRES_TEST,LOINC:56687-6,LabTest,Fecal Calprotectin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""56687-6"", ""purpose"": ""Distinguish from IBD""}"
+MONDO:0005265,Disease,Irritable bowel syndrome,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out thyroid cause""}"
+MONDO:0005265,Disease,Irritable bowel syndrome,REQUIRES_TEST,LOINC:31017-7,LabTest,Tissue Transglutaminase IgA,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""31017-7"", ""purpose"": ""Rule out celiac disease""}"
+MONDO:0005114,Disease,Peptic ulcer disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Anemia from GI bleeding""}"
+MONDO:0005114,Disease,Peptic ulcer disease,REQUIRES_TEST,LOINC:5179-7,LabTest,Helicobacter pylori Antibody,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""5179-7"", ""purpose"": ""H. pylori detection""}"
+MONDO:0005114,Disease,Peptic ulcer disease,REQUIRES_TEST,LOINC:2335-8,LabTest,Stool Occult Blood,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2335-8"", ""purpose"": ""GI bleeding detection""}"
+MONDO:0005114,Disease,Peptic ulcer disease,REQUIRES_TEST,LOINC:2930-2,LabTest,Serum Gastrin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2930-2"", ""purpose"": ""Zollinger-Ellison rule-out""}"
+MONDO:0005130,Disease,Celiac disease,REQUIRES_TEST,LOINC:31017-7,LabTest,Tissue Transglutaminase IgA,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""31017-7"", ""purpose"": ""Primary serologic test""}"
+MONDO:0005130,Disease,Celiac disease,REQUIRES_TEST,LOINC:19113-0,LabTest,Total IgA,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""19113-0"", ""purpose"": ""IgA deficiency screening""}"
+MONDO:0005130,Disease,Celiac disease,REQUIRES_TEST,LOINC:31017-7,LabTest,Endomysial Antibody IgA,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""31017-7"", ""purpose"": ""Confirmatory test""}"
+MONDO:0005130,Disease,Celiac disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Anemia assessment""}"
+MONDO:0005130,Disease,Celiac disease,REQUIRES_TEST,LOINC:2498-4,LabTest,Serum Iron,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2498-4"", ""purpose"": ""Iron deficiency assessment""}"
+MONDO:0004972,Disease,Crohn's disease,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Disease activity marker""}"
+MONDO:0004972,Disease,Crohn's disease,REQUIRES_TEST,LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4537-7"", ""purpose"": ""Inflammation marker""}"
+MONDO:0004972,Disease,Crohn's disease,REQUIRES_TEST,LOINC:56687-6,LabTest,Fecal Calprotectin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""56687-6"", ""purpose"": ""Intestinal inflammation marker""}"
+MONDO:0004972,Disease,Crohn's disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Anemia and infection assessment""}"
+MONDO:0004972,Disease,Crohn's disease,REQUIRES_TEST,LOINC:24323-8,LabTest,Comprehensive Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24323-8"", ""purpose"": ""Nutritional status""}"
+MONDO:0004972,Disease,Crohn's disease,REQUIRES_TEST,LOINC:1751-7,LabTest,Albumin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1751-7"", ""purpose"": ""Nutritional and disease severity marker""}"
+MONDO:0004651,Disease,Low back pain,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Rule out infection""}"
+MONDO:0004651,Disease,Low back pain,REQUIRES_TEST,LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4537-7"", ""purpose"": ""Rule out inflammatory cause""}"
+MONDO:0004651,Disease,Low back pain,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammatory marker""}"
+MONDO:0005178,Disease,Osteoarthritis,REQUIRES_TEST,LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4537-7"", ""purpose"": ""Rule out inflammatory arthritis""}"
+MONDO:0005178,Disease,Osteoarthritis,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Rule out inflammatory cause""}"
+MONDO:0005178,Disease,Osteoarthritis,REQUIRES_TEST,LOINC:11572-5,LabTest,Rheumatoid Factor,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""11572-5"", ""purpose"": ""Rule out RA""}"
+MONDO:0005178,Disease,Osteoarthritis,REQUIRES_TEST,LOINC:3084-1,LabTest,Uric Acid,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3084-1"", ""purpose"": ""Rule out gout""}"
+MONDO:0008383,Disease,Rheumatoid arthritis,REQUIRES_TEST,LOINC:11572-5,LabTest,Rheumatoid Factor,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""11572-5"", ""purpose"": ""Diagnostic marker""}"
+MONDO:0008383,Disease,Rheumatoid arthritis,REQUIRES_TEST,LOINC:53027-9,LabTest,Anti-CCP Antibody,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""53027-9"", ""purpose"": ""Specific diagnostic marker""}"
+MONDO:0008383,Disease,Rheumatoid arthritis,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Disease activity""}"
+MONDO:0008383,Disease,Rheumatoid arthritis,REQUIRES_TEST,LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4537-7"", ""purpose"": ""Inflammation monitoring""}"
+MONDO:0008383,Disease,Rheumatoid arthritis,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Anemia of chronic disease""}"
+MONDO:0008383,Disease,Rheumatoid arthritis,REQUIRES_TEST,LOINC:8061-4,LabTest,Anti-Nuclear Antibody,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""8061-4"", ""purpose"": ""Autoimmune screening""}"
+MONDO:0005206,Disease,Osteoporosis,REQUIRES_TEST,LOINC:17861-6,LabTest,Serum Calcium,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""17861-6"", ""purpose"": ""Calcium metabolism""}"
+MONDO:0005206,Disease,Osteoporosis,REQUIRES_TEST,LOINC:1989-3,LabTest,25-Hydroxyvitamin D,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1989-3"", ""purpose"": ""Vitamin D status""}"
+MONDO:0005206,Disease,Osteoporosis,REQUIRES_TEST,LOINC:6768-6,LabTest,Alkaline Phosphatase,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""6768-6"", ""purpose"": ""Bone turnover marker""}"
+MONDO:0005206,Disease,Osteoporosis,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out hyperthyroidism""}"
+MONDO:0005206,Disease,Osteoporosis,REQUIRES_TEST,LOINC:2777-1,LabTest,Serum Phosphorus,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2777-1"", ""purpose"": ""Mineral metabolism""}"
+MONDO:0005206,Disease,Osteoporosis,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Rule out multiple myeloma""}"
+MONDO:0005072,Disease,Migraine,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Rule out secondary causes""}"
+MONDO:0005072,Disease,Migraine,REQUIRES_TEST,LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4537-7"", ""purpose"": ""Rule out temporal arteritis""}"
+MONDO:0005072,Disease,Migraine,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out thyroid cause""}"
+MONDO:0021668,Disease,Tension-type headache,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Rule out anemia""}"
+MONDO:0021668,Disease,Tension-type headache,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out thyroid dysfunction""}"
+MONDO:0005027,Disease,Epilepsy,REQUIRES_TEST,LOINC:51990-0,LabTest,Basic Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""51990-0"", ""purpose"": ""Electrolyte abnormalities""}"
+MONDO:0005027,Disease,Epilepsy,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Baseline and drug monitoring""}"
+MONDO:0005027,Disease,Epilepsy,REQUIRES_TEST,LOINC:24325-3,LabTest,Liver Function Tests,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24325-3"", ""purpose"": ""Antiepileptic drug monitoring""}"
+MONDO:0005027,Disease,Epilepsy,REQUIRES_TEST,LOINC:17861-6,LabTest,Serum Calcium,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""17861-6"", ""purpose"": ""Hypocalcemia-induced seizures""}"
+MONDO:0005027,Disease,Epilepsy,REQUIRES_TEST,LOINC:1558-6,LabTest,Fasting Blood Glucose,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1558-6"", ""purpose"": ""Hypoglycemia-induced seizures""}"
+MONDO:0004975,Disease,Alzheimer's disease,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out reversible cause""}"
+MONDO:0004975,Disease,Alzheimer's disease,REQUIRES_TEST,LOINC:2132-9,LabTest,Vitamin B12,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2132-9"", ""purpose"": ""Rule out B12 deficiency dementia""}"
+MONDO:0004975,Disease,Alzheimer's disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""General health assessment""}"
+MONDO:0004975,Disease,Alzheimer's disease,REQUIRES_TEST,LOINC:24323-8,LabTest,Comprehensive Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24323-8"", ""purpose"": ""Metabolic cause rule-out""}"
+MONDO:0004975,Disease,Alzheimer's disease,REQUIRES_TEST,LOINC:2284-8,LabTest,Folate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2284-8"", ""purpose"": ""Nutritional deficiency screening""}"
+MONDO:0005180,Disease,Parkinson's disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Baseline health assessment""}"
+MONDO:0005180,Disease,Parkinson's disease,REQUIRES_TEST,LOINC:24323-8,LabTest,Comprehensive Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24323-8"", ""purpose"": ""Metabolic assessment""}"
+MONDO:0005180,Disease,Parkinson's disease,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out thyroid cause""}"
+MONDO:0005180,Disease,Parkinson's disease,REQUIRES_TEST,LOINC:2062-3,LabTest,Serum Ceruloplasmin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2062-3"", ""purpose"": ""Rule out Wilson disease""}"
+MONDO:0004980,Disease,Atopic dermatitis,REQUIRES_TEST,LOINC:19113-0,LabTest,Total IgE,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""19113-0"", ""purpose"": ""Atopic status assessment""}"
+MONDO:0004980,Disease,Atopic dermatitis,REQUIRES_TEST,LOINC:57021-8,LabTest,Complete Blood Count with Differential,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57021-8"", ""purpose"": ""Eosinophilia check""}"
+MONDO:0004980,Disease,Atopic dermatitis,REQUIRES_TEST,LOINC:21232-4,LabTest,Allergen-Specific IgE Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""21232-4"", ""purpose"": ""Trigger identification""}"
+MONDO:0005093,Disease,Psoriasis,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Systemic inflammation marker""}"
+MONDO:0005093,Disease,Psoriasis,REQUIRES_TEST,LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4537-7"", ""purpose"": ""Inflammation assessment""}"
+MONDO:0005093,Disease,Psoriasis,REQUIRES_TEST,LOINC:24325-3,LabTest,Liver Function Tests,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24325-3"", ""purpose"": ""Methotrexate monitoring baseline""}"
+MONDO:0005093,Disease,Psoriasis,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Baseline for systemic therapy""}"
+MONDO:0005093,Disease,Psoriasis,REQUIRES_TEST,LOINC:3084-1,LabTest,Uric Acid,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3084-1"", ""purpose"": ""Psoriatic arthritis association""}"
+MONDO:0005342,Disease,Acne vulgaris,REQUIRES_TEST,LOINC:2986-8,LabTest,Testosterone Total,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2986-8"", ""purpose"": ""Hormonal acne assessment""}"
+MONDO:0005342,Disease,Acne vulgaris,REQUIRES_TEST,LOINC:2191-5,LabTest,DHEA-S,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2191-5"", ""purpose"": ""Adrenal androgen assessment""}"
+MONDO:0005342,Disease,Acne vulgaris,REQUIRES_TEST,LOINC:24325-3,LabTest,Liver Function Tests,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24325-3"", ""purpose"": ""Isotretinoin monitoring""}"
+MONDO:0005342,Disease,Acne vulgaris,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Isotretinoin monitoring""}"
+MONDO:0002115,Disease,Contact dermatitis,REQUIRES_TEST,LOINC:57021-8,LabTest,Complete Blood Count with Differential,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57021-8"", ""purpose"": ""Eosinophilia assessment""}"
+MONDO:0002115,Disease,Contact dermatitis,REQUIRES_TEST,LOINC:19113-0,LabTest,Total IgE,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""19113-0"", ""purpose"": ""Allergic component assessment""}"
+MONDO:0005308,Disease,Chronic kidney disease,REQUIRES_TEST,LOINC:2160-0,LabTest,Serum Creatinine,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2160-0"", ""purpose"": ""GFR calculation""}"
+MONDO:0005308,Disease,Chronic kidney disease,REQUIRES_TEST,LOINC:3094-0,LabTest,Blood Urea Nitrogen,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3094-0"", ""purpose"": ""Renal function marker""}"
+MONDO:0005308,Disease,Chronic kidney disease,REQUIRES_TEST,LOINC:24356-8,LabTest,Urinalysis,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24356-8"", ""purpose"": ""Proteinuria assessment""}"
+MONDO:0005308,Disease,Chronic kidney disease,REQUIRES_TEST,LOINC:24323-8,LabTest,Comprehensive Metabolic Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24323-8"", ""purpose"": ""Electrolyte and metabolic status""}"
+MONDO:0005308,Disease,Chronic kidney disease,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Anemia of CKD""}"
+MONDO:0005308,Disease,Chronic kidney disease,REQUIRES_TEST,LOINC:2731-8,LabTest,Parathyroid Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2731-8"", ""purpose"": ""Mineral bone disease""}"
+MONDO:0006659,Disease,Benign prostatic hyperplasia,REQUIRES_TEST,LOINC:2857-1,LabTest,Prostate-Specific Antigen,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2857-1"", ""purpose"": ""Prostate cancer screening""}"
+MONDO:0006659,Disease,Benign prostatic hyperplasia,REQUIRES_TEST,LOINC:24356-8,LabTest,Urinalysis,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""24356-8"", ""purpose"": ""UTI and hematuria screening""}"
+MONDO:0006659,Disease,Benign prostatic hyperplasia,REQUIRES_TEST,LOINC:2160-0,LabTest,Serum Creatinine,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2160-0"", ""purpose"": ""Obstructive nephropathy screening""}"
+MONDO:0005273,Disease,Endometriosis,REQUIRES_TEST,LOINC:10334-1,LabTest,CA-125,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""10334-1"", ""purpose"": ""Biomarker for advanced disease""}"
+MONDO:0005273,Disease,Endometriosis,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Anemia assessment""}"
+MONDO:0005273,Disease,Endometriosis,REQUIRES_TEST,LOINC:1988-5,LabTest,C-Reactive Protein,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1988-5"", ""purpose"": ""Inflammation marker""}"
+MONDO:0005204,Disease,Polycystic ovary syndrome,REQUIRES_TEST,LOINC:2986-8,LabTest,Testosterone Total,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2986-8"", ""purpose"": ""Hyperandrogenism assessment""}"
+MONDO:0005204,Disease,Polycystic ovary syndrome,REQUIRES_TEST,LOINC:2191-5,LabTest,DHEA-S,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2191-5"", ""purpose"": ""Adrenal androgen source""}"
+MONDO:0005204,Disease,Polycystic ovary syndrome,REQUIRES_TEST,LOINC:1558-6,LabTest,Fasting Blood Glucose,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1558-6"", ""purpose"": ""Insulin resistance screening""}"
+MONDO:0005204,Disease,Polycystic ovary syndrome,REQUIRES_TEST,LOINC:4548-4,LabTest,HbA1c,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""4548-4"", ""purpose"": ""Diabetes screening""}"
+MONDO:0005204,Disease,Polycystic ovary syndrome,REQUIRES_TEST,LOINC:57698-3,LabTest,Lipid Panel,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""57698-3"", ""purpose"": ""Metabolic risk assessment""}"
+MONDO:0005204,Disease,Polycystic ovary syndrome,REQUIRES_TEST,LOINC:3016-3,LabTest,Thyroid Stimulating Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""3016-3"", ""purpose"": ""Rule out thyroid cause""}"
+MONDO:0005204,Disease,Polycystic ovary syndrome,REQUIRES_TEST,LOINC:10501-5,LabTest,Luteinizing Hormone,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""10501-5"", ""purpose"": ""LH:FSH ratio""}"
+MONDO:0005315,Disease,Iron deficiency anemia,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Primary diagnostic test""}"
+MONDO:0005315,Disease,Iron deficiency anemia,REQUIRES_TEST,LOINC:2498-4,LabTest,Serum Iron,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2498-4"", ""purpose"": ""Iron status""}"
+MONDO:0005315,Disease,Iron deficiency anemia,REQUIRES_TEST,LOINC:2276-4,LabTest,Serum Ferritin,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2276-4"", ""purpose"": ""Iron stores assessment""}"
+MONDO:0005315,Disease,Iron deficiency anemia,REQUIRES_TEST,LOINC:2500-7,LabTest,Total Iron Binding Capacity,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""2500-7"", ""purpose"": ""Iron binding assessment""}"
+MONDO:0005315,Disease,Iron deficiency anemia,REQUIRES_TEST,LOINC:17849-1,LabTest,Reticulocyte Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""17849-1"", ""purpose"": ""Bone marrow response""}"
+MONDO:0005165,Disease,Glaucoma,REQUIRES_TEST,LOINC:58410-2,LabTest,Complete Blood Count,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""58410-2"", ""purpose"": ""Baseline health assessment""}"
+MONDO:0005165,Disease,Glaucoma,REQUIRES_TEST,LOINC:1558-6,LabTest,Fasting Blood Glucose,WHO/CDC/NIH clinical guidelines,"{""loinc_code"": ""1558-6"", ""purpose"": ""Diabetes comorbidity screening""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,WHO CVD Fact Sheet; CDC BRFSS,"{""evidence_level"": ""strong""}"
+RF:HIGH_SODIUM_DIET,RiskFactor,High sodium diet,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,WHO Guideline: Sodium intake,"{""evidence_level"": ""strong""}"
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,CDC Chronic Disease Indicators,"{""evidence_level"": ""strong""}"
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,RiskFactor,Excessive alcohol consumption,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,WHO Global Status Report on Alcohol,"{""evidence_level"": ""moderate""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,CDC Smoking and CVD,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_HYPERTENSION,RiskFactor,Family history of hypertension,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,NIH/NHLBI JNC Guidelines,"{""evidence_level"": ""strong""}"
+RF:AGE_OVER_45,RiskFactor,Age over 45,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,AHA Hypertension Guidelines,"{""evidence_level"": ""strong""}"
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress,RISK_FACTOR_FOR,MONDO:0005071,Disease,Essential hypertension,AHA Scientific Statement,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005311,Disease,Hyperlipidemia,WHO NCD Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:HIGH_SATURATED_FAT_DIET,RiskFactor,High saturated fat diet,RISK_FACTOR_FOR,MONDO:0005311,Disease,Hyperlipidemia,AHA/ACC Lipid Guidelines,"{""evidence_level"": ""strong""}"
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,RISK_FACTOR_FOR,MONDO:0005311,Disease,Hyperlipidemia,CDC Chronic Disease Indicators,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_HYPERLIPIDEM,RiskFactor,Family history of hyperlipidemia,RISK_FACTOR_FOR,MONDO:0005311,Disease,Hyperlipidemia,NIH/NHLBI ATP Guidelines,"{""evidence_level"": ""strong""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005311,Disease,Hyperlipidemia,ADA Standards of Care,"{""evidence_level"": ""moderate""}"
+RF:HYPOTHYROIDISM,RiskFactor,Hypothyroidism,RISK_FACTOR_FOR,MONDO:0005311,Disease,Hyperlipidemia,ATA Thyroid Guidelines,"{""evidence_level"": ""moderate""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005010,Disease,Coronary artery disease,WHO CVD Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:HYPERTENSION,RiskFactor,Hypertension,RISK_FACTOR_FOR,MONDO:0005010,Disease,Coronary artery disease,AHA/ACC CVD Prevention Guidelines,"{""evidence_level"": ""strong""}"
+RF:HYPERLIPIDEMIA,RiskFactor,Hyperlipidemia,RISK_FACTOR_FOR,MONDO:0005010,Disease,Coronary artery disease,NIH/NHLBI ATP III,"{""evidence_level"": ""strong""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005010,Disease,Coronary artery disease,ADA/AHA Joint Statement,"{""evidence_level"": ""strong""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005010,Disease,Coronary artery disease,CDC Chronic Disease Indicators,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_CAD,RiskFactor,Family history of CAD,RISK_FACTOR_FOR,MONDO:0005010,Disease,Coronary artery disease,AHA CVD Risk Guidelines,"{""evidence_level"": ""strong""}"
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,RISK_FACTOR_FOR,MONDO:0005010,Disease,Coronary artery disease,WHO Global Recommendations on Physical Activity,"{""evidence_level"": ""strong""}"
+RF:CORONARY_ARTERY_DISEASE,RiskFactor,Coronary artery disease,RISK_FACTOR_FOR,MONDO:0005252,Disease,Heart failure,AHA/ACC HF Guidelines,"{""evidence_level"": ""strong""}"
+RF:HYPERTENSION,RiskFactor,Hypertension,RISK_FACTOR_FOR,MONDO:0005252,Disease,Heart failure,AHA/ACC HF Guidelines,"{""evidence_level"": ""strong""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005252,Disease,Heart failure,ADA Standards of Care,"{""evidence_level"": ""strong""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005252,Disease,Heart failure,WHO NCD Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,RiskFactor,Excessive alcohol consumption,RISK_FACTOR_FOR,MONDO:0005252,Disease,Heart failure,WHO Global Status Report on Alcohol,"{""evidence_level"": ""moderate""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005252,Disease,Heart failure,CDC Smoking and CVD,"{""evidence_level"": ""moderate""}"
+RF:HYPERTENSION,RiskFactor,Hypertension,RISK_FACTOR_FOR,MONDO:0004981,Disease,Atrial fibrillation,AHA/ACC AF Guidelines,"{""evidence_level"": ""strong""}"
+RF:HEART_FAILURE,RiskFactor,Heart failure,RISK_FACTOR_FOR,MONDO:0004981,Disease,Atrial fibrillation,AHA/ACC AF Guidelines,"{""evidence_level"": ""strong""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0004981,Disease,Atrial fibrillation,WHO NCD Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,RiskFactor,Excessive alcohol consumption,RISK_FACTOR_FOR,MONDO:0004981,Disease,Atrial fibrillation,WHO Global Status Report on Alcohol,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_65,RiskFactor,Age over 65,RISK_FACTOR_FOR,MONDO:0004981,Disease,Atrial fibrillation,AHA/ACC AF Guidelines,"{""evidence_level"": ""strong""}"
+RF:HYPERTHYROIDISM,RiskFactor,Hyperthyroidism,RISK_FACTOR_FOR,MONDO:0004981,Disease,Atrial fibrillation,ATA Thyroid Guidelines,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,WHO Diabetes Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,RISK_FACTOR_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,CDC Diabetes Prevention Program,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_DIABETES,RiskFactor,Family history of diabetes,RISK_FACTOR_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,ADA Standards of Care,"{""evidence_level"": ""strong""}"
+RF:GESTATIONAL_DIABETES_HISTORY,RiskFactor,Gestational diabetes history,RISK_FACTOR_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,ADA Standards of Care,"{""evidence_level"": ""strong""}"
+RF:AGE_OVER_45,RiskFactor,Age over 45,RISK_FACTOR_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,ADA Risk Factor Guidelines,"{""evidence_level"": ""moderate""}"
+RF:POLYCYSTIC_OVARY_SYNDROME,RiskFactor,Polycystic ovary syndrome,RISK_FACTOR_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,ADA Standards of Care,"{""evidence_level"": ""moderate""}"
+RF:HIGH-CALORIE_DIET,RiskFactor,High-calorie diet,RISK_FACTOR_FOR,MONDO:0005148,Disease,Type 2 diabetes mellitus,WHO Diet and NCD Recommendations,"{""evidence_level"": ""strong""}"
+RF:FEMALE_SEX,RiskFactor,Female sex,RISK_FACTOR_FOR,MONDO:0004784,Disease,Hypothyroidism,ATA Thyroid Guidelines,"{""evidence_level"": ""strong""}"
+RF:AGE_OVER_60,RiskFactor,Age over 60,RISK_FACTOR_FOR,MONDO:0004784,Disease,Hypothyroidism,ATA Thyroid Guidelines,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_THYROID_DISE,RiskFactor,Family history of thyroid disease,RISK_FACTOR_FOR,MONDO:0004784,Disease,Hypothyroidism,ATA Thyroid Guidelines,"{""evidence_level"": ""strong""}"
+RF:AUTOIMMUNE_DISEASE_HISTORY,RiskFactor,Autoimmune disease history,RISK_FACTOR_FOR,MONDO:0004784,Disease,Hypothyroidism,NIH/NIDDK Thyroid Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:IODINE_DEFICIENCY,RiskFactor,Iodine deficiency,RISK_FACTOR_FOR,MONDO:0004784,Disease,Hypothyroidism,WHO Iodine Deficiency Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:HIGH-CALORIE_DIET,RiskFactor,High-calorie diet,RISK_FACTOR_FOR,MONDO:0011122,Disease,Obesity,WHO Obesity Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,RISK_FACTOR_FOR,MONDO:0011122,Disease,Obesity,WHO Global Recommendations on Physical Activity,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_OBESITY,RiskFactor,Family history of obesity,RISK_FACTOR_FOR,MONDO:0011122,Disease,Obesity,CDC Obesity Causes,"{""evidence_level"": ""strong""}"
+RF:SEDENTARY_OCCUPATION,RiskFactor,Sedentary occupation,RISK_FACTOR_FOR,MONDO:0011122,Disease,Obesity,WHO NCD Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:SLEEP_DEPRIVATION,RiskFactor,Sleep deprivation,RISK_FACTOR_FOR,MONDO:0011122,Disease,Obesity,NIH/NHLBI Sleep and Obesity,"{""evidence_level"": ""moderate""}"
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress,RISK_FACTOR_FOR,MONDO:0011122,Disease,Obesity,NIH Stress and Metabolism,"{""evidence_level"": ""moderate""}"
+RF:LIMITED_SUN_EXPOSURE,RiskFactor,Limited sun exposure,RISK_FACTOR_FOR,MONDO:0005300,Disease,Vitamin D deficiency,NIH/ODS Vitamin D Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:DARK_SKIN_PIGMENTATION,RiskFactor,Dark skin pigmentation,RISK_FACTOR_FOR,MONDO:0005300,Disease,Vitamin D deficiency,NIH/ODS Vitamin D Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005300,Disease,Vitamin D deficiency,NIH/ODS Vitamin D Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_65,RiskFactor,Age over 65,RISK_FACTOR_FOR,MONDO:0005300,Disease,Vitamin D deficiency,WHO Nutrition Guidelines,"{""evidence_level"": ""moderate""}"
+RF:MALABSORPTION_SYNDROMES,RiskFactor,Malabsorption syndromes,RISK_FACTOR_FOR,MONDO:0005300,Disease,Vitamin D deficiency,NIH/ODS Vitamin D Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:HIGH_PURINE_DIET,RiskFactor,High purine diet,RISK_FACTOR_FOR,MONDO:0005812,Disease,Gout,ACR Gout Management Guidelines,"{""evidence_level"": ""strong""}"
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,RiskFactor,Excessive alcohol consumption,RISK_FACTOR_FOR,MONDO:0005812,Disease,Gout,WHO Global Status Report on Alcohol,"{""evidence_level"": ""strong""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005812,Disease,Gout,CDC Gout Risk Factors,"{""evidence_level"": ""strong""}"
+RF:MALE_SEX,RiskFactor,Male sex,RISK_FACTOR_FOR,MONDO:0005812,Disease,Gout,ACR Gout Guidelines,"{""evidence_level"": ""strong""}"
+RF:CHRONIC_KIDNEY_DISEASE,RiskFactor,Chronic kidney disease,RISK_FACTOR_FOR,MONDO:0005812,Disease,Gout,NIH/NIDDK Gout Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_GOUT,RiskFactor,Family history of gout,RISK_FACTOR_FOR,MONDO:0005812,Disease,Gout,ACR Gout Guidelines,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_ASTHMA,RiskFactor,Family history of asthma,RISK_FACTOR_FOR,MONDO:0004979,Disease,Asthma,WHO Asthma Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:ALLERGIC_RHINITIS,RiskFactor,Allergic rhinitis,RISK_FACTOR_FOR,MONDO:0004979,Disease,Asthma,GINA Asthma Guidelines,"{""evidence_level"": ""strong""}"
+RF:ATOPIC_DERMATITIS,RiskFactor,Atopic dermatitis,RISK_FACTOR_FOR,MONDO:0004979,Disease,Asthma,GINA Asthma Guidelines,"{""evidence_level"": ""strong""}"
+RF:SMOKING_OR_SECONDHAND_SMOKE_EX,RiskFactor,Smoking or secondhand smoke exposure,RISK_FACTOR_FOR,MONDO:0004979,Disease,Asthma,CDC Asthma Risk Factors,"{""evidence_level"": ""strong""}"
+RF:OCCUPATIONAL_CHEMICAL_EXPOSURE,RiskFactor,Occupational chemical exposure,RISK_FACTOR_FOR,MONDO:0004979,Disease,Asthma,WHO Occupational Health,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0004979,Disease,Asthma,GINA Asthma Guidelines,"{""evidence_level"": ""moderate""}"
+RF:AIR_POLLUTION_EXPOSURE,RiskFactor,Air pollution exposure,RISK_FACTOR_FOR,MONDO:0004979,Disease,Asthma,WHO Air Quality Guidelines,"{""evidence_level"": ""moderate""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,WHO COPD Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:OCCUPATIONAL_DUST/CHEMICAL_EXP,RiskFactor,Occupational dust/chemical exposure,RISK_FACTOR_FOR,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,WHO Occupational Health,"{""evidence_level"": ""strong""}"
+RF:INDOOR_AIR_POLLUTION,RiskFactor,Indoor air pollution,RISK_FACTOR_FOR,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,WHO Air Quality Guidelines,"{""evidence_level"": ""strong""}"
+RF:ALPHA-1_ANTITRYPSIN_DEFICIENCY,RiskFactor,Alpha-1 antitrypsin deficiency,RISK_FACTOR_FOR,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,ATS/ERS COPD Guidelines,"{""evidence_level"": ""strong""}"
+RF:AGE_OVER_40,RiskFactor,Age over 40,RISK_FACTOR_FOR,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,GOLD COPD Guidelines,"{""evidence_level"": ""moderate""}"
+RF:CHILDHOOD_RESPIRATORY_INFECTIO,RiskFactor,Childhood respiratory infections,RISK_FACTOR_FOR,MONDO:0005002,Disease,Chronic obstructive pulmonary disease,WHO COPD Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_ATOPY,RiskFactor,Family history of atopy,RISK_FACTOR_FOR,MONDO:0005373,Disease,Allergic rhinitis,WHO ARIA Guidelines,"{""evidence_level"": ""strong""}"
+RF:ASTHMA,RiskFactor,Asthma,RISK_FACTOR_FOR,MONDO:0005373,Disease,Allergic rhinitis,ARIA Guidelines,"{""evidence_level"": ""strong""}"
+RF:ENVIRONMENTAL_ALLERGEN_EXPOSUR,RiskFactor,Environmental allergen exposure,RISK_FACTOR_FOR,MONDO:0005373,Disease,Allergic rhinitis,CDC Allergies Statistics,"{""evidence_level"": ""strong""}"
+RF:ATOPIC_DERMATITIS,RiskFactor,Atopic dermatitis,RISK_FACTOR_FOR,MONDO:0005373,Disease,Allergic rhinitis,ARIA Guidelines,"{""evidence_level"": ""moderate""}"
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression,RISK_FACTOR_FOR,MONDO:0005240,Disease,Acute upper respiratory infection,CDC Common Cold Prevention,"{""evidence_level"": ""strong""}"
+RF:CLOSE_CONTACT_WITH_INFECTED_IN,RiskFactor,Close contact with infected individuals,RISK_FACTOR_FOR,MONDO:0005240,Disease,Acute upper respiratory infection,WHO Infection Prevention,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005240,Disease,Acute upper respiratory infection,CDC Respiratory Infection,"{""evidence_level"": ""moderate""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005697,Disease,Acute bronchitis,CDC Bronchitis Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:AIR_POLLUTION_EXPOSURE,RiskFactor,Air pollution exposure,RISK_FACTOR_FOR,MONDO:0005697,Disease,Acute bronchitis,WHO Air Quality Guidelines,"{""evidence_level"": ""moderate""}"
+RF:COPD,RiskFactor,COPD,RISK_FACTOR_FOR,MONDO:0005697,Disease,Acute bronchitis,ATS Guidelines,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_65,RiskFactor,Age over 65,RISK_FACTOR_FOR,MONDO:0005249,Disease,Pneumonia,WHO Pneumonia Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005249,Disease,Pneumonia,CDC Pneumonia Risk Factors,"{""evidence_level"": ""strong""}"
+RF:COPD,RiskFactor,COPD,RISK_FACTOR_FOR,MONDO:0005249,Disease,Pneumonia,ATS/IDSA Pneumonia Guidelines,"{""evidence_level"": ""strong""}"
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression,RISK_FACTOR_FOR,MONDO:0005249,Disease,Pneumonia,WHO Pneumonia Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005249,Disease,Pneumonia,ADA Standards of Care,"{""evidence_level"": ""moderate""}"
+RF:FEMALE_SEX,RiskFactor,Female sex,RISK_FACTOR_FOR,MONDO:0005244,Disease,Urinary tract infection,NIH/NIDDK UTI Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:SEXUAL_ACTIVITY,RiskFactor,Sexual activity,RISK_FACTOR_FOR,MONDO:0005244,Disease,Urinary tract infection,CDC UTI Prevention,"{""evidence_level"": ""moderate""}"
+RF:URINARY_CATHETER_USE,RiskFactor,Urinary catheter use,RISK_FACTOR_FOR,MONDO:0005244,Disease,Urinary tract infection,CDC CAUTI Prevention,"{""evidence_level"": ""strong""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005244,Disease,Urinary tract infection,ADA Standards of Care,"{""evidence_level"": ""moderate""}"
+RF:MENOPAUSE,RiskFactor,Menopause,RISK_FACTOR_FOR,MONDO:0005244,Disease,Urinary tract infection,NIH/NIDDK UTI Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_65,RiskFactor,Age over 65,RISK_FACTOR_FOR,MONDO:0005810,Disease,Influenza,WHO Influenza Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression,RISK_FACTOR_FOR,MONDO:0005810,Disease,Influenza,CDC Influenza Risk Factors,"{""evidence_level"": ""strong""}"
+RF:CHRONIC_LUNG_DISEASE,RiskFactor,Chronic lung disease,RISK_FACTOR_FOR,MONDO:0005810,Disease,Influenza,WHO Influenza Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:PREGNANCY,RiskFactor,Pregnancy,RISK_FACTOR_FOR,MONDO:0005810,Disease,Influenza,CDC Influenza and Pregnancy,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_65,RiskFactor,Age over 65,RISK_FACTOR_FOR,MONDO:0100096,Disease,COVID-19,WHO COVID-19 Clinical Guidance,"{""evidence_level"": ""strong""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0100096,Disease,COVID-19,CDC COVID-19 Risk Factors,"{""evidence_level"": ""strong""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0100096,Disease,COVID-19,WHO COVID-19 Risk Groups,"{""evidence_level"": ""strong""}"
+RF:CARDIOVASCULAR_DISEASE,RiskFactor,Cardiovascular disease,RISK_FACTOR_FOR,MONDO:0100096,Disease,COVID-19,WHO COVID-19 Risk Groups,"{""evidence_level"": ""strong""}"
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression,RISK_FACTOR_FOR,MONDO:0100096,Disease,COVID-19,CDC COVID-19 Risk Factors,"{""evidence_level"": ""strong""}"
+RF:CHRONIC_KIDNEY_DISEASE,RiskFactor,Chronic kidney disease,RISK_FACTOR_FOR,MONDO:0100096,Disease,COVID-19,CDC COVID-19 Risk Factors,"{""evidence_level"": ""moderate""}"
+RF:CLOSE_CONTACT_WITH_INFECTED_IN,RiskFactor,Close contact with infected individuals,RISK_FACTOR_FOR,MONDO:0000305,Disease,Acute pharyngitis,CDC Group A Strep,"{""evidence_level"": ""strong""}"
+RF:AGE_5–15_YEARS,RiskFactor,Age 5–15 years,RISK_FACTOR_FOR,MONDO:0000305,Disease,Acute pharyngitis,CDC Group A Strep,"{""evidence_level"": ""strong""}"
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression,RISK_FACTOR_FOR,MONDO:0000305,Disease,Acute pharyngitis,WHO Infection Prevention,"{""evidence_level"": ""moderate""}"
+RF:CONTAMINATED_FOOD_OR_WATER,RiskFactor,Contaminated food or water,RISK_FACTOR_FOR,MONDO:0005560,Disease,Gastroenteritis,WHO Diarrhoeal Disease Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:POOR_HAND_HYGIENE,RiskFactor,Poor hand hygiene,RISK_FACTOR_FOR,MONDO:0005560,Disease,Gastroenteritis,CDC Hand Hygiene,"{""evidence_level"": ""strong""}"
+RF:CLOSE_CONTACT_WITH_INFECTED_IN,RiskFactor,Close contact with infected individuals,RISK_FACTOR_FOR,MONDO:0005560,Disease,Gastroenteritis,WHO Infection Prevention,"{""evidence_level"": ""strong""}"
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression,RISK_FACTOR_FOR,MONDO:0005560,Disease,Gastroenteritis,CDC Gastroenteritis,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0007186,Disease,Gastro-esophageal reflux disease,AGA GERD Guidelines,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0007186,Disease,Gastro-esophageal reflux disease,AGA GERD Guidelines,"{""evidence_level"": ""moderate""}"
+RF:HIGH-FAT_DIET,RiskFactor,High-fat diet,RISK_FACTOR_FOR,MONDO:0007186,Disease,Gastro-esophageal reflux disease,AGA GERD Guidelines,"{""evidence_level"": ""moderate""}"
+RF:HIATAL_HERNIA,RiskFactor,Hiatal hernia,RISK_FACTOR_FOR,MONDO:0007186,Disease,Gastro-esophageal reflux disease,AGA GERD Guidelines,"{""evidence_level"": ""strong""}"
+RF:PREGNANCY,RiskFactor,Pregnancy,RISK_FACTOR_FOR,MONDO:0007186,Disease,Gastro-esophageal reflux disease,AGA GERD Guidelines,"{""evidence_level"": ""moderate""}"
+RF:FEMALE_SEX,RiskFactor,Female sex,RISK_FACTOR_FOR,MONDO:0005265,Disease,Irritable bowel syndrome,AGA IBS Guidelines,"{""evidence_level"": ""moderate""}"
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress,RISK_FACTOR_FOR,MONDO:0005265,Disease,Irritable bowel syndrome,Rome IV Criteria,"{""evidence_level"": ""strong""}"
+RF:PRIOR_GASTROINTESTINAL_INFECTI,RiskFactor,Prior gastrointestinal infection,RISK_FACTOR_FOR,MONDO:0005265,Disease,Irritable bowel syndrome,ACG IBS Guidelines,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_IBS,RiskFactor,Family history of IBS,RISK_FACTOR_FOR,MONDO:0005265,Disease,Irritable bowel syndrome,ACG IBS Guidelines,"{""evidence_level"": ""moderate""}"
+RF:H._PYLORI_INFECTION,RiskFactor,H. pylori infection,RISK_FACTOR_FOR,MONDO:0005114,Disease,Peptic ulcer disease,WHO H. pylori Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:NSAID_USE,RiskFactor,NSAID use,RISK_FACTOR_FOR,MONDO:0005114,Disease,Peptic ulcer disease,AGA PUD Guidelines,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005114,Disease,Peptic ulcer disease,CDC GI Disease Risk Factors,"{""evidence_level"": ""moderate""}"
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,RiskFactor,Excessive alcohol consumption,RISK_FACTOR_FOR,MONDO:0005114,Disease,Peptic ulcer disease,WHO Global Status Report on Alcohol,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_CELIAC_DISEA,RiskFactor,Family history of celiac disease,RISK_FACTOR_FOR,MONDO:0005130,Disease,Celiac disease,ACG Celiac Guidelines,"{""evidence_level"": ""strong""}"
+RF:TYPE_1_DIABETES_MELLITUS,RiskFactor,Type 1 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005130,Disease,Celiac disease,ACG Celiac Guidelines,"{""evidence_level"": ""moderate""}"
+RF:AUTOIMMUNE_THYROID_DISEASE,RiskFactor,Autoimmune thyroid disease,RISK_FACTOR_FOR,MONDO:0005130,Disease,Celiac disease,ACG Celiac Guidelines,"{""evidence_level"": ""moderate""}"
+RF:HLA-DQ2/DQ8_POSITIVITY,RiskFactor,HLA-DQ2/DQ8 positivity,RISK_FACTOR_FOR,MONDO:0005130,Disease,Celiac disease,ACG Celiac Guidelines,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0004972,Disease,Crohn's disease,AGA/ECCO IBD Guidelines,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_IBD,RiskFactor,Family history of IBD,RISK_FACTOR_FOR,MONDO:0004972,Disease,Crohn's disease,AGA IBD Guidelines,"{""evidence_level"": ""strong""}"
+RF:AGE_15–35,RiskFactor,Age 15–35,RISK_FACTOR_FOR,MONDO:0004972,Disease,Crohn's disease,CDC IBD Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:NSAID_USE,RiskFactor,NSAID use,RISK_FACTOR_FOR,MONDO:0004972,Disease,Crohn's disease,ECCO IBD Guidelines,"{""evidence_level"": ""moderate""}"
+RF:SEDENTARY_LIFESTYLE,RiskFactor,Sedentary lifestyle,RISK_FACTOR_FOR,MONDO:0004651,Disease,Low back pain,WHO Musculoskeletal Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0004651,Disease,Low back pain,CDC Back Pain Prevention,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0004651,Disease,Low back pain,NIH/NINDS Low Back Pain,"{""evidence_level"": ""moderate""}"
+RF:OCCUPATIONAL_HEAVY_LIFTING,RiskFactor,Occupational heavy lifting,RISK_FACTOR_FOR,MONDO:0004651,Disease,Low back pain,WHO Occupational Health,"{""evidence_level"": ""strong""}"
+RF:AGE_30–50,RiskFactor,Age 30–50,RISK_FACTOR_FOR,MONDO:0004651,Disease,Low back pain,NIH/NINDS Low Back Pain,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_50,RiskFactor,Age over 50,RISK_FACTOR_FOR,MONDO:0005178,Disease,Osteoarthritis,WHO Musculoskeletal Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005178,Disease,Osteoarthritis,CDC Arthritis Risk Factors,"{""evidence_level"": ""strong""}"
+RF:JOINT_INJURY_HISTORY,RiskFactor,Joint injury history,RISK_FACTOR_FOR,MONDO:0005178,Disease,Osteoarthritis,ACR OA Guidelines,"{""evidence_level"": ""strong""}"
+RF:FEMALE_SEX,RiskFactor,Female sex,RISK_FACTOR_FOR,MONDO:0005178,Disease,Osteoarthritis,WHO Musculoskeletal Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_OA,RiskFactor,Family history of OA,RISK_FACTOR_FOR,MONDO:0005178,Disease,Osteoarthritis,ACR OA Guidelines,"{""evidence_level"": ""moderate""}"
+RF:FEMALE_SEX,RiskFactor,Female sex,RISK_FACTOR_FOR,MONDO:0008383,Disease,Rheumatoid arthritis,WHO Musculoskeletal Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0008383,Disease,Rheumatoid arthritis,ACR RA Guidelines,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_RA,RiskFactor,Family history of RA,RISK_FACTOR_FOR,MONDO:0008383,Disease,Rheumatoid arthritis,ACR RA Guidelines,"{""evidence_level"": ""strong""}"
+RF:AGE_40–60,RiskFactor,Age 40–60,RISK_FACTOR_FOR,MONDO:0008383,Disease,Rheumatoid arthritis,CDC Arthritis Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0008383,Disease,Rheumatoid arthritis,ACR RA Guidelines,"{""evidence_level"": ""moderate""}"
+RF:FEMALE_SEX,RiskFactor,Female sex,RISK_FACTOR_FOR,MONDO:0005206,Disease,Osteoporosis,WHO Osteoporosis Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:AGE_OVER_50,RiskFactor,Age over 50,RISK_FACTOR_FOR,MONDO:0005206,Disease,Osteoporosis,NIH/NIAMS Osteoporosis Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:LOW_BODY_WEIGHT,RiskFactor,Low body weight,RISK_FACTOR_FOR,MONDO:0005206,Disease,Osteoporosis,WHO Osteoporosis Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005206,Disease,Osteoporosis,CDC Osteoporosis Risk Factors,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_OSTEOPOROSIS,RiskFactor,Family history of osteoporosis,RISK_FACTOR_FOR,MONDO:0005206,Disease,Osteoporosis,NIH/NIAMS Osteoporosis,"{""evidence_level"": ""strong""}"
+RF:VITAMIN_D_DEFICIENCY,RiskFactor,Vitamin D deficiency,RISK_FACTOR_FOR,MONDO:0005206,Disease,Osteoporosis,NIH/ODS Vitamin D,"{""evidence_level"": ""strong""}"
+RF:CORTICOSTEROID_USE,RiskFactor,Corticosteroid use,RISK_FACTOR_FOR,MONDO:0005206,Disease,Osteoporosis,ACR Glucocorticoid Osteoporosis Guidelines,"{""evidence_level"": ""strong""}"
+RF:FEMALE_SEX,RiskFactor,Female sex,RISK_FACTOR_FOR,MONDO:0005072,Disease,Migraine,WHO Headache Disorders Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_MIGRAINE,RiskFactor,Family history of migraine,RISK_FACTOR_FOR,MONDO:0005072,Disease,Migraine,AHS Migraine Guidelines,"{""evidence_level"": ""strong""}"
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress,RISK_FACTOR_FOR,MONDO:0005072,Disease,Migraine,AHS Migraine Guidelines,"{""evidence_level"": ""moderate""}"
+RF:SLEEP_DISTURBANCES,RiskFactor,Sleep disturbances,RISK_FACTOR_FOR,MONDO:0005072,Disease,Migraine,AHS Migraine Guidelines,"{""evidence_level"": ""moderate""}"
+RF:HORMONAL_CHANGES,RiskFactor,Hormonal changes,RISK_FACTOR_FOR,MONDO:0005072,Disease,Migraine,AHS Migraine Guidelines,"{""evidence_level"": ""moderate""}"
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress,RISK_FACTOR_FOR,MONDO:0021668,Disease,Tension-type headache,WHO Headache Disorders Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:POOR_POSTURE,RiskFactor,Poor posture,RISK_FACTOR_FOR,MONDO:0021668,Disease,Tension-type headache,IHS Classification Guidelines,"{""evidence_level"": ""moderate""}"
+RF:SLEEP_DEPRIVATION,RiskFactor,Sleep deprivation,RISK_FACTOR_FOR,MONDO:0021668,Disease,Tension-type headache,IHS Classification Guidelines,"{""evidence_level"": ""moderate""}"
+RF:ANXIETY,RiskFactor,Anxiety,RISK_FACTOR_FOR,MONDO:0021668,Disease,Tension-type headache,WHO Mental Health Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_EPILEPSY,RiskFactor,Family history of epilepsy,RISK_FACTOR_FOR,MONDO:0005027,Disease,Epilepsy,WHO Epilepsy Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:TRAUMATIC_BRAIN_INJURY,RiskFactor,Traumatic brain injury,RISK_FACTOR_FOR,MONDO:0005027,Disease,Epilepsy,CDC TBI and Epilepsy,"{""evidence_level"": ""strong""}"
+RF:STROKE_HISTORY,RiskFactor,Stroke history,RISK_FACTOR_FOR,MONDO:0005027,Disease,Epilepsy,AAN Epilepsy Guidelines,"{""evidence_level"": ""strong""}"
+RF:CNS_INFECTION_HISTORY,RiskFactor,CNS infection history,RISK_FACTOR_FOR,MONDO:0005027,Disease,Epilepsy,WHO Epilepsy Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_65,RiskFactor,Age over 65,RISK_FACTOR_FOR,MONDO:0004975,Disease,Alzheimer's disease,WHO Dementia Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_ALZHEIMER'S,RiskFactor,Family history of Alzheimer's,RISK_FACTOR_FOR,MONDO:0004975,Disease,Alzheimer's disease,NIH/NIA Alzheimer's Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:APOE-E4_GENOTYPE,RiskFactor,APOE-e4 genotype,RISK_FACTOR_FOR,MONDO:0004975,Disease,Alzheimer's disease,NIH/NIA Alzheimer's Genetics,"{""evidence_level"": ""strong""}"
+RF:CARDIOVASCULAR_DISEASE,RiskFactor,Cardiovascular disease,RISK_FACTOR_FOR,MONDO:0004975,Disease,Alzheimer's disease,WHO Dementia Risk Reduction,"{""evidence_level"": ""moderate""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0004975,Disease,Alzheimer's disease,WHO Dementia Risk Reduction,"{""evidence_level"": ""moderate""}"
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,RISK_FACTOR_FOR,MONDO:0004975,Disease,Alzheimer's disease,WHO Dementia Risk Reduction,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_60,RiskFactor,Age over 60,RISK_FACTOR_FOR,MONDO:0005180,Disease,Parkinson's disease,WHO Neurological Disorders,"{""evidence_level"": ""strong""}"
+RF:MALE_SEX,RiskFactor,Male sex,RISK_FACTOR_FOR,MONDO:0005180,Disease,Parkinson's disease,NIH/NINDS Parkinson's Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_PARKINSON'S,RiskFactor,Family history of Parkinson's,RISK_FACTOR_FOR,MONDO:0005180,Disease,Parkinson's disease,NIH/NINDS Parkinson's,"{""evidence_level"": ""moderate""}"
+RF:PESTICIDE_EXPOSURE,RiskFactor,Pesticide exposure,RISK_FACTOR_FOR,MONDO:0005180,Disease,Parkinson's disease,NIH/NIEHS Environmental Factors,"{""evidence_level"": ""moderate""}"
+RF:TRAUMATIC_BRAIN_INJURY,RiskFactor,Traumatic brain injury,RISK_FACTOR_FOR,MONDO:0005180,Disease,Parkinson's disease,NIH/NINDS Parkinson's,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_ATOPY,RiskFactor,Family history of atopy,RISK_FACTOR_FOR,MONDO:0004980,Disease,Atopic dermatitis,WHO Skin Diseases Guidelines,"{""evidence_level"": ""strong""}"
+RF:ASTHMA,RiskFactor,Asthma,RISK_FACTOR_FOR,MONDO:0004980,Disease,Atopic dermatitis,AAD Atopic Dermatitis Guidelines,"{""evidence_level"": ""strong""}"
+RF:ALLERGIC_RHINITIS,RiskFactor,Allergic rhinitis,RISK_FACTOR_FOR,MONDO:0004980,Disease,Atopic dermatitis,AAD Atopic Dermatitis Guidelines,"{""evidence_level"": ""strong""}"
+RF:FILAGGRIN_GENE_MUTATION,RiskFactor,Filaggrin gene mutation,RISK_FACTOR_FOR,MONDO:0004980,Disease,Atopic dermatitis,AAD Atopic Dermatitis Guidelines,"{""evidence_level"": ""strong""}"
+RF:URBAN_ENVIRONMENT,RiskFactor,Urban environment,RISK_FACTOR_FOR,MONDO:0004980,Disease,Atopic dermatitis,WHO Environmental Health,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_PSORIASIS,RiskFactor,Family history of psoriasis,RISK_FACTOR_FOR,MONDO:0005093,Disease,Psoriasis,WHO Psoriasis Report,"{""evidence_level"": ""strong""}"
+RF:SMOKING,RiskFactor,Smoking,RISK_FACTOR_FOR,MONDO:0005093,Disease,Psoriasis,AAD Psoriasis Guidelines,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005093,Disease,Psoriasis,AAD Psoriasis Guidelines,"{""evidence_level"": ""moderate""}"
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress,RISK_FACTOR_FOR,MONDO:0005093,Disease,Psoriasis,AAD Psoriasis Guidelines,"{""evidence_level"": ""moderate""}"
+RF:STREPTOCOCCAL_INFECTION,RiskFactor,Streptococcal infection,RISK_FACTOR_FOR,MONDO:0005093,Disease,Psoriasis,AAD Psoriasis Guidelines,"{""evidence_level"": ""moderate""}"
+RF:HORMONAL_CHANGES_(PUBERTY),RiskFactor,Hormonal changes (puberty),RISK_FACTOR_FOR,MONDO:0005342,Disease,Acne vulgaris,AAD Acne Guidelines,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_ACNE,RiskFactor,Family history of acne,RISK_FACTOR_FOR,MONDO:0005342,Disease,Acne vulgaris,AAD Acne Guidelines,"{""evidence_level"": ""strong""}"
+RF:POLYCYSTIC_OVARY_SYNDROME,RiskFactor,Polycystic ovary syndrome,RISK_FACTOR_FOR,MONDO:0005342,Disease,Acne vulgaris,ADA/AAD Joint Statement,"{""evidence_level"": ""moderate""}"
+RF:HIGH_GLYCEMIC_INDEX_DIET,RiskFactor,High glycemic index diet,RISK_FACTOR_FOR,MONDO:0005342,Disease,Acne vulgaris,AAD Acne Guidelines,"{""evidence_level"": ""moderate""}"
+RF:OCCUPATIONAL_CHEMICAL_EXPOSURE,RiskFactor,Occupational chemical exposure,RISK_FACTOR_FOR,MONDO:0002115,Disease,Contact dermatitis,WHO Occupational Health,"{""evidence_level"": ""strong""}"
+RF:FREQUENT_HAND_WASHING,RiskFactor,Frequent hand washing,RISK_FACTOR_FOR,MONDO:0002115,Disease,Contact dermatitis,CDC Hand Hygiene,"{""evidence_level"": ""moderate""}"
+RF:NICKEL_ALLERGY,RiskFactor,Nickel allergy,RISK_FACTOR_FOR,MONDO:0002115,Disease,Contact dermatitis,AAD Contact Dermatitis Guidelines,"{""evidence_level"": ""strong""}"
+RF:ATOPIC_DERMATITIS_HISTORY,RiskFactor,Atopic dermatitis history,RISK_FACTOR_FOR,MONDO:0002115,Disease,Contact dermatitis,AAD Contact Dermatitis,"{""evidence_level"": ""moderate""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005308,Disease,Chronic kidney disease,WHO CKD Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:HYPERTENSION,RiskFactor,Hypertension,RISK_FACTOR_FOR,MONDO:0005308,Disease,Chronic kidney disease,KDIGO CKD Guidelines,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_CKD,RiskFactor,Family history of CKD,RISK_FACTOR_FOR,MONDO:0005308,Disease,Chronic kidney disease,NIH/NIDDK CKD Fact Sheet,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005308,Disease,Chronic kidney disease,KDIGO CKD Guidelines,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_60,RiskFactor,Age over 60,RISK_FACTOR_FOR,MONDO:0005308,Disease,Chronic kidney disease,CDC CKD Risk Factors,"{""evidence_level"": ""moderate""}"
+RF:NSAID_OVERUSE,RiskFactor,NSAID overuse,RISK_FACTOR_FOR,MONDO:0005308,Disease,Chronic kidney disease,NIH/NIDDK CKD Prevention,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_50,RiskFactor,Age over 50,RISK_FACTOR_FOR,MONDO:0006659,Disease,Benign prostatic hyperplasia,NIH/NIDDK BPH Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_BPH,RiskFactor,Family history of BPH,RISK_FACTOR_FOR,MONDO:0006659,Disease,Benign prostatic hyperplasia,AUA BPH Guidelines,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0006659,Disease,Benign prostatic hyperplasia,AUA BPH Guidelines,"{""evidence_level"": ""moderate""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0006659,Disease,Benign prostatic hyperplasia,AUA BPH Guidelines,"{""evidence_level"": ""moderate""}"
+RF:FAMILY_HISTORY_OF_ENDOMETRIOSI,RiskFactor,Family history of endometriosis,RISK_FACTOR_FOR,MONDO:0005273,Disease,Endometriosis,WHO Endometriosis Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:NULLIPARITY,RiskFactor,Nulliparity,RISK_FACTOR_FOR,MONDO:0005273,Disease,Endometriosis,ACOG Endometriosis Guidelines,"{""evidence_level"": ""moderate""}"
+RF:EARLY_MENARCHE,RiskFactor,Early menarche,RISK_FACTOR_FOR,MONDO:0005273,Disease,Endometriosis,ACOG Endometriosis Guidelines,"{""evidence_level"": ""moderate""}"
+RF:SHORT_MENSTRUAL_CYCLES,RiskFactor,Short menstrual cycles,RISK_FACTOR_FOR,MONDO:0005273,Disease,Endometriosis,ACOG Endometriosis Guidelines,"{""evidence_level"": ""moderate""}"
+RF:OBESITY,RiskFactor,Obesity,RISK_FACTOR_FOR,MONDO:0005204,Disease,Polycystic ovary syndrome,WHO PCOS Guidelines,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_PCOS,RiskFactor,Family history of PCOS,RISK_FACTOR_FOR,MONDO:0005204,Disease,Polycystic ovary syndrome,AE-PCOS Society Guidelines,"{""evidence_level"": ""strong""}"
+RF:INSULIN_RESISTANCE,RiskFactor,Insulin resistance,RISK_FACTOR_FOR,MONDO:0005204,Disease,Polycystic ovary syndrome,ADA/Endocrine Society PCOS,"{""evidence_level"": ""strong""}"
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity,RISK_FACTOR_FOR,MONDO:0005204,Disease,Polycystic ovary syndrome,WHO NCD Prevention,"{""evidence_level"": ""moderate""}"
+RF:MENSTRUAL_BLOOD_LOSS,RiskFactor,Menstrual blood loss,RISK_FACTOR_FOR,MONDO:0005315,Disease,Iron deficiency anemia,WHO Anemia Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:LOW_DIETARY_IRON_INTAKE,RiskFactor,Low dietary iron intake,RISK_FACTOR_FOR,MONDO:0005315,Disease,Iron deficiency anemia,WHO Nutrition Guidelines,"{""evidence_level"": ""strong""}"
+RF:PREGNANCY,RiskFactor,Pregnancy,RISK_FACTOR_FOR,MONDO:0005315,Disease,Iron deficiency anemia,WHO Anemia in Pregnancy,"{""evidence_level"": ""strong""}"
+RF:CHRONIC_GI_BLOOD_LOSS,RiskFactor,Chronic GI blood loss,RISK_FACTOR_FOR,MONDO:0005315,Disease,Iron deficiency anemia,NIH/NHLBI IDA Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:MALABSORPTION_SYNDROMES,RiskFactor,Malabsorption syndromes,RISK_FACTOR_FOR,MONDO:0005315,Disease,Iron deficiency anemia,WHO Anemia Guidelines,"{""evidence_level"": ""moderate""}"
+RF:AGE_OVER_60,RiskFactor,Age over 60,RISK_FACTOR_FOR,MONDO:0005165,Disease,Glaucoma,WHO Vision Impairment Fact Sheet,"{""evidence_level"": ""strong""}"
+RF:FAMILY_HISTORY_OF_GLAUCOMA,RiskFactor,Family history of glaucoma,RISK_FACTOR_FOR,MONDO:0005165,Disease,Glaucoma,AAO Glaucoma Guidelines,"{""evidence_level"": ""strong""}"
+RF:AFRICAN_ANCESTRY,RiskFactor,African ancestry,RISK_FACTOR_FOR,MONDO:0005165,Disease,Glaucoma,AAO Glaucoma Guidelines,"{""evidence_level"": ""strong""}"
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus,RISK_FACTOR_FOR,MONDO:0005165,Disease,Glaucoma,ADA/AAO Joint Statement,"{""evidence_level"": ""moderate""}"
+RF:HIGH_INTRAOCULAR_PRESSURE,RiskFactor,High intraocular pressure,RISK_FACTOR_FOR,MONDO:0005165,Disease,Glaucoma,AAO Glaucoma Preferred Practice Pattern,"{""evidence_level"": ""strong""}"
+RF:MYOPIA,RiskFactor,Myopia,RISK_FACTOR_FOR,MONDO:0005165,Disease,Glaucoma,AAO Glaucoma Guidelines,"{""evidence_level"": ""moderate""}"
+DB00331,Medicine,Metformin,INTERACTS_WITH,DB01050,Medicine,Ibuprofen,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""NSAIDs may reduce renal function and increase metformin accumulation risk""}"
+DB00331,Medicine,Metformin,INTERACTS_WITH,DB00316,Medicine,Acetaminophen,DrugBank,"{""severity"": ""minor"", ""description"": ""Acetaminophen may decrease metformin clearance slightly""}"
+DB00331,Medicine,Metformin,INTERACTS_WITH,DB01076,Medicine,Atorvastatin,DrugBank,"{""severity"": ""minor"", ""description"": ""Statins may mildly increase metformin exposure; monitor glucose""}"
+DB00722,Medicine,Lisinopril,INTERACTS_WITH,DB01050,Medicine,Ibuprofen,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""NSAIDs reduce antihypertensive effect of ACE inhibitors and increase nephrotoxicity risk""}"
+DB00722,Medicine,Lisinopril,INTERACTS_WITH,DB00331,Medicine,Metformin,DrugBank,"{""severity"": ""minor"", ""description"": ""ACE inhibitors may enhance hypoglycemic effect of metformin""}"
+DB00722,Medicine,Lisinopril,INTERACTS_WITH,DB00945,Medicine,Aspirin,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""Aspirin may reduce antihypertensive efficacy of ACE inhibitors""}"
+DB00722,Medicine,Lisinopril,INTERACTS_WITH,DB00437,Medicine,Allopurinol,DrugBank,"{""severity"": ""moderate"", ""description"": ""Increased risk of hypersensitivity reactions when combined""}"
+DB00381,Medicine,Amlodipine,INTERACTS_WITH,DB01076,Medicine,Atorvastatin,FDA Label; DrugBank,"{""severity"": ""moderate"", ""description"": ""Amlodipine increases atorvastatin plasma levels by ~40%, increasing myopathy risk""}"
+DB00381,Medicine,Amlodipine,INTERACTS_WITH,DB00641,Medicine,Simvastatin,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Amlodipine significantly increases simvastatin levels; simvastatin dose should not exceed 20mg""}"
+DB00381,Medicine,Amlodipine,INTERACTS_WITH,DB00571,Medicine,Propranolol,DrugBank,"{""severity"": ""moderate"", ""description"": ""Enhanced hypotensive effect; increased risk of heart failure and bradycardia""}"
+DB00338,Medicine,Omeprazole,INTERACTS_WITH,DB01076,Medicine,Atorvastatin,DrugBank,"{""severity"": ""minor"", ""description"": ""Omeprazole may slightly increase atorvastatin absorption""}"
+DB00338,Medicine,Omeprazole,INTERACTS_WITH,DB00331,Medicine,Metformin,DrugBank,"{""severity"": ""minor"", ""description"": ""PPIs may alter metformin absorption""}"
+DB00338,Medicine,Omeprazole,INTERACTS_WITH,DB00564,Medicine,Carbamazepine,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""Omeprazole inhibits CYP2C19 and may increase carbamazepine levels""}"
+DB01076,Medicine,Atorvastatin,INTERACTS_WITH,DB01050,Medicine,Ibuprofen,DrugBank,"{""severity"": ""minor"", ""description"": ""Both may affect renal function; monitor in patients with renal impairment""}"
+DB01076,Medicine,Atorvastatin,INTERACTS_WITH,DB00316,Medicine,Acetaminophen,DrugBank,"{""severity"": ""minor"", ""description"": ""Hepatotoxicity risk may be additive at high doses""}"
+DB01076,Medicine,Atorvastatin,INTERACTS_WITH,DB00503,Medicine,Ritonavir,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Ritonavir strongly inhibits CYP3A4, greatly increasing statin levels and rhabdomyolysis risk""}"
+DB01076,Medicine,Atorvastatin,INTERACTS_WITH,DB01060,Medicine,Amoxicillin,DrugBank,"{""severity"": ""minor"", ""description"": ""No significant pharmacokinetic interaction expected""}"
+DB01050,Medicine,Ibuprofen,INTERACTS_WITH,DB00945,Medicine,Aspirin,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Ibuprofen can block aspirin's antiplatelet effect; increased GI bleeding risk""}"
+DB01050,Medicine,Ibuprofen,INTERACTS_WITH,DB01104,Medicine,Sertraline,DrugBank; FDA Label,"{""severity"": ""major"", ""description"": ""SSRIs + NSAIDs significantly increase GI bleeding risk""}"
+DB01050,Medicine,Ibuprofen,INTERACTS_WITH,DB00316,Medicine,Acetaminophen,DrugBank,"{""severity"": ""moderate"", ""description"": ""Combined use may increase nephrotoxicity risk""}"
+DB01050,Medicine,Ibuprofen,INTERACTS_WITH,DB00437,Medicine,Allopurinol,DrugBank,"{""severity"": ""minor"", ""description"": ""NSAIDs may reduce allopurinol efficacy in some patients""}"
+DB01104,Medicine,Sertraline,INTERACTS_WITH,DB00316,Medicine,Acetaminophen,DrugBank,"{""severity"": ""minor"", ""description"": ""Sertraline may slightly inhibit acetaminophen metabolism""}"
+DB01104,Medicine,Sertraline,INTERACTS_WITH,DB00338,Medicine,Omeprazole,DrugBank,"{""severity"": ""moderate"", ""description"": ""Both metabolized by CYP2C19; sertraline may increase omeprazole levels""}"
+DB01104,Medicine,Sertraline,INTERACTS_WITH,DB00381,Medicine,Amlodipine,DrugBank,"{""severity"": ""minor"", ""description"": ""Sertraline may mildly affect CYP3A4 metabolism of amlodipine""}"
+DB01104,Medicine,Sertraline,INTERACTS_WITH,DB00945,Medicine,Aspirin,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""SSRIs + aspirin increase bleeding risk""}"
+DB01104,Medicine,Sertraline,INTERACTS_WITH,DB00252,Medicine,Phenytoin,FDA Label; DrugBank,"{""severity"": ""moderate"", ""description"": ""Sertraline may increase phenytoin levels through CYP2C9 inhibition""}"
+DB01060,Medicine,Amoxicillin,INTERACTS_WITH,DB00563,Medicine,Methotrexate,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Amoxicillin reduces renal clearance of methotrexate, increasing toxicity risk""}"
+DB01060,Medicine,Amoxicillin,INTERACTS_WITH,DB00437,Medicine,Allopurinol,DrugBank,"{""severity"": ""moderate"", ""description"": ""Increased incidence of skin rash when combined""}"
+DB01001,Medicine,Albuterol,INTERACTS_WITH,DB00571,Medicine,Propranolol,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Non-selective beta-blockers antagonize bronchodilator effect of albuterol""}"
+DB01001,Medicine,Albuterol,INTERACTS_WITH,DB01136,Medicine,Carvedilol,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Carvedilol (non-selective beta-blocker) antagonizes albuterol bronchodilation""}"
+DB01001,Medicine,Albuterol,INTERACTS_WITH,DB00390,Medicine,Digoxin,DrugBank,"{""severity"": ""moderate"", ""description"": ""Beta-agonists may decrease digoxin serum levels""}"
+DB00316,Medicine,Acetaminophen,INTERACTS_WITH,DB00945,Medicine,Aspirin,DrugBank,"{""severity"": ""moderate"", ""description"": ""Concurrent use may increase GI bleeding risk""}"
+DB00945,Medicine,Aspirin,INTERACTS_WITH,DB00722,Medicine,Lisinopril,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""Aspirin may reduce antihypertensive efficacy of ACE inhibitors""}"
+DB00945,Medicine,Aspirin,INTERACTS_WITH,DB00437,Medicine,Allopurinol,DrugBank,"{""severity"": ""minor"", ""description"": ""Low-dose aspirin may increase uric acid levels, reducing allopurinol efficacy""}"
+DB00437,Medicine,Allopurinol,INTERACTS_WITH,DB01033,Medicine,Mercaptopurine,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Allopurinol inhibits xanthine oxidase, dramatically increasing mercaptopurine toxicity""}"
+DB00437,Medicine,Allopurinol,INTERACTS_WITH,DB00999,Medicine,Hydrochlorothiazide,DrugBank,"{""severity"": ""moderate"", ""description"": ""Thiazides may increase allopurinol hypersensitivity risk""}"
+DB00563,Medicine,Methotrexate,INTERACTS_WITH,DB01050,Medicine,Ibuprofen,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""NSAIDs decrease renal clearance of methotrexate, increasing toxicity""}"
+DB00563,Medicine,Methotrexate,INTERACTS_WITH,DB00338,Medicine,Omeprazole,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""PPIs may decrease methotrexate clearance""}"
+DB00252,Medicine,Phenytoin,INTERACTS_WITH,DB00564,Medicine,Carbamazepine,FDA Label; DrugBank,"{""severity"": ""major"", ""description"": ""Complex bidirectional interaction; both are enzyme inducers that alter each other's levels""}"
+DB00252,Medicine,Phenytoin,INTERACTS_WITH,DB01076,Medicine,Atorvastatin,DrugBank,"{""severity"": ""moderate"", ""description"": ""Phenytoin induces CYP3A4 and decreases statin effectiveness""}"
+DB00390,Medicine,Digoxin,INTERACTS_WITH,DB00381,Medicine,Amlodipine,DrugBank,"{""severity"": ""moderate"", ""description"": ""Amlodipine may increase digoxin levels; monitor digoxin concentration""}"
+DB00390,Medicine,Digoxin,INTERACTS_WITH,DB00338,Medicine,Omeprazole,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""Omeprazole may increase digoxin absorption due to increased gastric pH""}"
+DB00999,Medicine,Hydrochlorothiazide,INTERACTS_WITH,DB01050,Medicine,Ibuprofen,FDA Label; DrugBank,"{""severity"": ""moderate"", ""description"": ""NSAIDs reduce diuretic and antihypertensive effect of thiazides""}"
+DB00999,Medicine,Hydrochlorothiazide,INTERACTS_WITH,DB00722,Medicine,Lisinopril,DrugBank,"{""severity"": ""minor"", ""description"": ""Commonly co-prescribed; additive hypotensive effect \u2014 monitor potassium""}"
+DB00999,Medicine,Hydrochlorothiazide,INTERACTS_WITH,DB00331,Medicine,Metformin,DrugBank; FDA Label,"{""severity"": ""moderate"", ""description"": ""Thiazides may impair glucose tolerance and reduce metformin efficacy""}"
+DB00571,Medicine,Propranolol,INTERACTS_WITH,DB00331,Medicine,Metformin,FDA Label; DrugBank,"{""severity"": ""moderate"", ""description"": ""Beta-blockers may mask hypoglycemia symptoms and impair glucose recovery""}"
+DB00571,Medicine,Propranolol,INTERACTS_WITH,DB00381,Medicine,Amlodipine,DrugBank,"{""severity"": ""moderate"", ""description"": ""Additive cardiac depression; risk of excessive bradycardia and hypotension""}"

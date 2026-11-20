@@ -1,0 +1,191 @@
+source_id,target_id,data_source,hpo_name
+HP:0001681,MONDO:0005010,MedlinePlus,Angina pectoris
+HP:0002094,MONDO:0005010,MedlinePlus,Dyspnea
+HP:0012378,MONDO:0005010,MedlinePlus,Fatigue
+HP:0002094,MONDO:0005252,MedlinePlus,Dyspnea
+HP:0012764,MONDO:0005252,MedlinePlus,Orthopnea
+HP:0012378,MONDO:0005252,MedlinePlus,Fatigue
+HP:0012398,MONDO:0005252,MedlinePlus,Peripheral edema
+HP:0004324,MONDO:0005252,MedlinePlus,Increased body weight
+HP:0001962,MONDO:0004981,MedlinePlus,Palpitations
+HP:0002094,MONDO:0004981,MedlinePlus,Dyspnea
+HP:0012378,MONDO:0004981,MedlinePlus,Fatigue
+HP:0002321,MONDO:0004981,MedlinePlus,Vertigo
+HP:0100749,MONDO:0004981,MedlinePlus,Chest pain
+HP:0000103,MONDO:0005148,MedlinePlus,Polyuria
+HP:0001959,MONDO:0005148,MedlinePlus,Polydipsia
+HP:0002591,MONDO:0005148,MedlinePlus,Polyphagia
+HP:0012378,MONDO:0005148,MedlinePlus,Fatigue
+HP:0000622,MONDO:0005148,MedlinePlus,Blurred vision
+HP:0001058,MONDO:0005148,MedlinePlus,Poor wound healing
+HP:0012378,MONDO:0004784,MedlinePlus,Fatigue
+HP:6000855,MONDO:0004784,MedlinePlus,Cold intolerance
+HP:0004324,MONDO:0004784,MedlinePlus,Increased body weight
+HP:0002019,MONDO:0004784,MedlinePlus,Constipation
+HP:0000958,MONDO:0004784,MedlinePlus,Dry skin
+HP:0002875,MONDO:0011122,MedlinePlus,Exertional dyspnea
+HP:0025267,MONDO:0011122,MedlinePlus,Snoring
+HP:0012378,MONDO:0005300,MedlinePlus,Fatigue
+HP:0002653,MONDO:0005300,MedlinePlus,Bone pain
+HP:0001324,MONDO:0005300,MedlinePlus,Muscle weakness
+HP:0003326,MONDO:0005300,MedlinePlus,Myalgia
+HP:0002829,MONDO:0005812,MedlinePlus,Arthralgia
+HP:0001386,MONDO:0005812,MedlinePlus,Joint swelling
+HP:0010783,MONDO:0005812,MedlinePlus,Erythema
+HP:0001854,MONDO:0005812,MedlinePlus,Podagra
+HP:0030828,MONDO:0004979,MedlinePlus,Wheezing
+HP:0012735,MONDO:0004979,MedlinePlus,Cough
+HP:0002094,MONDO:0004979,MedlinePlus,Dyspnea
+HP:0031352,MONDO:0004979,MedlinePlus,Chest tightness
+HP:0012735,MONDO:0005002,MedlinePlus,Cough
+HP:0031245,MONDO:0005002,MedlinePlus,Productive cough
+HP:0002094,MONDO:0005002,MedlinePlus,Dyspnea
+HP:0030828,MONDO:0005002,MedlinePlus,Wheezing
+HP:0012378,MONDO:0005002,MedlinePlus,Fatigue
+HP:0031417,MONDO:0005240,MedlinePlus,Rhinorrhea
+HP:0001742,MONDO:0005240,MedlinePlus,Nasal congestion
+HP:0033050,MONDO:0005240,MedlinePlus,Pharyngalgia
+HP:0025095,MONDO:0005240,MedlinePlus,Sneeze
+HP:0012735,MONDO:0005240,MedlinePlus,Cough
+HP:0012735,MONDO:0005697,MedlinePlus,Cough
+HP:0031245,MONDO:0005697,MedlinePlus,Productive cough
+HP:0012378,MONDO:0005697,MedlinePlus,Fatigue
+HP:0001945,MONDO:0005697,MedlinePlus,Fever
+HP:0030828,MONDO:0005697,MedlinePlus,Wheezing
+HP:0025095,MONDO:0005373,MedlinePlus,Sneeze
+HP:0031417,MONDO:0005373,MedlinePlus,Rhinorrhea
+HP:0001742,MONDO:0005373,MedlinePlus,Nasal congestion
+HP:0033841,MONDO:0005373,MedlinePlus,Ocular pruritus
+HP:0009926,MONDO:0005373,MedlinePlus,Epiphora
+HP:0001945,MONDO:0005249,MedlinePlus,Fever
+HP:0031245,MONDO:0005249,MedlinePlus,Productive cough
+HP:0002094,MONDO:0005249,MedlinePlus,Dyspnea
+HP:0100749,MONDO:0005249,MedlinePlus,Chest pain
+HP:0025143,MONDO:0005249,MedlinePlus,Chills
+HP:0012378,MONDO:0005249,MedlinePlus,Fatigue
+HP:0001945,MONDO:0005810,MedlinePlus,Fever
+HP:0003326,MONDO:0005810,MedlinePlus,Myalgia
+HP:0002315,MONDO:0005810,MedlinePlus,Headache
+HP:0012378,MONDO:0005810,MedlinePlus,Fatigue
+HP:0012735,MONDO:0005810,MedlinePlus,Cough
+HP:0033050,MONDO:0005810,MedlinePlus,Pharyngalgia
+HP:0025143,MONDO:0005810,MedlinePlus,Chills
+HP:0001945,MONDO:0100096,MedlinePlus,Fever
+HP:0012735,MONDO:0100096,MedlinePlus,Cough
+HP:0012378,MONDO:0100096,MedlinePlus,Fatigue
+HP:0002094,MONDO:0100096,MedlinePlus,Dyspnea
+HP:0000458,MONDO:0100096,MedlinePlus,Anosmia
+HP:0033050,MONDO:0100096,MedlinePlus,Pharyngalgia
+HP:0003326,MONDO:0100096,MedlinePlus,Myalgia
+HP:0033050,MONDO:0000305,MedlinePlus,Pharyngalgia
+HP:0001945,MONDO:0000305,MedlinePlus,Fever
+HP:0032043,MONDO:0000305,MedlinePlus,Odynophagia
+HP:0025289,MONDO:0000305,MedlinePlus,Cervical lymphadenopathy
+HP:0002014,MONDO:0005560,MedlinePlus,Diarrhea
+HP:0002013,MONDO:0005560,MedlinePlus,Vomiting
+HP:0002018,MONDO:0005560,MedlinePlus,Nausea
+HP:0002027,MONDO:0005560,MedlinePlus,Abdominal pain
+HP:0001945,MONDO:0005560,MedlinePlus,Fever
+HP:0100518,MONDO:0005244,MedlinePlus,Dysuria
+HP:0100515,MONDO:0005244,MedlinePlus,Pollakisuria
+HP:0000012,MONDO:0005244,MedlinePlus,Urinary urgency
+HP:0000790,MONDO:0005244,MedlinePlus,Hematuria
+HP:0002020,MONDO:0007186,MedlinePlus,Gastroesophageal reflux
+HP:0002015,MONDO:0007186,MedlinePlus,Dysphagia
+HP:0100749,MONDO:0007186,MedlinePlus,Chest pain
+HP:0012735,MONDO:0007186,MedlinePlus,Cough
+HP:0002027,MONDO:0005265,MedlinePlus,Abdominal pain
+HP:0003270,MONDO:0005265,MedlinePlus,Abdominal distention
+HP:0002014,MONDO:0005265,MedlinePlus,Diarrhea
+HP:0002019,MONDO:0005265,MedlinePlus,Constipation
+HP:0410019,MONDO:0005114,MedlinePlus,Epigastric pain
+HP:0002018,MONDO:0005114,MedlinePlus,Nausea
+HP:0003270,MONDO:0005114,MedlinePlus,Abdominal distention
+HP:0002249,MONDO:0005114,MedlinePlus,Melena
+HP:0002014,MONDO:0005130,MedlinePlus,Diarrhea
+HP:0003270,MONDO:0005130,MedlinePlus,Abdominal distention
+HP:0001824,MONDO:0005130,MedlinePlus,Weight loss
+HP:0012378,MONDO:0005130,MedlinePlus,Fatigue
+HP:0002027,MONDO:0005130,MedlinePlus,Abdominal pain
+HP:0002014,MONDO:0004972,MedlinePlus,Diarrhea
+HP:0002027,MONDO:0004972,MedlinePlus,Abdominal pain
+HP:0001824,MONDO:0004972,MedlinePlus,Weight loss
+HP:0012378,MONDO:0004972,MedlinePlus,Fatigue
+HP:0001945,MONDO:0004972,MedlinePlus,Fever
+HP:0003418,MONDO:0004651,MedlinePlus,Back pain
+HP:0003394,MONDO:0004651,MedlinePlus,Muscle spasm
+HP:0002829,MONDO:0005178,MedlinePlus,Arthralgia
+HP:0001387,MONDO:0005178,MedlinePlus,Joint stiffness
+HP:0001386,MONDO:0005178,MedlinePlus,Joint swelling
+HP:0001376,MONDO:0005178,MedlinePlus,Limitation of joint mobility
+HP:0002829,MONDO:0008383,MedlinePlus,Arthralgia
+HP:0001386,MONDO:0008383,MedlinePlus,Joint swelling
+HP:0001387,MONDO:0008383,MedlinePlus,Joint stiffness
+HP:0012378,MONDO:0008383,MedlinePlus,Fatigue
+HP:0001945,MONDO:0008383,MedlinePlus,Fever
+HP:0002659,MONDO:0005206,MedlinePlus,Increased susceptibility to fractures
+HP:0003418,MONDO:0005206,MedlinePlus,Back pain
+HP:0002808,MONDO:0005206,MedlinePlus,Kyphosis
+HP:0002315,MONDO:0005072,MedlinePlus,Headache
+HP:0002018,MONDO:0005072,MedlinePlus,Nausea
+HP:0002013,MONDO:0005072,MedlinePlus,Vomiting
+HP:0000613,MONDO:0005072,MedlinePlus,Photophobia
+HP:0002183,MONDO:0005072,MedlinePlus,Phonophobia
+HP:0002315,MONDO:0021668,MedlinePlus,Headache
+HP:0030833,MONDO:0021668,MedlinePlus,Neck pain
+HP:0001250,MONDO:0005027,MedlinePlus,Seizure
+HP:0007185,MONDO:0005027,MedlinePlus,Loss of consciousness
+HP:0001289,MONDO:0005027,MedlinePlus,Confusion
+HP:0002354,MONDO:0004975,MedlinePlus,Memory impairment
+HP:0001289,MONDO:0004975,MedlinePlus,Confusion
+HP:0002463,MONDO:0004975,MedlinePlus,Language impairment
+HP:0000741,MONDO:0004975,MedlinePlus,Apathy
+HP:0002322,MONDO:0005180,MedlinePlus,Resting tremor
+HP:0002063,MONDO:0005180,MedlinePlus,Rigidity
+HP:0002067,MONDO:0005180,MedlinePlus,Bradykinesia
+HP:0002172,MONDO:0005180,MedlinePlus,Postural instability
+HP:0002362,MONDO:0005180,MedlinePlus,Shuffling gait
+HP:0000989,MONDO:0004980,MedlinePlus,Pruritus
+HP:0000958,MONDO:0004980,MedlinePlus,Dry skin
+HP:0000964,MONDO:0004980,MedlinePlus,Eczematoid dermatitis
+HP:0010783,MONDO:0004980,MedlinePlus,Erythema
+HP:0100725,MONDO:0004980,MedlinePlus,Lichenification
+HP:0010783,MONDO:0005093,MedlinePlus,Erythema
+HP:0040189,MONDO:0005093,MedlinePlus,Scaling skin
+HP:0000989,MONDO:0005093,MedlinePlus,Pruritus
+HP:0001803,MONDO:0005093,MedlinePlus,Nail pits
+HP:0025249,MONDO:0005342,MedlinePlus,Comedo
+HP:0200034,MONDO:0005342,MedlinePlus,Papule
+HP:0200039,MONDO:0005342,MedlinePlus,Pustule
+HP:0000989,MONDO:0002115,MedlinePlus,Pruritus
+HP:0010783,MONDO:0002115,MedlinePlus,Erythema
+HP:0000988,MONDO:0002115,MedlinePlus,Skin rash
+HP:0012378,MONDO:0005308,MedlinePlus,Fatigue
+HP:0012398,MONDO:0005308,MedlinePlus,Peripheral edema
+HP:0002018,MONDO:0005308,MedlinePlus,Nausea
+HP:0000989,MONDO:0005308,MedlinePlus,Pruritus
+HP:0100520,MONDO:0005308,MedlinePlus,Oliguria
+HP:0002039,MONDO:0005308,MedlinePlus,Anorexia
+HP:0100515,MONDO:0006659,MedlinePlus,Pollakisuria
+HP:0000017,MONDO:0006659,MedlinePlus,Nocturia
+HP:0000012,MONDO:0006659,MedlinePlus,Urinary urgency
+HP:0000019,MONDO:0006659,MedlinePlus,Urinary hesitancy
+HP:0000016,MONDO:0006659,MedlinePlus,Urinary retention
+HP:0100607,MONDO:0005273,MedlinePlus,Dysmenorrhea
+HP:0034267,MONDO:0005273,MedlinePlus,Pelvic pain
+HP:0030016,MONDO:0005273,MedlinePlus,Dyspareunia
+HP:0000789,MONDO:0005273,MedlinePlus,Infertility
+HP:0000132,MONDO:0005273,MedlinePlus,Menorrhagia
+HP:0000858,MONDO:0005204,MedlinePlus,Irregular menstruation
+HP:0001007,MONDO:0005204,MedlinePlus,Hirsutism
+HP:0001061,MONDO:0005204,MedlinePlus,Acne
+HP:0004324,MONDO:0005204,MedlinePlus,Increased body weight
+HP:0000789,MONDO:0005204,MedlinePlus,Infertility
+HP:0012378,MONDO:0005315,MedlinePlus,Fatigue
+HP:0000980,MONDO:0005315,MedlinePlus,Pallor
+HP:0002875,MONDO:0005315,MedlinePlus,Exertional dyspnea
+HP:0002321,MONDO:0005315,MedlinePlus,Vertigo
+HP:0011856,MONDO:0005315,MedlinePlus,Pica
+HP:0001123,MONDO:0005165,MedlinePlus,Visual field defect
+HP:0000622,MONDO:0005165,MedlinePlus,Blurred vision
+HP:0200026,MONDO:0005165,MedlinePlus,Ocular pain

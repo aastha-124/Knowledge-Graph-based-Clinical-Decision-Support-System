@@ -1,0 +1,125 @@
+id,name
+RF:OBESITY,Obesity
+RF:HIGH_SODIUM_DIET,High sodium diet
+RF:PHYSICAL_INACTIVITY,Physical inactivity
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,Excessive alcohol consumption
+RF:SMOKING,Smoking
+RF:FAMILY_HISTORY_OF_HYPERTENSION,Family history of hypertension
+RF:AGE_OVER_45,Age over 45
+RF:CHRONIC_STRESS,Chronic stress
+RF:HIGH_SATURATED_FAT_DIET,High saturated fat diet
+RF:FAMILY_HISTORY_OF_HYPERLIPIDEM,Family history of hyperlipidemia
+RF:TYPE_2_DIABETES_MELLITUS,Type 2 diabetes mellitus
+RF:HYPOTHYROIDISM,Hypothyroidism
+RF:HYPERTENSION,Hypertension
+RF:HYPERLIPIDEMIA,Hyperlipidemia
+RF:FAMILY_HISTORY_OF_CAD,Family history of CAD
+RF:CORONARY_ARTERY_DISEASE,Coronary artery disease
+RF:HEART_FAILURE,Heart failure
+RF:AGE_OVER_65,Age over 65
+RF:HYPERTHYROIDISM,Hyperthyroidism
+RF:FAMILY_HISTORY_OF_DIABETES,Family history of diabetes
+RF:GESTATIONAL_DIABETES_HISTORY,Gestational diabetes history
+RF:POLYCYSTIC_OVARY_SYNDROME,Polycystic ovary syndrome
+RF:HIGH-CALORIE_DIET,High-calorie diet
+RF:FEMALE_SEX,Female sex
+RF:AGE_OVER_60,Age over 60
+RF:FAMILY_HISTORY_OF_THYROID_DISE,Family history of thyroid disease
+RF:AUTOIMMUNE_DISEASE_HISTORY,Autoimmune disease history
+RF:IODINE_DEFICIENCY,Iodine deficiency
+RF:FAMILY_HISTORY_OF_OBESITY,Family history of obesity
+RF:SEDENTARY_OCCUPATION,Sedentary occupation
+RF:SLEEP_DEPRIVATION,Sleep deprivation
+RF:LIMITED_SUN_EXPOSURE,Limited sun exposure
+RF:DARK_SKIN_PIGMENTATION,Dark skin pigmentation
+RF:MALABSORPTION_SYNDROMES,Malabsorption syndromes
+RF:HIGH_PURINE_DIET,High purine diet
+RF:MALE_SEX,Male sex
+RF:CHRONIC_KIDNEY_DISEASE,Chronic kidney disease
+RF:FAMILY_HISTORY_OF_GOUT,Family history of gout
+RF:FAMILY_HISTORY_OF_ASTHMA,Family history of asthma
+RF:ALLERGIC_RHINITIS,Allergic rhinitis
+RF:ATOPIC_DERMATITIS,Atopic dermatitis
+RF:SMOKING_OR_SECONDHAND_SMOKE_EX,Smoking or secondhand smoke exposure
+RF:OCCUPATIONAL_CHEMICAL_EXPOSURE,Occupational chemical exposure
+RF:AIR_POLLUTION_EXPOSURE,Air pollution exposure
+RF:OCCUPATIONAL_DUST/CHEMICAL_EXP,Occupational dust/chemical exposure
+RF:INDOOR_AIR_POLLUTION,Indoor air pollution
+RF:ALPHA-1_ANTITRYPSIN_DEFICIENCY,Alpha-1 antitrypsin deficiency
+RF:AGE_OVER_40,Age over 40
+RF:CHILDHOOD_RESPIRATORY_INFECTIO,Childhood respiratory infections
+RF:FAMILY_HISTORY_OF_ATOPY,Family history of atopy
+RF:ASTHMA,Asthma
+RF:ENVIRONMENTAL_ALLERGEN_EXPOSUR,Environmental allergen exposure
+RF:IMMUNOSUPPRESSION,Immunosuppression
+RF:CLOSE_CONTACT_WITH_INFECTED_IN,Close contact with infected individuals
+RF:COPD,COPD
+RF:SEXUAL_ACTIVITY,Sexual activity
+RF:URINARY_CATHETER_USE,Urinary catheter use
+RF:MENOPAUSE,Menopause
+RF:CHRONIC_LUNG_DISEASE,Chronic lung disease
+RF:PREGNANCY,Pregnancy
+RF:CARDIOVASCULAR_DISEASE,Cardiovascular disease
+RF:AGE_5–15_YEARS,Age 5–15 years
+RF:CONTAMINATED_FOOD_OR_WATER,Contaminated food or water
+RF:POOR_HAND_HYGIENE,Poor hand hygiene
+RF:HIGH-FAT_DIET,High-fat diet
+RF:HIATAL_HERNIA,Hiatal hernia
+RF:PRIOR_GASTROINTESTINAL_INFECTI,Prior gastrointestinal infection
+RF:FAMILY_HISTORY_OF_IBS,Family history of IBS
+RF:H._PYLORI_INFECTION,H. pylori infection
+RF:NSAID_USE,NSAID use
+RF:FAMILY_HISTORY_OF_CELIAC_DISEA,Family history of celiac disease
+RF:TYPE_1_DIABETES_MELLITUS,Type 1 diabetes mellitus
+RF:AUTOIMMUNE_THYROID_DISEASE,Autoimmune thyroid disease
+RF:HLA-DQ2/DQ8_POSITIVITY,HLA-DQ2/DQ8 positivity
+RF:FAMILY_HISTORY_OF_IBD,Family history of IBD
+RF:AGE_15–35,Age 15–35
+RF:OCCUPATIONAL_HEAVY_LIFTING,Occupational heavy lifting
+RF:AGE_30–50,Age 30–50
+RF:AGE_OVER_50,Age over 50
+RF:JOINT_INJURY_HISTORY,Joint injury history
+RF:FAMILY_HISTORY_OF_OA,Family history of OA
+RF:FAMILY_HISTORY_OF_RA,Family history of RA
+RF:AGE_40–60,Age 40–60
+RF:LOW_BODY_WEIGHT,Low body weight
+RF:FAMILY_HISTORY_OF_OSTEOPOROSIS,Family history of osteoporosis
+RF:VITAMIN_D_DEFICIENCY,Vitamin D deficiency
+RF:CORTICOSTEROID_USE,Corticosteroid use
+RF:FAMILY_HISTORY_OF_MIGRAINE,Family history of migraine
+RF:SLEEP_DISTURBANCES,Sleep disturbances
+RF:HORMONAL_CHANGES,Hormonal changes
+RF:POOR_POSTURE,Poor posture
+RF:ANXIETY,Anxiety
+RF:FAMILY_HISTORY_OF_EPILEPSY,Family history of epilepsy
+RF:TRAUMATIC_BRAIN_INJURY,Traumatic brain injury
+RF:STROKE_HISTORY,Stroke history
+RF:CNS_INFECTION_HISTORY,CNS infection history
+RF:FAMILY_HISTORY_OF_ALZHEIMER'S,Family history of Alzheimer's
+RF:APOE-E4_GENOTYPE,APOE-e4 genotype
+RF:FAMILY_HISTORY_OF_PARKINSON'S,Family history of Parkinson's
+RF:PESTICIDE_EXPOSURE,Pesticide exposure
+RF:FILAGGRIN_GENE_MUTATION,Filaggrin gene mutation
+RF:URBAN_ENVIRONMENT,Urban environment
+RF:FAMILY_HISTORY_OF_PSORIASIS,Family history of psoriasis
+RF:STREPTOCOCCAL_INFECTION,Streptococcal infection
+RF:HORMONAL_CHANGES_(PUBERTY),Hormonal changes (puberty)
+RF:FAMILY_HISTORY_OF_ACNE,Family history of acne
+RF:HIGH_GLYCEMIC_INDEX_DIET,High glycemic index diet
+RF:FREQUENT_HAND_WASHING,Frequent hand washing
+RF:NICKEL_ALLERGY,Nickel allergy
+RF:FAMILY_HISTORY_OF_CKD,Family history of CKD
+RF:FAMILY_HISTORY_OF_BPH,Family history of BPH
+RF:FAMILY_HISTORY_OF_ENDOMETRIOSI,Family history of endometriosis
+RF:NULLIPARITY,Nulliparity
+RF:EARLY_MENARCHE,Early menarche
+RF:SHORT_MENSTRUAL_CYCLES,Short menstrual cycles
+RF:FAMILY_HISTORY_OF_PCOS,Family history of PCOS
+RF:INSULIN_RESISTANCE,Insulin resistance
+RF:MENSTRUAL_BLOOD_LOSS,Menstrual blood loss
+RF:LOW_DIETARY_IRON_INTAKE,Low dietary iron intake
+RF:CHRONIC_GI_BLOOD_LOSS,Chronic GI blood loss
+RF:FAMILY_HISTORY_OF_GLAUCOMA,Family history of glaucoma
+RF:AFRICAN_ANCESTRY,African ancestry
+RF:HIGH_INTRAOCULAR_PRESSURE,High intraocular pressure
+RF:MYOPIA,Myopia

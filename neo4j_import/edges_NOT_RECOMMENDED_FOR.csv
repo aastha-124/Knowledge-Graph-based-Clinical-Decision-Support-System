@@ -1,0 +1,15 @@
+source_id,target_id,data_source,reason
+DB00571,MONDO:0004979,FDA label; GINA,Non-selective beta-blocker can trigger bronchospasm
+DB01136,MONDO:0004979,FDA label,Non-selective beta-blocker can trigger bronchospasm
+DB01050,MONDO:0005114,FDA label; ACG,NSAIDs cause GI ulceration and bleeding
+DB00788,MONDO:0005114,FDA label; ACG,NSAIDs cause GI ulceration and bleeding
+DB00945,MONDO:0005114,FDA label; ACG,Increases GI bleeding risk
+DB01050,MONDO:0005308,KDIGO; FDA label,NSAIDs reduce kidney blood flow
+DB00788,MONDO:0005308,KDIGO; FDA label,NSAIDs reduce kidney blood flow
+DB01050,MONDO:0005252,AHA/ACC/HFSA 2022,NSAIDs cause fluid retention and worsen HF
+DB00788,MONDO:0005252,AHA/ACC/HFSA 2022,NSAIDs cause fluid retention and worsen HF
+DB00331,MONDO:0005308,FDA label; KDIGO,Contraindicated when eGFR < 30 (lactic acidosis risk)
+DB00563,MONDO:0005308,FDA label,Renally cleared; toxic in severe renal impairment
+DB00698,MONDO:0005308,FDA label,Ineffective and toxic when CrCl < 60 mL/min
+DB00669,MONDO:0005010,FDA label,Triptans cause coronary vasoconstriction
+DB00977,MONDO:0005072,WHO MEC; CDC US MEC,Estrogen-containing contraceptives raise stroke risk in migraine with aura

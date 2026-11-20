@@ -1,0 +1,45 @@
+source_id,target_id,data_source,severity,description
+DB00331,DB01050,DrugBank; FDA Label,moderate,NSAIDs may reduce renal function and increase metformin accumulation risk
+DB00331,DB00316,DrugBank,minor,Acetaminophen may decrease metformin clearance slightly
+DB00331,DB01076,DrugBank,minor,Statins may mildly increase metformin exposure; monitor glucose
+DB00722,DB01050,FDA Label; DrugBank,major,NSAIDs reduce antihypertensive effect of ACE inhibitors and increase nephrotoxicity risk
+DB00722,DB00331,DrugBank,minor,ACE inhibitors may enhance hypoglycemic effect of metformin
+DB00722,DB00945,DrugBank; FDA Label,moderate,Aspirin may reduce antihypertensive efficacy of ACE inhibitors
+DB00722,DB00437,DrugBank,moderate,Increased risk of hypersensitivity reactions when combined
+DB00381,DB01076,FDA Label; DrugBank,moderate,"Amlodipine increases atorvastatin plasma levels by ~40%, increasing myopathy risk"
+DB00381,DB00641,FDA Label; DrugBank,major,Amlodipine significantly increases simvastatin levels; simvastatin dose should not exceed 20mg
+DB00381,DB00571,DrugBank,moderate,Enhanced hypotensive effect; increased risk of heart failure and bradycardia
+DB00338,DB01076,DrugBank,minor,Omeprazole may slightly increase atorvastatin absorption
+DB00338,DB00331,DrugBank,minor,PPIs may alter metformin absorption
+DB00338,DB00564,DrugBank; FDA Label,moderate,Omeprazole inhibits CYP2C19 and may increase carbamazepine levels
+DB01076,DB01050,DrugBank,minor,Both may affect renal function; monitor in patients with renal impairment
+DB01076,DB00316,DrugBank,minor,Hepatotoxicity risk may be additive at high doses
+DB01076,DB00503,FDA Label; DrugBank,major,"Ritonavir strongly inhibits CYP3A4, greatly increasing statin levels and rhabdomyolysis risk"
+DB01050,DB00945,FDA Label; DrugBank,major,Ibuprofen can block aspirin's antiplatelet effect; increased GI bleeding risk
+DB01050,DB01104,DrugBank; FDA Label,major,SSRIs + NSAIDs significantly increase GI bleeding risk
+DB01050,DB00316,DrugBank,moderate,Combined use may increase nephrotoxicity risk
+DB01050,DB00437,DrugBank,minor,NSAIDs may reduce allopurinol efficacy in some patients
+DB01104,DB00316,DrugBank,minor,Sertraline may slightly inhibit acetaminophen metabolism
+DB01104,DB00338,DrugBank,moderate,Both metabolized by CYP2C19; sertraline may increase omeprazole levels
+DB01104,DB00381,DrugBank,minor,Sertraline may mildly affect CYP3A4 metabolism of amlodipine
+DB01104,DB00945,DrugBank; FDA Label,moderate,SSRIs + aspirin increase bleeding risk
+DB01104,DB00252,FDA Label; DrugBank,moderate,Sertraline may increase phenytoin levels through CYP2C9 inhibition
+DB01060,DB00563,FDA Label; DrugBank,major,"Amoxicillin reduces renal clearance of methotrexate, increasing toxicity risk"
+DB01060,DB00437,DrugBank,moderate,Increased incidence of skin rash when combined
+DB01001,DB00571,FDA Label; DrugBank,major,Non-selective beta-blockers antagonize bronchodilator effect of albuterol
+DB01001,DB01136,FDA Label; DrugBank,major,Carvedilol (non-selective beta-blocker) antagonizes albuterol bronchodilation
+DB01001,DB00390,DrugBank,moderate,Beta-agonists may decrease digoxin serum levels
+DB00316,DB00945,DrugBank,moderate,Concurrent use may increase GI bleeding risk
+DB00945,DB00437,DrugBank,minor,"Low-dose aspirin may increase uric acid levels, reducing allopurinol efficacy"
+DB00437,DB01033,FDA Label; DrugBank,major,"Allopurinol inhibits xanthine oxidase, dramatically increasing mercaptopurine toxicity"
+DB00437,DB00999,DrugBank,moderate,Thiazides may increase allopurinol hypersensitivity risk
+DB00563,DB01050,FDA Label; DrugBank,major,"NSAIDs decrease renal clearance of methotrexate, increasing toxicity"
+DB00563,DB00338,DrugBank; FDA Label,moderate,PPIs may decrease methotrexate clearance
+DB00252,DB00564,FDA Label; DrugBank,major,Complex bidirectional interaction; both are enzyme inducers that alter each other's levels
+DB00252,DB01076,DrugBank,moderate,Phenytoin induces CYP3A4 and decreases statin effectiveness
+DB00390,DB00381,DrugBank,moderate,Amlodipine may increase digoxin levels; monitor digoxin concentration
+DB00390,DB00338,DrugBank; FDA Label,moderate,Omeprazole may increase digoxin absorption due to increased gastric pH
+DB00999,DB01050,FDA Label; DrugBank,moderate,NSAIDs reduce diuretic and antihypertensive effect of thiazides
+DB00999,DB00722,DrugBank,minor,Commonly co-prescribed; additive hypotensive effect — monitor potassium
+DB00999,DB00331,DrugBank; FDA Label,moderate,Thiazides may impair glucose tolerance and reduce metformin efficacy
+DB00571,DB00331,FDA Label; DrugBank,moderate,Beta-blockers may mask hypoglycemia symptoms and impair glucose recovery

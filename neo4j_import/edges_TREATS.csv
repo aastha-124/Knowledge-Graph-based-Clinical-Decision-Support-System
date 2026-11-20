@@ -1,0 +1,154 @@
+source_id,target_id,data_source
+DB00722,MONDO:0005071,WHO Hypertension Guideline 2021; ACC/AHA 2017
+DB00381,MONDO:0005071,WHO Hypertension Guideline 2021; ACC/AHA 2017
+DB00999,MONDO:0005071,WHO Hypertension Guideline 2021; ACC/AHA 2017
+DB00678,MONDO:0005071,WHO Hypertension Guideline 2021; ACC/AHA 2017
+DB01076,MONDO:0005311,ACC/AHA Cholesterol Guideline 2018
+DB00641,MONDO:0005311,ACC/AHA Cholesterol Guideline 2018
+DB00973,MONDO:0005311,ACC/AHA Cholesterol Guideline 2018
+DB00945,MONDO:0005010,AHA/ACC Chronic Coronary Disease Guideline 2023
+DB01076,MONDO:0005010,AHA/ACC Chronic Coronary Disease Guideline 2023
+DB00264,MONDO:0005010,AHA/ACC Chronic Coronary Disease Guideline 2023
+DB00727,MONDO:0005010,AHA/ACC Chronic Coronary Disease Guideline 2023
+DB00758,MONDO:0005010,AHA/ACC Chronic Coronary Disease Guideline 2023
+DB00722,MONDO:0005252,AHA/ACC/HFSA Heart Failure Guideline 2022
+DB01136,MONDO:0005252,AHA/ACC/HFSA Heart Failure Guideline 2022
+DB00421,MONDO:0005252,AHA/ACC/HFSA Heart Failure Guideline 2022
+DB00695,MONDO:0005252,AHA/ACC/HFSA Heart Failure Guideline 2022
+DB06292,MONDO:0005252,AHA/ACC/HFSA Heart Failure Guideline 2022
+DB06605,MONDO:0004981,ACC/AHA/HRS Atrial Fibrillation Guideline 2023
+DB00682,MONDO:0004981,ACC/AHA/HRS Atrial Fibrillation Guideline 2023
+DB00264,MONDO:0004981,ACC/AHA/HRS Atrial Fibrillation Guideline 2023
+DB00390,MONDO:0004981,ACC/AHA/HRS Atrial Fibrillation Guideline 2023
+DB00331,MONDO:0005148,ADA Standards of Care
+DB09038,MONDO:0005148,ADA Standards of Care
+DB01261,MONDO:0005148,ADA Standards of Care
+DB00047,MONDO:0005148,ADA Standards of Care
+DB00451,MONDO:0004784,ATA Hypothyroidism Guideline
+DB01083,MONDO:0011122,AACE/Endocrine Society Obesity Guidelines
+DB13928,MONDO:0011122,AACE/Endocrine Society Obesity Guidelines
+DB06655,MONDO:0011122,AACE/Endocrine Society Obesity Guidelines
+DB00169,MONDO:0005300,Endocrine Society Vitamin D Guideline
+DB00153,MONDO:0005300,Endocrine Society Vitamin D Guideline
+DB00437,MONDO:0005812,ACR Gout Guideline 2020
+DB01394,MONDO:0005812,ACR Gout Guideline 2020
+DB04854,MONDO:0005812,ACR Gout Guideline 2020
+DB00788,MONDO:0005812,ACR Gout Guideline 2020
+DB01001,MONDO:0004979,GINA Asthma Strategy
+DB01222,MONDO:0004979,GINA Asthma Strategy
+DB00588,MONDO:0004979,GINA Asthma Strategy
+DB00471,MONDO:0004979,GINA Asthma Strategy
+DB01409,MONDO:0005002,GOLD COPD Report
+DB01001,MONDO:0005002,GOLD COPD Report
+DB00938,MONDO:0005002,GOLD COPD Report
+DB00316,MONDO:0005240,CDC Common Cold guidance (symptom relief; antibiotics not recommended)
+DB01050,MONDO:0005240,CDC Common Cold guidance (symptom relief; antibiotics not recommended)
+DB00316,MONDO:0005697,CDC Chest Cold guidance (symptom relief; antibiotics not recommended)
+DB01050,MONDO:0005697,CDC Chest Cold guidance (symptom relief; antibiotics not recommended)
+DB00588,MONDO:0005373,ARIA Guidelines
+DB00341,MONDO:0005373,ARIA Guidelines
+DB00455,MONDO:0005373,ARIA Guidelines
+DB00471,MONDO:0005373,ARIA Guidelines
+DB01060,MONDO:0005249,ATS/IDSA Community-Acquired Pneumonia Guideline 2019
+DB00207,MONDO:0005249,ATS/IDSA Community-Acquired Pneumonia Guideline 2019
+DB00254,MONDO:0005249,ATS/IDSA Community-Acquired Pneumonia Guideline 2019
+DB01212,MONDO:0005249,ATS/IDSA Community-Acquired Pneumonia Guideline 2019
+DB00198,MONDO:0005810,CDC Influenza Antiviral Guidance
+DB00558,MONDO:0005810,CDC Influenza Antiviral Guidance
+DB13997,MONDO:0005810,CDC Influenza Antiviral Guidance
+DB16691,MONDO:0100096,NIH/WHO COVID-19 Treatment Guidelines
+DB00503,MONDO:0100096,NIH/WHO COVID-19 Treatment Guidelines
+DB14761,MONDO:0100096,NIH/WHO COVID-19 Treatment Guidelines
+DB01234,MONDO:0100096,NIH/WHO COVID-19 Treatment Guidelines
+DB00417,MONDO:0000305,IDSA Group A Strep Pharyngitis Guideline
+DB01060,MONDO:0000305,IDSA Group A Strep Pharyngitis Guideline
+DB01050,MONDO:0000305,IDSA Group A Strep Pharyngitis Guideline
+DB00904,MONDO:0005560,WHO Diarrhoea guidance (oral rehydration first)
+DB00836,MONDO:0005560,WHO Diarrhoea guidance (oral rehydration first)
+DB00698,MONDO:0005244,IDSA Uncomplicated UTI Guideline
+DB01015,MONDO:0005244,IDSA Uncomplicated UTI Guideline
+DB00440,MONDO:0005244,IDSA Uncomplicated UTI Guideline
+DB00828,MONDO:0005244,IDSA Uncomplicated UTI Guideline
+DB00338,MONDO:0007186,ACG GERD Guideline 2022
+DB00213,MONDO:0007186,ACG GERD Guideline 2022
+DB00927,MONDO:0007186,ACG GERD Guideline 2022
+DB00836,MONDO:0005265,ACG IBS Guideline 2021
+DB00804,MONDO:0005265,ACG IBS Guideline 2021
+DB08890,MONDO:0005265,ACG IBS Guideline 2021
+DB00338,MONDO:0005114,ACG H. pylori / Peptic Ulcer Guideline
+DB01060,MONDO:0005114,ACG H. pylori / Peptic Ulcer Guideline
+DB01211,MONDO:0005114,ACG H. pylori / Peptic Ulcer Guideline
+DB00916,MONDO:0005114,ACG H. pylori / Peptic Ulcer Guideline
+DB01222,MONDO:0004972,ACG Crohn's Disease Guideline
+DB00065,MONDO:0004972,ACG Crohn's Disease Guideline
+DB00051,MONDO:0004972,ACG Crohn's Disease Guideline
+DB00993,MONDO:0004972,ACG Crohn's Disease Guideline
+DB01050,MONDO:0004651,ACP Low Back Pain Guideline 2017
+DB00788,MONDO:0004651,ACP Low Back Pain Guideline 2017
+DB00924,MONDO:0004651,ACP Low Back Pain Guideline 2017
+DB01050,MONDO:0005178,ACR Osteoarthritis Guideline 2019
+DB00788,MONDO:0005178,ACR Osteoarthritis Guideline 2019
+DB00586,MONDO:0005178,ACR Osteoarthritis Guideline 2019
+DB00316,MONDO:0005178,ACR Osteoarthritis Guideline 2019
+DB00563,MONDO:0008383,ACR Rheumatoid Arthritis Guideline 2021
+DB01611,MONDO:0008383,ACR Rheumatoid Arthritis Guideline 2021
+DB00795,MONDO:0008383,ACR Rheumatoid Arthritis Guideline 2021
+DB00051,MONDO:0008383,ACR Rheumatoid Arthritis Guideline 2021
+DB00630,MONDO:0005206,Endocrine Society / AACE Osteoporosis Guidelines
+DB00884,MONDO:0005206,Endocrine Society / AACE Osteoporosis Guidelines
+DB00399,MONDO:0005206,Endocrine Society / AACE Osteoporosis Guidelines
+DB06643,MONDO:0005206,Endocrine Society / AACE Osteoporosis Guidelines
+DB00669,MONDO:0005072,AHS Migraine Consensus (acute + preventive)
+DB01050,MONDO:0005072,AHS Migraine Consensus (acute + preventive)
+DB00945,MONDO:0005072,AHS Migraine Consensus (acute + preventive)
+DB00571,MONDO:0005072,AHS Migraine Consensus (acute + preventive)
+DB00273,MONDO:0005072,AHS Migraine Consensus (acute + preventive)
+DB01050,MONDO:0021668,EFNS Tension-Type Headache Guideline
+DB00316,MONDO:0021668,EFNS Tension-Type Headache Guideline
+DB00945,MONDO:0021668,EFNS Tension-Type Headache Guideline
+DB00321,MONDO:0021668,EFNS Tension-Type Headache Guideline
+DB01202,MONDO:0005027,NICE Epilepsies Guideline NG217
+DB00555,MONDO:0005027,NICE Epilepsies Guideline NG217
+DB00564,MONDO:0005027,NICE Epilepsies Guideline NG217
+DB00313,MONDO:0005027,NICE Epilepsies Guideline NG217
+DB00252,MONDO:0005027,NICE Epilepsies Guideline NG217
+DB00843,MONDO:0004975,NICE Dementia Guideline NG97
+DB00989,MONDO:0004975,NICE Dementia Guideline NG97
+DB00674,MONDO:0004975,NICE Dementia Guideline NG97
+DB01043,MONDO:0004975,NICE Dementia Guideline NG97
+DB01235,MONDO:0005180,NICE Parkinson's Disease Guideline NG71
+DB00190,MONDO:0005180,NICE Parkinson's Disease Guideline NG71
+DB00413,MONDO:0005180,NICE Parkinson's Disease Guideline NG71
+DB01367,MONDO:0005180,NICE Parkinson's Disease Guideline NG71
+DB00741,MONDO:0004980,AAD Atopic Dermatitis Guidelines
+DB00864,MONDO:0004980,AAD Atopic Dermatitis Guidelines
+DB12159,MONDO:0004980,AAD Atopic Dermatitis Guidelines
+DB01013,MONDO:0005093,AAD-NPF Psoriasis Guidelines
+DB02300,MONDO:0005093,AAD-NPF Psoriasis Guidelines
+DB00563,MONDO:0005093,AAD-NPF Psoriasis Guidelines
+DB00051,MONDO:0005093,AAD-NPF Psoriasis Guidelines
+DB09096,MONDO:0005342,AAD Acne Guideline 2024
+DB00755,MONDO:0005342,AAD Acne Guideline 2024
+DB00254,MONDO:0005342,AAD Acne Guideline 2024
+DB00982,MONDO:0005342,AAD Acne Guideline 2024
+DB00741,MONDO:0002115,AAD Contact Dermatitis guidance
+DB01013,MONDO:0002115,AAD Contact Dermatitis guidance
+DB00635,MONDO:0002115,AAD Contact Dermatitis guidance
+DB00722,MONDO:0005308,KDIGO CKD Guideline 2024
+DB00678,MONDO:0005308,KDIGO CKD Guideline 2024
+DB06292,MONDO:0005308,KDIGO CKD Guideline 2024
+DB00706,MONDO:0006659,AUA BPH Guideline
+DB01216,MONDO:0006659,AUA BPH Guideline
+DB01050,MONDO:0005273,ACOG / ESHRE Endometriosis Guidelines
+DB00788,MONDO:0005273,ACOG / ESHRE Endometriosis Guidelines
+DB00603,MONDO:0005273,ACOG / ESHRE Endometriosis Guidelines
+DB00717,MONDO:0005273,ACOG / ESHRE Endometriosis Guidelines
+DB00331,MONDO:0005204,International PCOS Guideline 2023
+DB00977,MONDO:0005204,International PCOS Guideline 2023
+DB01006,MONDO:0005204,International PCOS Guideline 2023
+DB00421,MONDO:0005204,International PCOS Guideline 2023
+DB13257,MONDO:0005315,WHO / BSG Iron Deficiency Anaemia guidance
+DB00654,MONDO:0005165,AAO Primary Open-Angle Glaucoma Preferred Practice Pattern
+DB00373,MONDO:0005165,AAO Primary Open-Angle Glaucoma Preferred Practice Pattern
+DB00484,MONDO:0005165,AAO Primary Open-Angle Glaucoma Preferred Practice Pattern
+DB00869,MONDO:0005165,AAO Primary Open-Angle Glaucoma Preferred Practice Pattern

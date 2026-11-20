@@ -1,0 +1,613 @@
+node_id,node_type,node_name
+HP:0002094,Symptom,Shortness of breath
+MONDO:0005071,Disease,Essential hypertension
+HP:0002829,Symptom,Joint pain
+HP:0002321,Symptom,Dizziness
+HP:0001824,Symptom,Weight loss
+HP:0002315,Symptom,Headache
+HP:0002014,Symptom,Diarrhea
+DB00331,Medicine,Metformin
+DB01060,Medicine,Amoxicillin
+DB01001,Medicine,Albuterol
+MONDO:0005311,Disease,Hyperlipidemia
+HP:0001945,Symptom,Fever
+HP:0002013,Symptom,Vomiting
+DB01076,Medicine,Atorvastatin
+DB00338,Medicine,Omeprazole
+HP:0002027,Symptom,Abdominal pain
+MONDO:0005010,Disease,Coronary artery disease
+HP:0012378,Symptom,Fatigue
+HP:0001324,Symptom,Muscle weakness
+HP:0002018,Symptom,Nausea
+DB00381,Medicine,Amlodipine
+DB00722,Medicine,Lisinopril
+MONDO:0005252,Disease,Heart failure
+HP:0000988,Symptom,Skin rash
+HP:0100749,Symptom,Chest pain
+DB00316,Medicine,Acetaminophen
+DB01050,Medicine,Ibuprofen
+MONDO:0004981,Disease,Atrial fibrillation
+DB01104,Medicine,Sertraline
+MONDO:0005148,Disease,Type 2 diabetes mellitus
+MONDO:0004784,Disease,Hypothyroidism
+MONDO:0011122,Disease,Obesity
+HP:0012735,Symptom,Cough
+MONDO:0005300,Disease,Vitamin D deficiency
+MONDO:0005812,Disease,Gout
+MONDO:0004979,Disease,Asthma
+MONDO:0005002,Disease,Chronic obstructive pulmonary disease
+MONDO:0005240,Disease,Acute upper respiratory infection
+MONDO:0005697,Disease,Acute bronchitis
+MONDO:0005373,Disease,Allergic rhinitis
+MONDO:0005249,Disease,Pneumonia
+MONDO:0007186,Disease,Gastro-esophageal reflux disease
+MONDO:0005265,Disease,Irritable bowel syndrome
+MONDO:0005114,Disease,Peptic ulcer disease
+MONDO:0005130,Disease,Celiac disease
+MONDO:0004972,Disease,Crohn's disease
+MONDO:0004651,Disease,Low back pain
+MONDO:0005178,Disease,Osteoarthritis
+MONDO:0008383,Disease,Rheumatoid arthritis
+MONDO:0005206,Disease,Osteoporosis
+MONDO:0005072,Disease,Migraine
+MONDO:0021668,Disease,Tension-type headache
+MONDO:0005027,Disease,Epilepsy
+MONDO:0004975,Disease,Alzheimer's disease
+MONDO:0005180,Disease,Parkinson's disease
+MONDO:0005244,Disease,Urinary tract infection
+MONDO:0005810,Disease,Influenza
+MONDO:0100096,Disease,COVID-19
+MONDO:0000305,Disease,Acute pharyngitis
+MONDO:0005560,Disease,Gastroenteritis
+MONDO:0004980,Disease,Atopic dermatitis
+MONDO:0005093,Disease,Psoriasis
+MONDO:0005342,Disease,Acne vulgaris
+MONDO:0002115,Disease,Contact dermatitis
+MONDO:0005308,Disease,Chronic kidney disease
+MONDO:0006659,Disease,Benign prostatic hyperplasia
+MONDO:0005273,Disease,Endometriosis
+MONDO:0005204,Disease,Polycystic ovary syndrome
+MONDO:0005315,Disease,Iron deficiency anemia
+MONDO:0005165,Disease,Glaucoma
+4979,Symptom,asthma
+12652,Disease,exercise-induced asthma
+5311,Symptom,atherosclerosis
+1369,Disease,arthritis
+1824,Disease,weight loss
+726,Disease,dementia
+1370,Disease,rheumatoid arthritis
+5130,Symptom,celiac disease
+2013,Disease,vomiting
+739,Disease,anxiety
+12378,Disease,fatigue
+2018,Disease,nausea
+2315,Disease,headache
+737,Disease,irritability
+5010,Symptom,coronary artery disease
+5252,Symptom,heart failure
+5810,Symptom,infectious mononucleosis
+1945,Disease,fever
+5178_6629_5416_6630_6631_6632,Symptom,osteoarthritis
+5249,Symptom,pneumonia
+100806,Disease,sepsis
+31273,Disease,shock
+8383,Symptom,rheumatoid arthritis
+1386,Disease,joint swelling
+4651,Symptom,smallpox
+2027,SideEffect,Abdominal pain
+3128,SideEffect,Lactic acidosis
+718,SideEffect,Aggressive behavior
+100845,SideEffect,Anaphylactic shock
+1681,SideEffect,Angina pectoris
+4396,SideEffect,Poor appetite
+739,SideEffect,Anxiety
+11675,SideEffect,Arrhythmia
+2829,SideEffect,Arthralgia
+10867,SideEffect,Dyssynergia
+3418,SideEffect,Back pain
+1928,SideEffect,Abnormality of coagulation
+3256,SideEffect,Abnormality of the coagulation cascade
+12387,SideEffect,Bronchitis
+100749,SideEffect,Chest pain
+12735,SideEffect,Cough
+2321,SideEffect,Vertigo
+1262,SideEffect,Excessive daytime somnolence
+2094,SideEffect,Dyspnea
+2098,SideEffect,Respiratory distress
+30766,SideEffect,Ear pain
+969,SideEffect,Edema
+421,SideEffect,Epistaxis
+11123,SideEffect,Inflammatory abnormality of the skin
+12378,SideEffect,Fatigue
+1945,SideEffect,Fever
+10783,SideEffect,Erythema
+11024,SideEffect,Abnormality of the gastrointestinal tract
+206,SideEffect,Glossitis
+3076,SideEffect,Glycosuria
+2315,SideEffect,Headache
+30148,SideEffect,Heart murmur
+1618,SideEffect,Dysphonia
+3074,SideEffect,Hyperglycemia
+2883,SideEffect,Hyperventilation
+1943,SideEffect,Hypoglycemia
+952,SideEffect,Jaundice
+1946,SideEffect,Ketosis
+2487,SideEffect,Hyperkinetic movements
+2088,SideEffect,Abnormal lung morphology
+11499,SideEffect,Mydriasis
+1742,SideEffect,Nasal obstruction
+2018,SideEffect,Nausea
+12531,SideEffect,Pain
+980,SideEffect,Pallor
+1962,SideEffect,Palpitations
+3401,SideEffect,Paresthesia
+759,SideEffect,Abnormal peripheral nervous system morphology
+1271,SideEffect,Polyneuropathy
+9830,SideEffect,Peripheral neuropathy
+100602,SideEffect,Preeclampsia
+100603,SideEffect,Toxemia of pregnancy
+989,SideEffect,Pruritus
+100598,SideEffect,Pulmonary edema
+11947,SideEffect,Respiratory tract infection
+12384,SideEffect,Rhinitis
+951,SideEffect,Abnormality of the skin
+10280,SideEffect,Stomatitis
+975,SideEffect,Hyperhidrosis
+1649,SideEffect,Tachycardia
+4755,SideEffect,Supraventricular tachycardia
+360,SideEffect,Tinnitus
+1337,SideEffect,Tremor
+2013,SideEffect,Vomiting
+30828,SideEffect,Wheezing
+217,SideEffect,Xerostomia
+713,SideEffect,Agitation
+712,SideEffect,Emotional lability
+720,SideEffect,Mood swings
+1575,SideEffect,Mood changes
+2076,SideEffect,Migraine
+4395,SideEffect,Malnutrition
+1942,SideEffect,Metabolic acidosis
+3326,SideEffect,Myalgia
+2591,SideEffect,Polyphagia
+100518,SideEffect,Dysuria
+752,SideEffect,Hyperactivity
+2716,SideEffect,Lymphadenopathy
+12250,SideEffect,ST segment depression
+11105,SideEffect,Hypervolemia
+2595,SideEffect,Ileus
+3270,SideEffect,Abdominal distention
+100607,SideEffect,Dysmenorrhea
+964,SideEffect,Eczema
+976,SideEffect,Eczematoid dermatitis
+2020,SideEffect,Gastroesophageal reflux
+790,SideEffect,Hematuria
+100963,SideEffect,Hyperesthesia
+3474,SideEffect,Sensory impairment
+1276,SideEffect,Hypertonia
+246,SideEffect,Sinusitis
+7185,SideEffect,Loss of consciousness
+1279,SideEffect,Syncope
+3115,SideEffect,Abnormal EKG
+1596,SideEffect,Alopecia
+2293,SideEffect,Alopecia of scalp
+1396,SideEffect,Cholestasis
+2015,SideEffect,Dysphagia
+651,SideEffect,Diplopia
+478,SideEffect,Abnormality of the eye
+212,SideEffect,Gingival overgrowth
+1635,SideEffect,Congestive heart failure
+12115,SideEffect,Hepatitis
+1367,SideEffect,Abnormal joint morphology
+3040,SideEffect,Arthropathy
+1882,SideEffect,Leukopenia
+6510,SideEffect,Chronic pulmonary obstruction
+17,SideEffect,Nocturia
+1733,SideEffect,Pancreatitis
+103,SideEffect,Polyuria
+1873,SideEffect,Thrombocytopenia
+100515,SideEffect,Pollakisuria
+2633,SideEffect,Vasculitis
+4756,SideEffect,Ventricular tachycardia
+4324,SideEffect,Increased body weight
+1097,SideEffect,Keratoconjunctivitis sicca
+4950,SideEffect,Peripheral arterial stenosis
+741,SideEffect,Apathy
+12398,SideEffect,Peripheral edema
+1324,SideEffect,Muscle weakness
+200026,SideEffect,Ocular pain
+958,SideEffect,Dry skin
+40186,SideEffect,Maculopapular exanthema
+1662,SideEffect,Bradycardia
+505,SideEffect,Visual impairment
+1677,SideEffect,Coronary artery atherosclerosis
+1913,SideEffect,Granulocytopenia
+1878,SideEffect,Hemolytic anemia
+1259,SideEffect,Coma
+1289,SideEffect,Confusion
+1019,SideEffect,Erythroderma
+1880,SideEffect,Eosinophilia
+1250,SideEffect,Seizure
+123,SideEffect,Nephritis
+1969,SideEffect,Abnormal tubulointerstitial morphology
+1970,SideEffect,Tubulointerstitial nephritis
+1410,SideEffect,Decreased liver function
+2910,SideEffect,Elevated hepatic transaminase
+83,SideEffect,Renal insufficiency
+1369,SideEffect,Arthritis
+30833,SideEffect,Neck pain
+100577,SideEffect,Urinary bladder inflammation
+365,SideEffect,Hearing impairment
+978,SideEffect,Bruising susceptibility
+11885,SideEffect,Hemorrhage of the eye
+225,SideEffect,Gingival bleeding
+1997,SideEffect,Gout
+787,SideEffect,Nephrolithiasis
+1919,SideEffect,Acute kidney injury
+2249,SideEffect,Melena
+100608,SideEffect,Metrorrhagia
+3198,SideEffect,Myopathy
+9071,SideEffect,Inflammatory myopathy
+100614,SideEffect,Myositis
+9763,SideEffect,Limb pain
+967,SideEffect,Petechiae
+2090,SideEffect,Pneumonia
+200042,SideEffect,Skin ulcer
+155,SideEffect,Oral ulcer
+20,SideEffect,Urinary incontinence
+16,SideEffect,Urinary retention
+1399,SideEffect,Hepatic failure
+5986,SideEffect,Limitation of neck motion
+12050,SideEffect,Anasarca
+100550,SideEffect,Tendon rupture
+1386,SideEffect,Joint swelling
+6530,SideEffect,Abnormal pulmonary Interstitial morphology
+12702,SideEffect,Tenesmus
+2354,SideEffect,Memory impairment
+3750,SideEffect,Increased muscle fatiguability
+2904,SideEffect,Hyperbilirubinemia
+622,SideEffect,Blurred vision
+2311,SideEffect,Incoordination
+282,SideEffect,Facial edema
+1342,SideEffect,Cerebral hemorrhage
+2140,SideEffect,Ischemic stroke
+10313,SideEffect,Breast hypertrophy
+846,SideEffect,Adrenal insufficiency
+1915,SideEffect,Aplastic anemia
+2104,SideEffect,Apnea
+100750,SideEffect,Atelectasis
+100280,SideEffect,Crohn's disease
+2239,SideEffect,Gastrointestinal hemorrhage
+738,SideEffect,Hallucinations
+2248,SideEffect,Hematemesis
+1871,SideEffect,Abnormality of blood and blood-forming tissues
+3228,SideEffect,Hypernatremia
+2092,SideEffect,Pulmonary arterial hypertension
+2901,SideEffect,Hypocalcemia
+2902,SideEffect,Hyponatremia
+3075,SideEffect,Hypoproteinemia
+6970,SideEffect,Periventricular leukomalacia
+1392,SideEffect,Abnormality of the liver
+2383,SideEffect,Encephalitis
+132,SideEffect,Menorrhagia
+100,SideEffect,Nephrotic syndrome
+100520,SideEffect,Oliguria
+100653,SideEffect,Optic neuritis
+1876,SideEffect,Pancytopenia
+4398,SideEffect,Peptic ulcer
+93,SideEffect,Proteinuria
+11703,SideEffect,Sinus tachycardia
+7663,SideEffect,Reduced visual acuity
+1688,SideEffect,Sinus bradycardia
+3010,SideEffect,Prolonged bleeding time
+3138,SideEffect,Increased blood urea nitrogen
+2605,SideEffect,Hepatic necrosis
+40213,SideEffect,Hypopnea
+1260,SideEffect,Dysarthria
+2791,SideEffect,Hypoventilation
+5952,SideEffect,Decreased pulmonary function
+2157,SideEffect,Azotemia
+3073,SideEffect,Hypoalbuminemia
+30746,SideEffect,Intraventricular hemorrhage
+1894,SideEffect,Thrombocytosis
+12213,SideEffect,Decreased glomerular filtration rate
+2878,SideEffect,Respiratory failure
+100519,SideEffect,Anuria
+1944,SideEffect,Dehydration
+818,SideEffect,Abnormality of the endocrine system
+30157,SideEffect,Flank pain
+1695,SideEffect,Cardiac arrest
+2105,SideEffect,Hemoptysis
+2153,SideEffect,Hyperkalemia
+12027,SideEffect,Laryngeal edema
+1974,SideEffect,Leukocytosis
+100526,SideEffect,Neoplasm of the lung
+11726,SideEffect,Persistent fetal circulation
+2202,SideEffect,Pleural effusion
+3765,SideEffect,Psoriasiform dermatitis
+12330,SideEffect,Pyelonephritis
+2307,SideEffect,Drooling
+3781,SideEffect,Excessive salivation
+12764,SideEffect,Orthopnea
+613,SideEffect,Photophobia
+3493,SideEffect,Antinuclear antibody positivity
+1709,SideEffect,Third degree atrioventricular block
+3565,SideEffect,Elevated erythrocyte sedimentation rate
+6682,SideEffect,Ventricular extrasystoles
+30829,SideEffect,Abnormal breath sound
+2113,SideEffect,Pulmonary infiltrates
+12534,SideEffect,Dysesthesia
+2637,SideEffect,Cerebral ischemia
+618,SideEffect,Blindness
+12395,SideEffect,Seasonal allergy
+2045,SideEffect,Hypothermia
+1254,SideEffect,Lethargy
+1597,SideEffect,Abnormality of the nail
+11110,SideEffect,Recurrent tonsillitis
+2919,SideEffect,Ketonuria
+1993,SideEffect,Ketoacidosis
+30757,SideEffect,Tooth abscess
+633,SideEffect,Decreased lacrimation
+2757,SideEffect,Recurrent fractures
+2480,SideEffect,Hepatic encephalopathy
+648,SideEffect,Optic atrophy
+1298,SideEffect,Encephalopathy
+2917,SideEffect,Hypomagnesemia
+4394,SideEffect,Multiple gastric polyps
+12592,SideEffect,Albuminuria
+100580,SideEffect,Barrett esophagus
+2043,SideEffect,Esophageal stricture
+10450,SideEffect,Esophageal stenosis
+2040,SideEffect,Esophageal varix
+100790,SideEffect,Hernia
+2789,SideEffect,Tachypnea
+2149,SideEffect,Hyperuricemia
+11710,SideEffect,Bundle branch block
+746,SideEffect,Delusions
+100660,SideEffect,Dyskinesia
+805,SideEffect,Enuresis
+2607,SideEffect,Bowel incontinence
+100812,SideEffect,Halitosis
+3641,SideEffect,Hemoglobinuria
+11854,SideEffect,Hemoperitoneum
+2240,SideEffect,Hepatomegaly
+3124,SideEffect,Hypercholesterolemia
+821,SideEffect,Hypothyroidism
+6511,SideEffect,Laryngeal stridor
+12539,SideEffect,Non-Hodgkin lymphoma
+2665,SideEffect,Lymphoma
+100022,SideEffect,Abnormality of movement
+1252,SideEffect,Hypotonia
+2063,SideEffect,Rigidity
+1336,SideEffect,Myoclonus
+200023,SideEffect,Priapism
+10780,SideEffect,Hyperacusis
+2167,SideEffect,Neurological speech impairment
+733,SideEffect,Stereotypy
+11107,SideEffect,Recurrent aphthous stomatitis
+10307,SideEffect,Stridor
+2619,SideEffect,Varicose veins
+100716,SideEffect,Self-injurious behavior
+1266,SideEffect,Choreoathetosis
+5115,SideEffect,Supraventricular arrhythmia
+10553,SideEffect,Oculogyric crisis
+2375,SideEffect,Hypokinesia
+100539,SideEffect,Periorbital edema
+100754,SideEffect,Mania
+11999,SideEffect,Paranoia
+1657,SideEffect,Prolonged QT interval
+858,SideEffect,Irregular menstruation
+3537,SideEffect,Hypouricemia
+12878,SideEffect,Retarded ejaculation
+2071,SideEffect,Abnormality of extrapyramidal motor function
+4305,SideEffect,Involuntary movements
+670,SideEffect,Carious teeth
+12879,SideEffect,Anejaculation
+1288,SideEffect,Gait disturbance
+2381,SideEffect,Aphasia
+30014,SideEffect,Female sexual dysfunction
+LOINC:51990-0,LabTest,Basic Metabolic Panel
+LOINC:2160-0,LabTest,Serum Creatinine
+LOINC:24356-8,LabTest,Urinalysis
+LOINC:57698-3,LabTest,Lipid Panel
+LOINC:1558-6,LabTest,Fasting Blood Glucose
+LOINC:2823-3,LabTest,Serum Potassium
+LOINC:2093-3,LabTest,Total Cholesterol
+LOINC:13457-7,LabTest,LDL Cholesterol
+LOINC:2085-9,LabTest,HDL Cholesterol
+LOINC:2571-8,LabTest,Triglycerides
+LOINC:3016-3,LabTest,Thyroid Stimulating Hormone
+LOINC:10839-9,LabTest,Troponin I
+LOINC:30934-4,LabTest,BNP
+LOINC:58410-2,LabTest,Complete Blood Count
+LOINC:1988-5,LabTest,C-Reactive Protein
+LOINC:4548-4,LabTest,HbA1c
+LOINC:33762-6,LabTest,NT-proBNP
+LOINC:5902-2,LabTest,PT/INR
+LOINC:24323-8,LabTest,Comprehensive Metabolic Panel
+LOINC:3024-7,LabTest,Free T4
+LOINC:3051-0,LabTest,Free T3
+LOINC:5382-7,LabTest,Thyroid Peroxidase Antibodies
+LOINC:24325-3,LabTest,Liver Function Tests
+LOINC:1989-3,LabTest,25-Hydroxyvitamin D
+LOINC:17861-6,LabTest,Serum Calcium
+LOINC:2777-1,LabTest,Serum Phosphorus
+LOINC:2731-8,LabTest,Parathyroid Hormone
+LOINC:6768-6,LabTest,Alkaline Phosphatase
+LOINC:3084-1,LabTest,Serum Uric Acid
+LOINC:4537-7,LabTest,Erythrocyte Sedimentation Rate
+LOINC:57021-8,LabTest,Complete Blood Count with Differential
+LOINC:19113-0,LabTest,Total IgE
+LOINC:24336-0,LabTest,Arterial Blood Gas
+LOINC:1825-9,LabTest,Alpha-1 Antitrypsin
+LOINC:21232-4,LabTest,Allergen-Specific IgE Panel
+LOINC:31971-5,LabTest,Rapid Strep Test
+LOINC:75241-0,LabTest,Procalcitonin
+LOINC:600-7,LabTest,Blood Culture
+LOINC:630-4,LabTest,Urine Culture
+LOINC:80382-5,LabTest,Influenza A/B Rapid Antigen
+LOINC:94500-6,LabTest,SARS-CoV-2 RNA PCR
+LOINC:97097-0,LabTest,SARS-CoV-2 Antigen
+LOINC:48065-7,LabTest,D-Dimer
+LOINC:2276-4,LabTest,Ferritin
+LOINC:626-2,LabTest,Throat Culture
+LOINC:625-4,LabTest,Stool Culture
+LOINC:5179-7,LabTest,Helicobacter pylori Antibody
+LOINC:56687-6,LabTest,Fecal Calprotectin
+LOINC:31017-7,LabTest,Tissue Transglutaminase IgA
+LOINC:2335-8,LabTest,Stool Occult Blood
+LOINC:2930-2,LabTest,Serum Gastrin
+LOINC:2498-4,LabTest,Serum Iron
+LOINC:1751-7,LabTest,Albumin
+LOINC:11572-5,LabTest,Rheumatoid Factor
+LOINC:53027-9,LabTest,Anti-CCP Antibody
+LOINC:8061-4,LabTest,Anti-Nuclear Antibody
+LOINC:2132-9,LabTest,Vitamin B12
+LOINC:2284-8,LabTest,Folate
+LOINC:2062-3,LabTest,Serum Ceruloplasmin
+LOINC:2986-8,LabTest,Testosterone Total
+LOINC:2191-5,LabTest,DHEA-S
+LOINC:3094-0,LabTest,Blood Urea Nitrogen
+LOINC:2857-1,LabTest,Prostate-Specific Antigen
+LOINC:10334-1,LabTest,CA-125
+LOINC:10501-5,LabTest,Luteinizing Hormone
+LOINC:2500-7,LabTest,Total Iron Binding Capacity
+LOINC:17849-1,LabTest,Reticulocyte Count
+RF:OBESITY,RiskFactor,Obesity
+RF:HIGH_SODIUM_DIET,RiskFactor,High sodium diet
+RF:PHYSICAL_INACTIVITY,RiskFactor,Physical inactivity
+RF:EXCESSIVE_ALCOHOL_CONSUMPTION,RiskFactor,Excessive alcohol consumption
+RF:SMOKING,RiskFactor,Smoking
+RF:FAMILY_HISTORY_OF_HYPERTENSION,RiskFactor,Family history of hypertension
+RF:AGE_OVER_45,RiskFactor,Age over 45
+RF:CHRONIC_STRESS,RiskFactor,Chronic stress
+RF:HIGH_SATURATED_FAT_DIET,RiskFactor,High saturated fat diet
+RF:FAMILY_HISTORY_OF_HYPERLIPIDEM,RiskFactor,Family history of hyperlipidemia
+RF:TYPE_2_DIABETES_MELLITUS,RiskFactor,Type 2 diabetes mellitus
+RF:HYPOTHYROIDISM,RiskFactor,Hypothyroidism
+RF:HYPERTENSION,RiskFactor,Hypertension
+RF:HYPERLIPIDEMIA,RiskFactor,Hyperlipidemia
+RF:FAMILY_HISTORY_OF_CAD,RiskFactor,Family history of CAD
+RF:CORONARY_ARTERY_DISEASE,RiskFactor,Coronary artery disease
+RF:HEART_FAILURE,RiskFactor,Heart failure
+RF:AGE_OVER_65,RiskFactor,Age over 65
+RF:HYPERTHYROIDISM,RiskFactor,Hyperthyroidism
+RF:FAMILY_HISTORY_OF_DIABETES,RiskFactor,Family history of diabetes
+RF:GESTATIONAL_DIABETES_HISTORY,RiskFactor,Gestational diabetes history
+RF:POLYCYSTIC_OVARY_SYNDROME,RiskFactor,Polycystic ovary syndrome
+RF:HIGH-CALORIE_DIET,RiskFactor,High-calorie diet
+RF:FEMALE_SEX,RiskFactor,Female sex
+RF:AGE_OVER_60,RiskFactor,Age over 60
+RF:FAMILY_HISTORY_OF_THYROID_DISE,RiskFactor,Family history of thyroid disease
+RF:AUTOIMMUNE_DISEASE_HISTORY,RiskFactor,Autoimmune disease history
+RF:IODINE_DEFICIENCY,RiskFactor,Iodine deficiency
+RF:FAMILY_HISTORY_OF_OBESITY,RiskFactor,Family history of obesity
+RF:SEDENTARY_OCCUPATION,RiskFactor,Sedentary occupation
+RF:SLEEP_DEPRIVATION,RiskFactor,Sleep deprivation
+RF:LIMITED_SUN_EXPOSURE,RiskFactor,Limited sun exposure
+RF:DARK_SKIN_PIGMENTATION,RiskFactor,Dark skin pigmentation
+RF:MALABSORPTION_SYNDROMES,RiskFactor,Malabsorption syndromes
+RF:HIGH_PURINE_DIET,RiskFactor,High purine diet
+RF:MALE_SEX,RiskFactor,Male sex
+RF:CHRONIC_KIDNEY_DISEASE,RiskFactor,Chronic kidney disease
+RF:FAMILY_HISTORY_OF_GOUT,RiskFactor,Family history of gout
+RF:FAMILY_HISTORY_OF_ASTHMA,RiskFactor,Family history of asthma
+RF:ALLERGIC_RHINITIS,RiskFactor,Allergic rhinitis
+RF:ATOPIC_DERMATITIS,RiskFactor,Atopic dermatitis
+RF:SMOKING_OR_SECONDHAND_SMOKE_EX,RiskFactor,Smoking or secondhand smoke exposure
+RF:OCCUPATIONAL_CHEMICAL_EXPOSURE,RiskFactor,Occupational chemical exposure
+RF:AIR_POLLUTION_EXPOSURE,RiskFactor,Air pollution exposure
+RF:OCCUPATIONAL_DUST/CHEMICAL_EXP,RiskFactor,Occupational dust/chemical exposure
+RF:INDOOR_AIR_POLLUTION,RiskFactor,Indoor air pollution
+RF:ALPHA-1_ANTITRYPSIN_DEFICIENCY,RiskFactor,Alpha-1 antitrypsin deficiency
+RF:AGE_OVER_40,RiskFactor,Age over 40
+RF:CHILDHOOD_RESPIRATORY_INFECTIO,RiskFactor,Childhood respiratory infections
+RF:FAMILY_HISTORY_OF_ATOPY,RiskFactor,Family history of atopy
+RF:ASTHMA,RiskFactor,Asthma
+RF:ENVIRONMENTAL_ALLERGEN_EXPOSUR,RiskFactor,Environmental allergen exposure
+RF:IMMUNOSUPPRESSION,RiskFactor,Immunosuppression
+RF:CLOSE_CONTACT_WITH_INFECTED_IN,RiskFactor,Close contact with infected individuals
+RF:COPD,RiskFactor,COPD
+RF:SEXUAL_ACTIVITY,RiskFactor,Sexual activity
+RF:URINARY_CATHETER_USE,RiskFactor,Urinary catheter use
+RF:MENOPAUSE,RiskFactor,Menopause
+RF:CHRONIC_LUNG_DISEASE,RiskFactor,Chronic lung disease
+RF:PREGNANCY,RiskFactor,Pregnancy
+RF:CARDIOVASCULAR_DISEASE,RiskFactor,Cardiovascular disease
+RF:AGE_5–15_YEARS,RiskFactor,Age 5–15 years
+RF:CONTAMINATED_FOOD_OR_WATER,RiskFactor,Contaminated food or water
+RF:POOR_HAND_HYGIENE,RiskFactor,Poor hand hygiene
+RF:HIGH-FAT_DIET,RiskFactor,High-fat diet
+RF:HIATAL_HERNIA,RiskFactor,Hiatal hernia
+RF:PRIOR_GASTROINTESTINAL_INFECTI,RiskFactor,Prior gastrointestinal infection
+RF:FAMILY_HISTORY_OF_IBS,RiskFactor,Family history of IBS
+RF:H._PYLORI_INFECTION,RiskFactor,H. pylori infection
+RF:NSAID_USE,RiskFactor,NSAID use
+RF:FAMILY_HISTORY_OF_CELIAC_DISEA,RiskFactor,Family history of celiac disease
+RF:TYPE_1_DIABETES_MELLITUS,RiskFactor,Type 1 diabetes mellitus
+RF:AUTOIMMUNE_THYROID_DISEASE,RiskFactor,Autoimmune thyroid disease
+RF:HLA-DQ2/DQ8_POSITIVITY,RiskFactor,HLA-DQ2/DQ8 positivity
+RF:FAMILY_HISTORY_OF_IBD,RiskFactor,Family history of IBD
+RF:AGE_15–35,RiskFactor,Age 15–35
+RF:SEDENTARY_LIFESTYLE,RiskFactor,Sedentary lifestyle
+RF:OCCUPATIONAL_HEAVY_LIFTING,RiskFactor,Occupational heavy lifting
+RF:AGE_30–50,RiskFactor,Age 30–50
+RF:AGE_OVER_50,RiskFactor,Age over 50
+RF:JOINT_INJURY_HISTORY,RiskFactor,Joint injury history
+RF:FAMILY_HISTORY_OF_OA,RiskFactor,Family history of OA
+RF:FAMILY_HISTORY_OF_RA,RiskFactor,Family history of RA
+RF:AGE_40–60,RiskFactor,Age 40–60
+RF:LOW_BODY_WEIGHT,RiskFactor,Low body weight
+RF:FAMILY_HISTORY_OF_OSTEOPOROSIS,RiskFactor,Family history of osteoporosis
+RF:VITAMIN_D_DEFICIENCY,RiskFactor,Vitamin D deficiency
+RF:CORTICOSTEROID_USE,RiskFactor,Corticosteroid use
+RF:FAMILY_HISTORY_OF_MIGRAINE,RiskFactor,Family history of migraine
+RF:SLEEP_DISTURBANCES,RiskFactor,Sleep disturbances
+RF:HORMONAL_CHANGES,RiskFactor,Hormonal changes
+RF:POOR_POSTURE,RiskFactor,Poor posture
+RF:ANXIETY,RiskFactor,Anxiety
+RF:FAMILY_HISTORY_OF_EPILEPSY,RiskFactor,Family history of epilepsy
+RF:TRAUMATIC_BRAIN_INJURY,RiskFactor,Traumatic brain injury
+RF:STROKE_HISTORY,RiskFactor,Stroke history
+RF:CNS_INFECTION_HISTORY,RiskFactor,CNS infection history
+RF:FAMILY_HISTORY_OF_ALZHEIMER'S,RiskFactor,Family history of Alzheimer's
+RF:APOE-E4_GENOTYPE,RiskFactor,APOE-e4 genotype
+RF:FAMILY_HISTORY_OF_PARKINSON'S,RiskFactor,Family history of Parkinson's
+RF:PESTICIDE_EXPOSURE,RiskFactor,Pesticide exposure
+RF:FILAGGRIN_GENE_MUTATION,RiskFactor,Filaggrin gene mutation
+RF:URBAN_ENVIRONMENT,RiskFactor,Urban environment
+RF:FAMILY_HISTORY_OF_PSORIASIS,RiskFactor,Family history of psoriasis
+RF:STREPTOCOCCAL_INFECTION,RiskFactor,Streptococcal infection
+RF:HORMONAL_CHANGES_(PUBERTY),RiskFactor,Hormonal changes (puberty)
+RF:FAMILY_HISTORY_OF_ACNE,RiskFactor,Family history of acne
+RF:HIGH_GLYCEMIC_INDEX_DIET,RiskFactor,High glycemic index diet
+RF:FREQUENT_HAND_WASHING,RiskFactor,Frequent hand washing
+RF:NICKEL_ALLERGY,RiskFactor,Nickel allergy
+RF:ATOPIC_DERMATITIS_HISTORY,RiskFactor,Atopic dermatitis history
+RF:FAMILY_HISTORY_OF_CKD,RiskFactor,Family history of CKD
+RF:NSAID_OVERUSE,RiskFactor,NSAID overuse
+RF:FAMILY_HISTORY_OF_BPH,RiskFactor,Family history of BPH
+RF:FAMILY_HISTORY_OF_ENDOMETRIOSI,RiskFactor,Family history of endometriosis
+RF:NULLIPARITY,RiskFactor,Nulliparity
+RF:EARLY_MENARCHE,RiskFactor,Early menarche
+RF:SHORT_MENSTRUAL_CYCLES,RiskFactor,Short menstrual cycles
+RF:FAMILY_HISTORY_OF_PCOS,RiskFactor,Family history of PCOS
+RF:INSULIN_RESISTANCE,RiskFactor,Insulin resistance
+RF:MENSTRUAL_BLOOD_LOSS,RiskFactor,Menstrual blood loss
+RF:LOW_DIETARY_IRON_INTAKE,RiskFactor,Low dietary iron intake
+RF:CHRONIC_GI_BLOOD_LOSS,RiskFactor,Chronic GI blood loss
+RF:FAMILY_HISTORY_OF_GLAUCOMA,RiskFactor,Family history of glaucoma
+RF:AFRICAN_ANCESTRY,RiskFactor,African ancestry
+RF:HIGH_INTRAOCULAR_PRESSURE,RiskFactor,High intraocular pressure
+RF:MYOPIA,RiskFactor,Myopia
+DB00945,Medicine,Aspirin
+DB00437,Medicine,Allopurinol
+DB00641,Medicine,Simvastatin
+DB00571,Medicine,Propranolol
+DB00564,Medicine,Carbamazepine
+DB00503,Medicine,Ritonavir
+DB00252,Medicine,Phenytoin
+DB00563,Medicine,Methotrexate
+DB01136,Medicine,Carvedilol
+DB00390,Medicine,Digoxin
+DB01033,Medicine,Mercaptopurine
+DB00999,Medicine,Hydrochlorothiazide

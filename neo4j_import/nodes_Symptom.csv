@@ -1,0 +1,103 @@
+id,name
+HP:0000012,Urinary urgency
+HP:0000016,Incomplete bladder emptying
+HP:0000017,Nocturia
+HP:0000019,Urinary hesitancy
+HP:0000103,Excessive urination
+HP:0000132,Menorrhagia
+HP:0000458,Loss of smell
+HP:0000613,Photophobia
+HP:0000622,Blurred vision
+HP:0000741,Apathy
+HP:0000789,Infertility
+HP:0000790,Hematuria
+HP:0000858,Irregular menstruation
+HP:0000958,Dry skin
+HP:0000964,Eczema
+HP:0000980,Pallor
+HP:0000988,Skin rash
+HP:0000989,Itching
+HP:0001007,Hirsutism
+HP:0001058,Poor wound healing
+HP:0001061,Acne
+HP:0001123,Loss of side vision
+HP:0001250,Seizure
+HP:0001289,Confusion
+HP:0001324,Muscle weakness
+HP:0001376,Limitation of joint mobility
+HP:0001386,Joint swelling
+HP:0001387,Joint stiffness
+HP:0001681,Angina (chest pain on exertion)
+HP:0001742,Nasal congestion
+HP:0001803,Nail pits
+HP:0001824,Weight loss
+HP:0001854,Big toe joint pain (podagra)
+HP:0001945,Fever
+HP:0001959,Excessive thirst
+HP:0001962,Palpitations
+HP:0002013,Vomiting
+HP:0002014,Diarrhea
+HP:0002015,Dysphagia
+HP:0002018,Nausea
+HP:0002019,Constipation
+HP:0002020,Heartburn
+HP:0002027,Abdominal pain
+HP:0002039,Loss of appetite
+HP:0002063,Rigidity
+HP:0002067,Bradykinesia
+HP:0002094,Shortness of breath
+HP:0002172,Postural instability
+HP:0002183,Phonophobia
+HP:0002249,Black stools
+HP:0002315,Headache
+HP:0002321,Dizziness
+HP:0002322,Resting tremor
+HP:0002354,Memory impairment
+HP:0002362,Shuffling gait
+HP:0002463,Language impairment
+HP:0002591,Excessive hunger
+HP:0002653,Bone pain
+HP:0002659,Easy fractures
+HP:0002808,Kyphosis
+HP:0002829,Joint pain
+HP:0002875,Shortness of breath on exertion
+HP:0003270,Bloating
+HP:0003326,Myalgia
+HP:0003394,Muscle spasm
+HP:0003418,Back pain
+HP:0004324,Weight gain
+HP:0007185,Loss of consciousness
+HP:0009926,Watery eyes
+HP:0010783,Skin redness
+HP:0011856,Craving non-food items (pica)
+HP:0012378,Fatigue
+HP:0012398,Peripheral edema
+HP:0012735,Cough
+HP:0012764,Breathlessness when lying down
+HP:0025095,Sneezing
+HP:0025143,Chills
+HP:0025249,Blackheads/whiteheads
+HP:0025267,Snoring
+HP:0025289,Swollen neck lymph nodes
+HP:0030016,Dyspareunia
+HP:0030828,Wheezing
+HP:0030833,Neck pain
+HP:0031245,Productive cough
+HP:0031352,Chest tightness
+HP:0031417,Runny nose
+HP:0032043,Painful swallowing
+HP:0033050,Sore throat
+HP:0033841,Itchy eyes
+HP:0034267,Pelvic pain
+HP:0040189,Scaling skin
+HP:0100515,Frequent urination
+HP:0100518,Painful urination
+HP:0100520,Decreased urine output
+HP:0100607,Dysmenorrhea
+HP:0100725,Lichenification
+HP:0100749,Chest pain
+HP:0200026,Eye pain
+HP:0200034,Papule
+HP:0200039,Pustule
+HP:0410019,Upper abdominal pain
+HP:6000855,Cold intolerance

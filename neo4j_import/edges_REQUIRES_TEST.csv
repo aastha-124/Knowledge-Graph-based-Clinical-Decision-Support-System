@@ -1,0 +1,196 @@
+source_id,target_id,data_source,loinc_code,purpose
+MONDO:0005071,LOINC:51990-0,WHO/CDC/NIH clinical guidelines,51990-0,Assess kidney function and electrolytes
+MONDO:0005071,LOINC:2160-0,WHO/CDC/NIH clinical guidelines,2160-0,Kidney function baseline
+MONDO:0005071,LOINC:24356-8,WHO/CDC/NIH clinical guidelines,24356-8,Detect proteinuria
+MONDO:0005071,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Cardiovascular risk assessment
+MONDO:0005071,LOINC:1558-6,WHO/CDC/NIH clinical guidelines,1558-6,Screen for diabetes comorbidity
+MONDO:0005071,LOINC:2823-3,WHO/CDC/NIH clinical guidelines,2823-3,Electrolyte monitoring
+MONDO:0005311,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Diagnostic and monitoring
+MONDO:0005311,LOINC:2093-3,WHO/CDC/NIH clinical guidelines,2093-3,Primary diagnostic marker
+MONDO:0005311,LOINC:13457-7,WHO/CDC/NIH clinical guidelines,13457-7,Cardiovascular risk stratification
+MONDO:0005311,LOINC:2085-9,WHO/CDC/NIH clinical guidelines,2085-9,Protective factor assessment
+MONDO:0005311,LOINC:2571-8,WHO/CDC/NIH clinical guidelines,2571-8,Lipid subtype evaluation
+MONDO:0005311,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out secondary cause
+MONDO:0005010,LOINC:10839-9,WHO/CDC/NIH clinical guidelines,10839-9,Myocardial injury marker
+MONDO:0005010,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Risk factor assessment
+MONDO:0005010,LOINC:30934-4,WHO/CDC/NIH clinical guidelines,30934-4,Heart failure screening
+MONDO:0005010,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Baseline hematology
+MONDO:0005010,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammatory marker
+MONDO:0005010,LOINC:4548-4,WHO/CDC/NIH clinical guidelines,4548-4,Diabetes screening
+MONDO:0005252,LOINC:30934-4,WHO/CDC/NIH clinical guidelines,30934-4,Diagnostic and severity marker
+MONDO:0005252,LOINC:33762-6,WHO/CDC/NIH clinical guidelines,33762-6,Diagnostic biomarker
+MONDO:0005252,LOINC:51990-0,WHO/CDC/NIH clinical guidelines,51990-0,Renal and electrolyte status
+MONDO:0005252,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Rule out anemia
+MONDO:0005252,LOINC:10839-9,WHO/CDC/NIH clinical guidelines,10839-9,Myocardial injury assessment
+MONDO:0005252,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out thyroid cause
+MONDO:0004981,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out hyperthyroidism
+MONDO:0004981,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Baseline assessment
+MONDO:0004981,LOINC:51990-0,WHO/CDC/NIH clinical guidelines,51990-0,Electrolyte assessment
+MONDO:0004981,LOINC:5902-2,WHO/CDC/NIH clinical guidelines,5902-2,Anticoagulation monitoring
+MONDO:0004981,LOINC:30934-4,WHO/CDC/NIH clinical guidelines,30934-4,Heart failure screening
+MONDO:0005148,LOINC:4548-4,WHO/CDC/NIH clinical guidelines,4548-4,Diagnostic and monitoring
+MONDO:0005148,LOINC:1558-6,WHO/CDC/NIH clinical guidelines,1558-6,Diagnostic screening
+MONDO:0005148,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Cardiovascular risk
+MONDO:0005148,LOINC:2160-0,WHO/CDC/NIH clinical guidelines,2160-0,Nephropathy screening
+MONDO:0005148,LOINC:24356-8,WHO/CDC/NIH clinical guidelines,24356-8,Microalbuminuria screening
+MONDO:0005148,LOINC:24323-8,WHO/CDC/NIH clinical guidelines,24323-8,Overall metabolic status
+MONDO:0004784,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Primary diagnostic test
+MONDO:0004784,LOINC:3024-7,WHO/CDC/NIH clinical guidelines,3024-7,Thyroid hormone level
+MONDO:0004784,LOINC:3051-0,WHO/CDC/NIH clinical guidelines,3051-0,Thyroid hormone level
+MONDO:0004784,LOINC:5382-7,WHO/CDC/NIH clinical guidelines,5382-7,Autoimmune thyroiditis
+MONDO:0004784,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Secondary hyperlipidemia check
+MONDO:0011122,LOINC:1558-6,WHO/CDC/NIH clinical guidelines,1558-6,Diabetes screening
+MONDO:0011122,LOINC:4548-4,WHO/CDC/NIH clinical guidelines,4548-4,Prediabetes/diabetes screening
+MONDO:0011122,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Cardiovascular risk
+MONDO:0011122,LOINC:24325-3,WHO/CDC/NIH clinical guidelines,24325-3,NAFLD screening
+MONDO:0011122,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out thyroid cause
+MONDO:0005300,LOINC:1989-3,WHO/CDC/NIH clinical guidelines,1989-3,Primary diagnostic test
+MONDO:0005300,LOINC:17861-6,WHO/CDC/NIH clinical guidelines,17861-6,Calcium homeostasis
+MONDO:0005300,LOINC:2777-1,WHO/CDC/NIH clinical guidelines,2777-1,Phosphorus homeostasis
+MONDO:0005300,LOINC:2731-8,WHO/CDC/NIH clinical guidelines,2731-8,Secondary hyperparathyroidism
+MONDO:0005300,LOINC:6768-6,WHO/CDC/NIH clinical guidelines,6768-6,Bone metabolism marker
+MONDO:0005812,LOINC:3084-1,WHO/CDC/NIH clinical guidelines,3084-1,Primary diagnostic marker
+MONDO:0005812,LOINC:2160-0,WHO/CDC/NIH clinical guidelines,2160-0,Renal function assessment
+MONDO:0005812,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammatory marker
+MONDO:0005812,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Infection rule-out
+MONDO:0005812,LOINC:4537-7,WHO/CDC/NIH clinical guidelines,4537-7,Inflammation assessment
+MONDO:0004979,LOINC:57021-8,WHO/CDC/NIH clinical guidelines,57021-8,Eosinophil count
+MONDO:0004979,LOINC:19113-0,WHO/CDC/NIH clinical guidelines,19113-0,Allergic component assessment
+MONDO:0004979,LOINC:24336-0,WHO/CDC/NIH clinical guidelines,24336-0,Severe exacerbation assessment
+MONDO:0005002,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Polycythemia screening
+MONDO:0005002,LOINC:24336-0,WHO/CDC/NIH clinical guidelines,24336-0,Gas exchange assessment
+MONDO:0005002,LOINC:1825-9,WHO/CDC/NIH clinical guidelines,1825-9,Genetic cause screening
+MONDO:0005002,LOINC:51990-0,WHO/CDC/NIH clinical guidelines,51990-0,Electrolyte monitoring
+MONDO:0005373,LOINC:19113-0,WHO/CDC/NIH clinical guidelines,19113-0,Allergic status assessment
+MONDO:0005373,LOINC:57021-8,WHO/CDC/NIH clinical guidelines,57021-8,Eosinophilia check
+MONDO:0005373,LOINC:21232-4,WHO/CDC/NIH clinical guidelines,21232-4,Specific allergen identification
+MONDO:0005240,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Viral vs bacterial differentiation
+MONDO:0005240,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammation severity
+MONDO:0005240,LOINC:31971-5,WHO/CDC/NIH clinical guidelines,31971-5,Streptococcal infection rule-out
+MONDO:0005697,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Infection assessment
+MONDO:0005697,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammation severity
+MONDO:0005697,LOINC:75241-0,WHO/CDC/NIH clinical guidelines,75241-0,Bacterial infection marker
+MONDO:0005249,LOINC:57021-8,WHO/CDC/NIH clinical guidelines,57021-8,Infection severity
+MONDO:0005249,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammatory marker
+MONDO:0005249,LOINC:75241-0,WHO/CDC/NIH clinical guidelines,75241-0,Bacterial vs viral differentiation
+MONDO:0005249,LOINC:600-7,WHO/CDC/NIH clinical guidelines,600-7,Pathogen identification
+MONDO:0005249,LOINC:24336-0,WHO/CDC/NIH clinical guidelines,24336-0,Respiratory compromise assessment
+MONDO:0005249,LOINC:51990-0,WHO/CDC/NIH clinical guidelines,51990-0,Organ function assessment
+MONDO:0005244,LOINC:24356-8,WHO/CDC/NIH clinical guidelines,24356-8,Primary diagnostic screening
+MONDO:0005244,LOINC:630-4,WHO/CDC/NIH clinical guidelines,630-4,Pathogen identification
+MONDO:0005244,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Systemic infection assessment
+MONDO:0005244,LOINC:2160-0,WHO/CDC/NIH clinical guidelines,2160-0,Kidney function
+MONDO:0005810,LOINC:80382-5,WHO/CDC/NIH clinical guidelines,80382-5,Rapid diagnosis
+MONDO:0005810,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Infection assessment
+MONDO:0005810,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammation marker
+MONDO:0100096,LOINC:94500-6,WHO/CDC/NIH clinical guidelines,94500-6,Confirmatory diagnostic test
+MONDO:0100096,LOINC:97097-0,WHO/CDC/NIH clinical guidelines,97097-0,Rapid diagnostic test
+MONDO:0100096,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Lymphopenia assessment
+MONDO:0100096,LOINC:48065-7,WHO/CDC/NIH clinical guidelines,48065-7,Coagulopathy screening
+MONDO:0100096,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammation severity
+MONDO:0100096,LOINC:2276-4,WHO/CDC/NIH clinical guidelines,2276-4,Cytokine storm marker
+MONDO:0000305,LOINC:31971-5,WHO/CDC/NIH clinical guidelines,31971-5,Group A strep detection
+MONDO:0000305,LOINC:626-2,WHO/CDC/NIH clinical guidelines,626-2,Pathogen identification
+MONDO:0000305,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Infection assessment
+MONDO:0005560,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Infection and dehydration assessment
+MONDO:0005560,LOINC:51990-0,WHO/CDC/NIH clinical guidelines,51990-0,Dehydration and electrolyte status
+MONDO:0005560,LOINC:625-4,WHO/CDC/NIH clinical guidelines,625-4,Bacterial pathogen identification
+MONDO:0005560,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammation severity
+MONDO:0007186,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Anemia screening from chronic bleeding
+MONDO:0007186,LOINC:5179-7,WHO/CDC/NIH clinical guidelines,5179-7,H. pylori co-infection
+MONDO:0005265,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Rule out organic disease
+MONDO:0005265,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Rule out inflammatory bowel disease
+MONDO:0005265,LOINC:56687-6,WHO/CDC/NIH clinical guidelines,56687-6,Distinguish from IBD
+MONDO:0005265,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out thyroid cause
+MONDO:0005265,LOINC:31017-7,WHO/CDC/NIH clinical guidelines,31017-7,Rule out celiac disease
+MONDO:0005114,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Anemia from GI bleeding
+MONDO:0005114,LOINC:5179-7,WHO/CDC/NIH clinical guidelines,5179-7,H. pylori detection
+MONDO:0005114,LOINC:2335-8,WHO/CDC/NIH clinical guidelines,2335-8,GI bleeding detection
+MONDO:0005114,LOINC:2930-2,WHO/CDC/NIH clinical guidelines,2930-2,Zollinger-Ellison rule-out
+MONDO:0005130,LOINC:31017-7,WHO/CDC/NIH clinical guidelines,31017-7,Primary serologic test
+MONDO:0005130,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Anemia assessment
+MONDO:0005130,LOINC:2498-4,WHO/CDC/NIH clinical guidelines,2498-4,Iron deficiency assessment
+MONDO:0004972,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Disease activity marker
+MONDO:0004972,LOINC:4537-7,WHO/CDC/NIH clinical guidelines,4537-7,Inflammation marker
+MONDO:0004972,LOINC:56687-6,WHO/CDC/NIH clinical guidelines,56687-6,Intestinal inflammation marker
+MONDO:0004972,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Anemia and infection assessment
+MONDO:0004972,LOINC:24323-8,WHO/CDC/NIH clinical guidelines,24323-8,Nutritional status
+MONDO:0004972,LOINC:1751-7,WHO/CDC/NIH clinical guidelines,1751-7,Nutritional and disease severity marker
+MONDO:0004651,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Rule out infection
+MONDO:0004651,LOINC:4537-7,WHO/CDC/NIH clinical guidelines,4537-7,Rule out inflammatory cause
+MONDO:0004651,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammatory marker
+MONDO:0005178,LOINC:4537-7,WHO/CDC/NIH clinical guidelines,4537-7,Rule out inflammatory arthritis
+MONDO:0005178,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Rule out inflammatory cause
+MONDO:0005178,LOINC:11572-5,WHO/CDC/NIH clinical guidelines,11572-5,Rule out RA
+MONDO:0005178,LOINC:3084-1,WHO/CDC/NIH clinical guidelines,3084-1,Rule out gout
+MONDO:0008383,LOINC:11572-5,WHO/CDC/NIH clinical guidelines,11572-5,Diagnostic marker
+MONDO:0008383,LOINC:53027-9,WHO/CDC/NIH clinical guidelines,53027-9,Specific diagnostic marker
+MONDO:0008383,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Disease activity
+MONDO:0008383,LOINC:4537-7,WHO/CDC/NIH clinical guidelines,4537-7,Inflammation monitoring
+MONDO:0008383,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Anemia of chronic disease
+MONDO:0008383,LOINC:8061-4,WHO/CDC/NIH clinical guidelines,8061-4,Autoimmune screening
+MONDO:0005206,LOINC:17861-6,WHO/CDC/NIH clinical guidelines,17861-6,Calcium metabolism
+MONDO:0005206,LOINC:1989-3,WHO/CDC/NIH clinical guidelines,1989-3,Vitamin D status
+MONDO:0005206,LOINC:6768-6,WHO/CDC/NIH clinical guidelines,6768-6,Bone turnover marker
+MONDO:0005206,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out hyperthyroidism
+MONDO:0005206,LOINC:2777-1,WHO/CDC/NIH clinical guidelines,2777-1,Mineral metabolism
+MONDO:0005206,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Rule out multiple myeloma
+MONDO:0005072,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Rule out secondary causes
+MONDO:0005072,LOINC:4537-7,WHO/CDC/NIH clinical guidelines,4537-7,Rule out temporal arteritis
+MONDO:0005072,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out thyroid cause
+MONDO:0021668,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Rule out anemia
+MONDO:0021668,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out thyroid dysfunction
+MONDO:0005027,LOINC:51990-0,WHO/CDC/NIH clinical guidelines,51990-0,Electrolyte abnormalities
+MONDO:0005027,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Baseline and drug monitoring
+MONDO:0005027,LOINC:24325-3,WHO/CDC/NIH clinical guidelines,24325-3,Antiepileptic drug monitoring
+MONDO:0005027,LOINC:17861-6,WHO/CDC/NIH clinical guidelines,17861-6,Hypocalcemia-induced seizures
+MONDO:0005027,LOINC:1558-6,WHO/CDC/NIH clinical guidelines,1558-6,Hypoglycemia-induced seizures
+MONDO:0004975,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out reversible cause
+MONDO:0004975,LOINC:2132-9,WHO/CDC/NIH clinical guidelines,2132-9,Rule out B12 deficiency dementia
+MONDO:0004975,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,General health assessment
+MONDO:0004975,LOINC:24323-8,WHO/CDC/NIH clinical guidelines,24323-8,Metabolic cause rule-out
+MONDO:0004975,LOINC:2284-8,WHO/CDC/NIH clinical guidelines,2284-8,Nutritional deficiency screening
+MONDO:0005180,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Baseline health assessment
+MONDO:0005180,LOINC:24323-8,WHO/CDC/NIH clinical guidelines,24323-8,Metabolic assessment
+MONDO:0005180,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out thyroid cause
+MONDO:0005180,LOINC:2062-3,WHO/CDC/NIH clinical guidelines,2062-3,Rule out Wilson disease
+MONDO:0004980,LOINC:19113-0,WHO/CDC/NIH clinical guidelines,19113-0,Atopic status assessment
+MONDO:0004980,LOINC:57021-8,WHO/CDC/NIH clinical guidelines,57021-8,Eosinophilia check
+MONDO:0004980,LOINC:21232-4,WHO/CDC/NIH clinical guidelines,21232-4,Trigger identification
+MONDO:0005093,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Systemic inflammation marker
+MONDO:0005093,LOINC:4537-7,WHO/CDC/NIH clinical guidelines,4537-7,Inflammation assessment
+MONDO:0005093,LOINC:24325-3,WHO/CDC/NIH clinical guidelines,24325-3,Methotrexate monitoring baseline
+MONDO:0005093,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Baseline for systemic therapy
+MONDO:0005093,LOINC:3084-1,WHO/CDC/NIH clinical guidelines,3084-1,Psoriatic arthritis association
+MONDO:0005342,LOINC:2986-8,WHO/CDC/NIH clinical guidelines,2986-8,Hormonal acne assessment
+MONDO:0005342,LOINC:2191-5,WHO/CDC/NIH clinical guidelines,2191-5,Adrenal androgen assessment
+MONDO:0005342,LOINC:24325-3,WHO/CDC/NIH clinical guidelines,24325-3,Isotretinoin monitoring
+MONDO:0005342,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Isotretinoin monitoring
+MONDO:0002115,LOINC:57021-8,WHO/CDC/NIH clinical guidelines,57021-8,Eosinophilia assessment
+MONDO:0002115,LOINC:19113-0,WHO/CDC/NIH clinical guidelines,19113-0,Allergic component assessment
+MONDO:0005308,LOINC:2160-0,WHO/CDC/NIH clinical guidelines,2160-0,GFR calculation
+MONDO:0005308,LOINC:3094-0,WHO/CDC/NIH clinical guidelines,3094-0,Renal function marker
+MONDO:0005308,LOINC:24356-8,WHO/CDC/NIH clinical guidelines,24356-8,Proteinuria assessment
+MONDO:0005308,LOINC:24323-8,WHO/CDC/NIH clinical guidelines,24323-8,Electrolyte and metabolic status
+MONDO:0005308,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Anemia of CKD
+MONDO:0005308,LOINC:2731-8,WHO/CDC/NIH clinical guidelines,2731-8,Mineral bone disease
+MONDO:0006659,LOINC:2857-1,WHO/CDC/NIH clinical guidelines,2857-1,Prostate cancer screening
+MONDO:0006659,LOINC:24356-8,WHO/CDC/NIH clinical guidelines,24356-8,UTI and hematuria screening
+MONDO:0006659,LOINC:2160-0,WHO/CDC/NIH clinical guidelines,2160-0,Obstructive nephropathy screening
+MONDO:0005273,LOINC:10334-1,WHO/CDC/NIH clinical guidelines,10334-1,Biomarker for advanced disease
+MONDO:0005273,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Anemia assessment
+MONDO:0005273,LOINC:1988-5,WHO/CDC/NIH clinical guidelines,1988-5,Inflammation marker
+MONDO:0005204,LOINC:2986-8,WHO/CDC/NIH clinical guidelines,2986-8,Hyperandrogenism assessment
+MONDO:0005204,LOINC:2191-5,WHO/CDC/NIH clinical guidelines,2191-5,Adrenal androgen source
+MONDO:0005204,LOINC:1558-6,WHO/CDC/NIH clinical guidelines,1558-6,Insulin resistance screening
+MONDO:0005204,LOINC:4548-4,WHO/CDC/NIH clinical guidelines,4548-4,Diabetes screening
+MONDO:0005204,LOINC:57698-3,WHO/CDC/NIH clinical guidelines,57698-3,Metabolic risk assessment
+MONDO:0005204,LOINC:3016-3,WHO/CDC/NIH clinical guidelines,3016-3,Rule out thyroid cause
+MONDO:0005204,LOINC:10501-5,WHO/CDC/NIH clinical guidelines,10501-5,LH:FSH ratio
+MONDO:0005315,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Primary diagnostic test
+MONDO:0005315,LOINC:2498-4,WHO/CDC/NIH clinical guidelines,2498-4,Iron status
+MONDO:0005315,LOINC:2276-4,WHO/CDC/NIH clinical guidelines,2276-4,Iron stores assessment
+MONDO:0005315,LOINC:2500-7,WHO/CDC/NIH clinical guidelines,2500-7,Iron binding assessment
+MONDO:0005315,LOINC:17849-1,WHO/CDC/NIH clinical guidelines,17849-1,Bone marrow response
+MONDO:0005165,LOINC:58410-2,WHO/CDC/NIH clinical guidelines,58410-2,Baseline health assessment
+MONDO:0005165,LOINC:1558-6,WHO/CDC/NIH clinical guidelines,1558-6,Diabetes comorbidity screening
